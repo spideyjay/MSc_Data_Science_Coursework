@@ -75,7 +75,7 @@ class GraduateStudent(Student):
         pass
 
     # method to check the student's GPA and return their academic standing.
-
+    
     @property
     def gpa(self):
         return self._gpa
