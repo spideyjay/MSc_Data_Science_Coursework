@@ -1,38 +1,58 @@
 # main.py
-from person import Person
-from student import Student, UndergraduateStudent, GraduateStudent
+from person import Person, Staff
+from student import Student, UndergraduateStudent, GraduateStudent, SecureStudentRecord
 from faculty import Faculty, Professor, Lecturer, TA
-from department import Department
 from course import Course
+from department import Department
 
-if __name__ == "__main__":
-    # Create instances of departments and courses
-    ds_dept = Department("Data Science")
-    ai_course = Course("Introduction to AI", "DSAI101", 3, 50)
-    prog_course = Course("Programming for DS", "DSPR202", 4, 40)
-    ds_dept.add_course(ai_course)
-    ds_dept.add_course(prog_course)
+# Create persons
+alice = UndergraduateStudent("Alice", "U001")
+bob = GraduateStudent("Bob", "G001")
+prof = Professor("Dr. Smith", "F001", "CS")
+lect = Lecturer("Ms. Lee", "F002", "Math")
+ta = TA("Tom", "F003", "CS")
+staff = Staff("Jane", "S001", "Admin")
 
-    # Create instances of different person types
-    student1 = UndergraduateStudent("Alice Johnson", "S1001", "alice.j@uni.edu")
-    student2 = GraduateStudent("Bob Smith", "S2001", "bob.s@uni.edu")
-    professor1 = Professor("Dr. Emily White", "F3001", "e.white@uni.edu")
+# Create courses
+cs101 = Course("CS101", "Intro to CS", capacity=2)
+cs201 = Course("CS201", "Data Structures", prerequisites=["CS101"])
+math101 = Course("MATH101", "Calculus")
 
-    # Demonstrate polymorphism
-    person_list = [student1, professor1]
-    for person in person_list:
-        print(f"{person.name}'s responsibilities: {person.get_responsibilities()}")
+# Create department
+cs_dept = Department("Computer Science")
+cs_dept.add_faculty(prof)
+cs_dept.add_faculty(lect)
+cs_dept.add_faculty(ta)
+cs_dept.add_course(cs101)
+cs_dept.add_course(cs201)
+cs_dept.add_course(math101)
+cs_dept.assign_faculty_to_course(prof, cs101)
+cs_dept.assign_faculty_to_course(lect, math101)
 
-    # Demonstrate course enrollment with validation
-    try:
-        student1.gpa = 3.7
-        print(f"{student1.name}'s GPA set to {student1.gpa}")
-        print(f"{student1.name}'s academic status: {student1.get_academic_status()}")
+# Assign students to department
+cs_dept.assign_student_to_department(alice)
+cs_dept.assign_student_to_department(bob)
 
-        # This will raise a ValueError
-        student1.gpa = 5.0
-    except ValueError as e:
-        print(f"Error: {e}")
+# Enroll students
+alice.enroll_course(cs101)
+alice.enroll_course(cs201)  # Should fail due to missing prerequisite
+bob.enroll_course(cs101)
+bob.enroll_course(math101)
 
-    student1.enroll_course(ai_course)
-    student1.enroll_course(prog_course)
+# Add grades and check GPA/status
+alice.add_grade("CS101", 4)
+alice.add_grade("CS101", 3)
+print("Alice GPA:", alice.calculate_gpa())
+print("Alice Status:", alice.get_academic_status())
+
+# Polymorphism demonstration
+people = [alice, bob, prof, lect, ta, staff]
+for person in people:
+    print(f"{person.get_name()} responsibilities: {person.get_responsibilities()}")
+
+# SecureStudentRecord example
+secure_student = SecureStudentRecord("Eve", "U999")
+secure_student.set_ssn("123456789")
+secure_student.set_gpa(3.5)
+print("Secure student SSN:", secure_student.get_ssn())
+print("Secure student GPA:", secure_student.get_gpa())

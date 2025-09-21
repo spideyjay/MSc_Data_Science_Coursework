@@ -1,28 +1,29 @@
 # university_system/department.py
 
-class Department:
-    """
-    A class to represent a university department.
-    """
-    def __init__(self, name):
-        self._name = name
-        self._faculty = []
-        self._courses = []
-
-# methods for managing faculty and courses
-
+from .faculty import Faculty
+from .course import Course
 
 class Department:
-    """
-    A class to represent a university department.
-    """
     def __init__(self, name):
-        self._name = name
-        self._faculty = []
-        self._courses = []
+        self.name = name
+        self.faculty_list = []
+        self.course_list = []
+        self.student_list = []
 
     def add_faculty(self, faculty):
-        self._faculty.append(faculty)
+        if isinstance(faculty, Faculty):
+            self.faculty_list.append(faculty)
 
     def add_course(self, course):
-        self._courses.append(course)
+        if isinstance(course, Course):
+            self.course_list.append(course)
+
+    def add_student(self, student):
+        self.student_list.append(student)
+
+    def assign_faculty_to_course(self, faculty, course):
+        if faculty in self.faculty_list and course in self.course_list:
+            course.assign_faculty(faculty)
+
+    def assign_student_to_department(self, student):
+        self.add_student(student)
