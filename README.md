@@ -94,3 +94,19 @@ The report will be a well-researched, professional-level document that provides 
 •	Ethical Framework: We will develop a practical ethical checklist for healthcare data scientists. This framework will be based on well-known principles like FAccT (Fairness, Accountability, and Transparency) and will discuss critical concepts like the "right to explanation" for AI-driven medical decisions.
 •	Stakeholder Analysis: The report will analyze the impact of healthcare AI on different stakeholders (patients, providers, researchers) and propose balanced solutions to address their needs.
 
+
+## 🟢 Project Status
+
+-   **Question 1: University Management System** - **Complete**.
+-   **Question 2: E-commerce Data Analysis** - In Progress.
+-   **Question 3: Ethics Report** - In Progress.
+
+### Question 1: University Management System
+
+The `main.py` script demonstrates the full functionality of the OOP-based system. It showcases:
+* **Inheritance:** Creation of a hierarchy from `Person` to `Student`, `Faculty`, and their respective subclasses.
+* **Polymorphism:** The `get_responsibilities()` method is called on a list of different object types, each returning a unique response.
+* **Encapsulation & Validation:** The GPA setter method is demonstrated, showing how invalid input is rejected.
+
+To run the script, use the following command from the `question1_university_system` directory:
+`python main.py`
