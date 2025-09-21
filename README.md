@@ -110,3 +110,32 @@ The `main.py` script demonstrates the full functionality of the OOP-based system
 
 To run the script, use the following command from the `question1_university_system` directory:
 `python main.py`
+
+
+## 🟢 Project Status
+
+-   **Question 1: University Management System** - **Complete**.
+-   **Question 2: E-commerce Data Analysis** - **Complete**.
+-   **Question 3: Ethics Report** - In Progress.
+
+
+
+### Question 2: E-commerce Data Analysis
+
+This component is a full data analysis pipeline that scrapes, cleans, analyzes, and visualizes data from an e-commerce website. The process is broken into four sequential steps, and each script must be run from its respective directory.
+
+**Step 1: Data Collection (Web Scraping)**
+To scrape the book data, navigate to the `question2_social_media_analysis\data_collection` directory and run:
+`python scraper.py`
+
+**Step 2: Data Cleaning and Preprocessing**
+To clean the data, navigate to the `question2_social_media_analysis\data_processing` directory and run:
+`python data_cleaner.py`
+
+**Step 3: Advanced Statistical and Predictive Analysis**
+To perform the statistical analysis and predictive modeling, navigate to the `question2_social_media_analysis\analysis` directory and run:
+`python analysis.py`
+
+**Step 4: Visualizations**
+To generate the plots, navigate to the `question2_social_media_analysis\visualizations` directory and run:
+`python visualizer.py`
