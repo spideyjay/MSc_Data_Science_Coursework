@@ -62,3 +62,51 @@ def perform_analysis():
 
 if __name__ == "__main__":
     perform_analysis()
+
+    
+
+## adding predictive analysis section
+
+
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import OneHotEncoder
+
+def perform_predictive_analysis(df):
+    """
+    Uses a simple linear regression model to predict price based on category.
+    """
+    print("\n--- Predictive Analysis ---")
+    
+    # Use one-hot encoding for the categorical 'category' feature
+    encoder = OneHotEncoder(handle_unknown='ignore')
+    category_encoded = encoder.fit_transform(df[['category']]).toarray()
+    
+    # Create a DataFrame from the encoded categories
+    category_df = pd.DataFrame(category_encoded, columns=encoder.get_feature_names_out(['category']))
+    
+    # Prepare the feature matrix (X) and target vector (y)
+    X = category_df
+    y = df['price']
+    
+    # Split the data into training and testing sets
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    
+    # Create and train the model
+    model = LinearRegression()
+    model.fit(X_train, y_train)
+    
+    # Evaluate the model
+    score = model.score(X_test, y_test)
+    print(f"Model R-squared score: {score:.2f}")
+
+    # Display coefficients to show the price pattern for each category
+    print("\nModel Coefficients (Impact on Price):")
+    coefficients = pd.DataFrame(model.coef_, X.columns, columns=['Coefficient'])
+    print(coefficients.sort_values(by='Coefficient', ascending=False).head(10))
+
+# Modify the main script to call this new function
+if __name__ == "__main__":
+    df = perform_analysis()
+    if df is not None:
+        perform_predictive_analysis(df)
