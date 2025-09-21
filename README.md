@@ -125,17 +125,17 @@ To run the script, use the following command from the `question1_university_syst
 This component is a full data analysis pipeline that scrapes, cleans, analyzes, and visualizes data from an e-commerce website. The process is broken into four sequential steps, and each script must be run from its respective directory.
 
 **Step 1: Data Collection (Web Scraping)**
-To scrape the book data, navigate to the `question2_social_media_analysis\data_collection` directory and run:
+The scraper has been enhanced to collect more data points, including book **rating** and **availability**. To run it, navigate to the `question2_social_media_analysis\data_collection` directory and run:
 `python scraper.py`
 
 **Step 2: Data Cleaning and Preprocessing**
-To clean the data, navigate to the `question2_social_media_analysis\data_processing` directory and run:
+This script now cleans and converts the new `rating` and `availability` columns. To run it, navigate to the `question2_social_media_analysis\data_processing` directory and run:
 `python data_cleaner.py`
 
 **Step 3: Advanced Statistical and Predictive Analysis**
-To perform the statistical analysis and predictive modeling, navigate to the `question2_social_media_analysis\analysis` directory and run:
+The analysis script now includes new statistical summaries for rating and a **predictive model** that uses both `category` and `rating` to predict price. To run it, navigate to the `question2_social_media_analysis\analysis` directory and run:
 `python analysis.py`
 
 **Step 4: Visualizations**
-To generate the plots, navigate to the `question2_social_media_analysis\visualizations` directory and run:
+New plots have been added to visualize the distribution of ratings and the relationship between rating and price. To generate the plots, navigate to the `question2_social_media_analysis\visualizations` directory and run:
 `python visualizer.py`
