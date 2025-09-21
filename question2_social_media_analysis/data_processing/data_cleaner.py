@@ -1,27 +1,33 @@
+# question2_social_media_analysis/data_processing/data_cleaner.py
 
 import pandas as pd
 import re
 import os
 
+def convert_rating(rating_text):
+    """Converts text ratings to numerical values."""
+    ratings = {
+        'One': 1, 'Two': 2, 'Three': 3,
+        'Four': 4, 'Five': 5
+    }
+    return ratings.get(rating_text, 0) # Returns 0 if not found
+
 def clean_data():
     """
     Reads the scraped book data, cleans it, and saves the cleaned data to a new CSV.
     """
-    # Define the file paths for input and output
     current_dir = os.path.dirname(os.path.abspath(__file__))
     input_file_path = os.path.join(current_dir, '..', 'data_collection', 'scraped_books.csv')
     output_file_path = os.path.join(current_dir, 'cleaned_books.csv')
 
     print(f"Reading data from {input_file_path}...")
 
-    # Load the data into a pandas DataFrame
     try:
         df = pd.read_csv(input_file_path)
     except FileNotFoundError:
         print(f"Error: The file '{input_file_path}' was not found.")
         return
 
-    # Data Cleaning and Preprocessing
     print("Cleaning and preprocessing data...")
 
     # Handle duplicates
@@ -30,19 +36,17 @@ def clean_data():
     duplicates_removed = initial_count - len(df)
     print(f"Removed {duplicates_removed} duplicate rows.")
 
-    # Convert price column to a numeric format
-    # The scraping script already handled this, but this is a good practice for real-world data
+    # Clean the price column
     df['price'] = pd.to_numeric(df['price'], errors='coerce')
+    
+    # Clean and convert the rating column
+    df['rating'] = df['rating'].apply(convert_rating)
     
     # Handle missing data
     missing_data_count = df.isnull().sum().sum()
     if missing_data_count > 0:
         print(f"Handling {missing_data_count} missing values by dropping rows.")
         df.dropna(inplace=True)
-
-    # Clean up the title column (remove special characters, extra spaces)
-    df['title'] = df['title'].str.strip()
-    # Optional: You can add more complex text preprocessing here if needed for analysis.
 
     print("Data cleaning complete.")
     
