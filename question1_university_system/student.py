@@ -90,3 +90,19 @@ class GraduateStudent(Student):
             return "Good Standing"
         else:
             return "Probation"
+        
+    # question1_university_system/student.py
+
+class Student(Person):
+    ... # Keeping existing __init__ and other methods
+
+    @property
+    def gpa(self):
+        return self._gpa
+
+    @gpa.setter
+    def gpa(self, value):
+        if 0.0 <= value <= 4.0:
+            self._gpa = value
+        else:
+            raise ValueError("GPA must be between 0.0 and 4.0")

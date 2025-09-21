@@ -14,3 +14,20 @@ class Person:
         Base method to be overridden by subclasses.
         """
         return "No specific responsibilities defined."
+    
+
+
+class Person:
+    # Keeping existing __init__ method
+
+    @property
+    def name(self):
+        return self._name
+
+    @property
+    def id_number(self):
+        return self._id_number
+
+    @property
+    def email(self):
+        return self._email
