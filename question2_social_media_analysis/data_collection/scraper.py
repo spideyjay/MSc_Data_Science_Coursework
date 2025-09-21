@@ -67,7 +67,7 @@ def scrape_books():
         page_num += 1
 
     # Save the data to a CSV file
-    csv_file = 'scraped_books_new.csv'
+    csv_file = 'scraped_books.csv'
     with open(csv_file, 'w', newline='', encoding='utf-8') as f:
         fieldnames = ['title', 'price', 'category', 'rating', 'availability']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
