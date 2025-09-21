@@ -1,6 +1,6 @@
 # university_system/student.py
 
-from .person import Person # The dot means 'from the current directory'
+from person import Person # The dot means 'from the current directory'
 
 class Student(Person):
     """
@@ -66,8 +66,8 @@ class GraduateStudent(Student):
 
 # Encapsulation with validation
 class SecureStudentRecord(Student):
-    def __init__(self, name, id_number):
-        super().__init__(name, id_number)
+    def __init__(self, name, id_number, email):
+        super().__init__(name, id_number, email)
         self.__ssn = None  # private attribute
 
     def set_ssn(self, ssn):

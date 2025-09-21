@@ -1,6 +1,6 @@
 # university_system/faculty.py
 
-from .person import Person
+from person import Person
 
 class Faculty(Person):
     """

@@ -6,12 +6,12 @@ from course import Course
 from department import Department
 
 # Create persons
-alice = UndergraduateStudent("Alice", "U001")
-bob = GraduateStudent("Bob", "G001")
-prof = Professor("Dr. Smith", "F001", "CS")
-lect = Lecturer("Ms. Lee", "F002", "Math")
-ta = TA("Tom", "F003", "CS")
-staff = Staff("Jane", "S001", "Admin")
+alice = UndergraduateStudent("Alice", "U001", "alice@email.com")
+bob = GraduateStudent("Bob", "G001", "bob@email.com")
+prof = Professor("Dr. Smith", "F001", "smith@email.com", "CS")
+lect = Lecturer("Ms. Lee", "F002", "lee@email.com", "Math")
+ta = TA("Tom", "F003", "tom@email.com", "CS")
+staff = Staff("Jane", "S001", "jane@email.com", "Admin")
 
 # Create courses
 cs101 = Course("CS101", "Intro to CS", capacity=2)
@@ -51,7 +51,7 @@ for person in people:
     print(f"{person.get_name()} responsibilities: {person.get_responsibilities()}")
 
 # SecureStudentRecord example
-secure_student = SecureStudentRecord("Eve", "U999")
+secure_student = SecureStudentRecord("Eve", "U999", "eve@email.com")
 secure_student.set_ssn("123456789")
 secure_student.set_gpa(3.5)
 print("Secure student SSN:", secure_student.get_ssn())

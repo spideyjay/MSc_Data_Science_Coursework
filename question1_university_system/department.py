@@ -1,7 +1,7 @@
 # university_system/department.py
 
-from .faculty import Faculty
-from .course import Course
+from faculty import Faculty
+from course import Course
 
 class Department:
     def __init__(self, name):
