@@ -1,3 +1,4 @@
+# question2_social_media_analysis/visualizations/visualizer.py
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -8,7 +9,6 @@ def create_visualizations():
     """
     Creates and saves various plots from the cleaned book data.
     """
-    # Define the file path for the input file
     current_dir = os.path.dirname(os.path.abspath(__file__))
     input_file_path = os.path.join(current_dir, '..', 'data_processing', 'cleaned_books.csv')
 
@@ -20,7 +20,6 @@ def create_visualizations():
         print(f"Error: The file '{input_file_path}' was not found.")
         return
 
-    # Set the style for the plots
     sns.set_style("whitegrid")
     
     # --- Plot 1: Price Distribution Histogram ---
@@ -32,8 +31,18 @@ def create_visualizations():
     plt.savefig('price_distribution_histogram.png')
     plt.close()
     print("Saved 'price_distribution_histogram.png'")
+    
+    # --- Plot 2: Rating Distribution Bar Chart ---
+    plt.figure(figsize=(8, 6))
+    sns.countplot(x='rating', data=df, palette='viridis')
+    plt.title('Distribution of Book Ratings')
+    plt.xlabel('Rating (1-5)')
+    plt.ylabel('Number of Books')
+    plt.savefig('rating_distribution_barchart.png')
+    plt.close()
+    print("Saved 'rating_distribution_barchart.png'")
 
-    # --- Plot 2: Box Plot of Prices by Category ---
+    # --- Plot 3: Box Plot of Prices by Category ---
     plt.figure(figsize=(15, 8))
     sns.boxplot(x='category', y='price', data=df)
     plt.title('Price Distribution by Category')
@@ -45,7 +54,17 @@ def create_visualizations():
     plt.close()
     print("Saved 'price_by_category_boxplot.png'")
 
-    # --- Plot 3: Category Popularity Bar Chart ---
+    # --- Plot 4: Price vs. Rating Scatter Plot ---
+    plt.figure(figsize=(10, 6))
+    sns.scatterplot(x='rating', y='price', data=df)
+    plt.title('Price vs. Rating')
+    plt.xlabel('Rating (1-5)')
+    plt.ylabel('Price ($)')
+    plt.savefig('price_vs_rating_scatter.png')
+    plt.close()
+    print("Saved 'price_vs_rating_scatter.png'")
+    
+    # --- Plot 5: Category Popularity Bar Chart ---
     plt.figure(figsize=(12, 7))
     category_counts = df['category'].value_counts().nlargest(10)
     sns.barplot(x=category_counts.index, y=category_counts.values, palette='viridis')
