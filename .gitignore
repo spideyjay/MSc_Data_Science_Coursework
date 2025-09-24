@@ -1,1 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
 venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (if they're large)
+*.csv
+*.json
+*.xlsx
+!question2_ecommerce_analysis/data/books_data.csv
+!question2_ecommerce_analysis/data/electronics_data.csv
+
+# Logs
+*.log
