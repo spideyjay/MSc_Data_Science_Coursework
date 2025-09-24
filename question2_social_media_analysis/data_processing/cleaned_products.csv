@@ -1,0 +1,1000 @@
+source,title,price,category,rating,availability,scraped_at,title_clean,availability_standardized,price_category,rating_category
+books_toscrape,A Light in the Attic,51.77,Poetry,3,In stock (22 available),2025-09-24 12:40:21.618064,a light in the attic,In Stock,Premium,Average
+books_toscrape,Tipping the Velvet,53.74,Historical Fiction,1,In stock (20 available),2025-09-24 12:40:22.173733,tipping the velvet,In Stock,Premium,Very Poor
+books_toscrape,Soumission,50.1,Fiction,1,In stock (20 available),2025-09-24 12:40:22.972085,soumission,In Stock,Premium,Very Poor
+books_toscrape,Sharp Objects,47.82,Mystery,4,In stock (20 available),2025-09-24 12:40:23.778021,sharp objects,In Stock,Mid-range,Good
+books_toscrape,Sapiens: A Brief History of Humankind,54.23,History,5,In stock (20 available),2025-09-24 12:40:24.625300,sapiens a brief history of humankind,In Stock,Premium,Excellent
+books_toscrape,The Requiem Red,22.65,Young Adult,1,In stock (19 available),2025-09-24 12:40:25.494524,the requiem red,In Stock,Affordable,Very Poor
+books_toscrape,The Dirty Little Secrets of Getting Your Dream Job,33.34,Business,4,In stock (19 available),2025-09-24 12:40:26.347193,the dirty little secrets of getting your dream job,In Stock,Mid-range,Good
+books_toscrape,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,Default,3,In stock (19 available),2025-09-24 12:40:27.217091,"the coming woman a novel based on the life of the infamous feminist, victoria woodhull",In Stock,Affordable,Average
+books_toscrape,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,Default,4,In stock (19 available),2025-09-24 12:40:28.031180,the boys in the boat nine americans and their epic quest for gold at the 1936 berlin olympics,In Stock,Affordable,Good
+books_toscrape,The Black Maria,52.15,Poetry,1,In stock (19 available),2025-09-24 12:40:29.818290,the black maria,In Stock,Premium,Very Poor
+books_toscrape,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,Default,2,In stock (19 available),2025-09-24 12:40:30.628763,"starving hearts triangular trade trilogy, 1",In Stock,Affordable,Poor
+books_toscrape,Shakespeare's Sonnets,20.66,Poetry,4,In stock (19 available),2025-09-24 12:40:31.422880,shakespeares sonnets,In Stock,Affordable,Good
+books_toscrape,Set Me Free,17.46,Young Adult,5,In stock (19 available),2025-09-24 12:40:32.214482,set me free,In Stock,Affordable,Excellent
+books_toscrape,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,Sequential Art,5,In stock (19 available),2025-09-24 12:40:33.006347,scott pilgrims precious little life scott pilgrim 1,In Stock,Premium,Excellent
+books_toscrape,Rip it Up and Start Again,35.02,Music,5,In stock (19 available),2025-09-24 12:40:33.787318,rip it up and start again,In Stock,Mid-range,Excellent
+books_toscrape,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,Music,3,In stock (19 available),2025-09-24 12:40:34.585491,"our band could be your life scenes from the american indie underground, 19811991",In Stock,Premium,Average
+books_toscrape,Olio,23.88,Poetry,1,In stock (19 available),2025-09-24 12:40:35.570419,olio,In Stock,Affordable,Very Poor
+books_toscrape,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,Science Fiction,1,In stock (19 available),2025-09-24 12:40:36.441476,mesaerion the best science fiction stories 18001849,In Stock,Mid-range,Very Poor
+books_toscrape,Libertarianism for Beginners,51.33,Politics,2,In stock (19 available),2025-09-24 12:40:37.235741,libertarianism for beginners,In Stock,Premium,Poor
+books_toscrape,It's Only the Himalayas,45.17,Travel,2,In stock (19 available),2025-09-24 12:40:38.110089,its only the himalayas,In Stock,Mid-range,Poor
+books_toscrape,In Her Wake,12.84,Thriller,1,In stock (19 available),2025-09-24 12:40:40.996201,in her wake,In Stock,Affordable,Very Poor
+books_toscrape,How Music Works,37.32,Music,2,In stock (19 available),2025-09-24 12:40:41.783232,how music works,In Stock,Mid-range,Poor
+books_toscrape,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,Food and Drink,3,In stock (19 available),2025-09-24 12:40:42.578770,"foolproof preserving a guide to small batch jams, jellies, pickles, condiments, and more a foolproof guide to making small batch jams, jellies, pickles, condiments, and more",In Stock,Mid-range,Average
+books_toscrape,Chase Me (Paris Nights #2),25.27,Romance,5,In stock (19 available),2025-09-24 12:40:43.382326,chase me paris nights 2,In Stock,Mid-range,Excellent
+books_toscrape,Black Dust,34.53,Romance,5,In stock (19 available),2025-09-24 12:40:44.189994,black dust,In Stock,Mid-range,Excellent
+books_toscrape,Birdsong: A Story in Pictures,54.64,Childrens,3,In stock (19 available),2025-09-24 12:40:44.993784,birdsong a story in pictures,In Stock,Premium,Average
+books_toscrape,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.5,Default,3,In stock (19 available),2025-09-24 12:40:45.776539,americas cradle of quarterbacks western pennsylvanias football factory from johnny unitas to joe montana,In Stock,Affordable,Average
+books_toscrape,Aladdin and His Wonderful Lamp,53.13,Default,3,In stock (19 available),2025-09-24 12:40:46.561538,aladdin and his wonderful lamp,In Stock,Premium,Average
+books_toscrape,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.3,Nonfiction,5,In stock (18 available),2025-09-24 12:40:47.362811,worlds elsewhere journeys around shakespeares globe,In Stock,Mid-range,Excellent
+books_toscrape,Wall and Piece,44.18,Art,4,In stock (18 available),2025-09-24 12:40:48.164623,wall and piece,In Stock,Mid-range,Good
+books_toscrape,The Four Agreements: A Practical Guide to Personal Freedom,17.66,Spirituality,5,In stock (18 available),2025-09-24 12:40:48.952611,the four agreements a practical guide to personal freedom,In Stock,Affordable,Excellent
+books_toscrape,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,Nonfiction,3,In stock (18 available),2025-09-24 12:40:49.754184,the five love languages how to express heartfelt commitment to your mate,In Stock,Mid-range,Average
+books_toscrape,The Elephant Tree,23.82,Thriller,5,In stock (18 available),2025-09-24 12:40:50.551232,the elephant tree,In Stock,Affordable,Excellent
+books_toscrape,The Bear and the Piano,36.89,Childrens,1,In stock (18 available),2025-09-24 12:40:51.427658,the bear and the piano,In Stock,Mid-range,Very Poor
+books_toscrape,Sophie's World,15.94,Philosophy,5,In stock (18 available),2025-09-24 12:40:52.354635,sophies world,In Stock,Affordable,Excellent
+books_toscrape,Penny Maybe,33.29,Default,3,In stock (18 available),2025-09-24 12:40:53.164474,penny maybe,In Stock,Mid-range,Average
+books_toscrape,Maude (1883-1993):She Grew Up with the country,18.02,Default,2,In stock (18 available),2025-09-24 12:40:53.967061,maude 18831993she grew up with the country,In Stock,Affordable,Poor
+books_toscrape,"In a Dark, Dark Wood",19.63,Mystery,1,In stock (18 available),2025-09-24 12:40:54.763753,"in a dark, dark wood",In Stock,Affordable,Very Poor
+books_toscrape,Behind Closed Doors,52.22,Thriller,4,In stock (18 available),2025-09-24 12:40:55.562696,behind closed doors,In Stock,Premium,Good
+books_toscrape,You can't bury them all: Poems,33.63,Poetry,2,In stock (17 available),2025-09-24 12:40:56.355831,you cant bury them all poems,In Stock,Mid-range,Poor
+books_toscrape,Slow States of Collapse: Poems,57.31,Poetry,3,In stock (17 available),2025-09-24 12:40:59.234103,slow states of collapse poems,In Stock,Premium,Average
+books_toscrape,Reasons to Stay Alive,26.41,Nonfiction,2,In stock (17 available),2025-09-24 12:41:01.321858,reasons to stay alive,In Stock,Mid-range,Poor
+books_toscrape,Private Paris (Private #10),47.61,Fiction,5,In stock (17 available),2025-09-24 12:41:02.178785,private paris private 10,In Stock,Mid-range,Excellent
+books_toscrape,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,Nonfiction,5,In stock (17 available),2025-09-24 12:41:03.062750,higherselfie wake up your life. free your soul. find your tribe.,In Stock,Affordable,Excellent
+books_toscrape,Without Borders (Wanderlove #1),45.07,New Adult,2,In stock (16 available),2025-09-24 12:41:03.932627,without borders wanderlove 1,In Stock,Mid-range,Poor
+books_toscrape,When We Collided,31.77,Contemporary,1,In stock (16 available),2025-09-24 12:41:04.798772,when we collided,In Stock,Mid-range,Very Poor
+books_toscrape,"We Love You, Charlie Freeman",50.27,Fiction,5,In stock (16 available),2025-09-24 12:41:05.603866,"we love you, charlie freeman",In Stock,Premium,Excellent
+books_toscrape,Untitled Collection: Sabbath Poems 2014,14.27,Poetry,4,In stock (16 available),2025-09-24 12:41:06.411754,untitled collection sabbath poems 2014,In Stock,Affordable,Good
+books_toscrape,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,Nonfiction,4,In stock (16 available),2025-09-24 12:41:07.214595,"unseen city the majesty of pigeons, the discreet charm of snails other wonders of the urban wilderness",In Stock,Mid-range,Good
+books_toscrape,Unicorn Tracks,18.78,Fantasy,3,In stock (16 available),2025-09-24 12:41:08.027776,unicorn tracks,In Stock,Affordable,Average
+books_toscrape,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,History,1,In stock (16 available),2025-09-24 12:41:09.840545,"unbound how eight technologies made us human, transformed society, and brought our world to the brink",In Stock,Mid-range,Very Poor
+books_toscrape,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,Sequential Art,1,In stock (16 available),2025-09-24 12:41:11.237352,tsubasa world chronicle 2 tsubasa world chronicle 2,In Stock,Affordable,Very Poor
+books_toscrape,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,Nonfiction,3,In stock (16 available),2025-09-24 12:41:12.090723,throwing rocks at the google bus how growth became the enemy of prosperity,In Stock,Mid-range,Average
+books_toscrape,This One Summer,19.49,Sequential Art,4,In stock (16 available),2025-09-24 12:41:12.920125,this one summer,In Stock,Affordable,Good
+books_toscrape,Thirst,17.27,Fiction,5,In stock (16 available),2025-09-24 12:41:13.707613,thirst,In Stock,Affordable,Excellent
+books_toscrape,The Torch Is Passed: A Harding Family Story,19.09,Add a comment,1,In stock (16 available),2025-09-24 12:41:14.511626,the torch is passed a harding family story,In Stock,Affordable,Very Poor
+books_toscrape,The Secret of Dreadwillow Carse,56.13,Childrens,1,In stock (16 available),2025-09-24 12:41:15.323154,the secret of dreadwillow carse,In Stock,Premium,Very Poor
+books_toscrape,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,Food and Drink,1,In stock (16 available),2025-09-24 12:41:16.150958,"the pioneer woman cooks dinnertime comfort classics, freezer food, 16minute meals, and other delicious ways to solve supper!",In Stock,Premium,Very Poor
+books_toscrape,The Past Never Ends,56.5,Mystery,4,In stock (16 available),2025-09-24 12:41:16.966750,the past never ends,In Stock,Premium,Good
+books_toscrape,The Natural History of Us (The Fine Art of Pretending #2),45.22,Young Adult,3,In stock (16 available),2025-09-24 12:41:17.768144,the natural history of us the fine art of pretending 2,In Stock,Mid-range,Average
+books_toscrape,The Nameless City (The Nameless City #1),38.16,Sequential Art,4,In stock (16 available),2025-09-24 12:41:20.663650,the nameless city the nameless city 1,In Stock,Mid-range,Good
+books_toscrape,The Murder That Never Was (Forensic Instincts #5),54.11,Fiction,3,In stock (16 available),2025-09-24 12:41:21.450549,the murder that never was forensic instincts 5,In Stock,Premium,Average
+books_toscrape,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,Science,4,In stock (16 available),2025-09-24 12:41:22.258108,the most perfect thing inside and outside a birds egg,In Stock,Mid-range,Good
+books_toscrape,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,Add a comment,4,In stock (16 available),2025-09-24 12:41:23.061342,"the mindfulness and acceptance workbook for anxiety a guide to breaking free from anxiety, phobias, and worry using acceptance and commitment therapy",In Stock,Affordable,Good
+books_toscrape,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,Nonfiction,3,In stock (16 available),2025-09-24 12:41:23.870358,the lifechanging magic of tidying up the japanese art of decluttering and organizing,In Stock,Affordable,Average
+books_toscrape,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,Default,5,In stock (16 available),2025-09-24 12:41:24.663148,"the inefficiency assassin time management tactics for working smarter, not longer",In Stock,Affordable,Excellent
+books_toscrape,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,Nonfiction,1,In stock (16 available),2025-09-24 12:41:25.454162,the gutsy girl escapades for your life of epic adventure,In Stock,Mid-range,Very Poor
+books_toscrape,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,Nonfiction,1,In stock (16 available),2025-09-24 12:41:26.247771,the electric pencil drawings from inside state hospital no. 3,In Stock,Premium,Very Poor
+books_toscrape,The Death of Humanity: and the Case for Life,58.11,Philosophy,4,In stock (16 available),2025-09-24 12:41:27.053303,the death of humanity and the case for life,In Stock,Premium,Good
+books_toscrape,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,Health,3,In stock (16 available),2025-09-24 12:41:27.847415,"the bulletproof diet lose up to a pound a day, reclaim energy and focus, upgrade your life",In Stock,Mid-range,Average
+books_toscrape,The Art Forger,40.76,Add a comment,3,In stock (16 available),2025-09-24 12:41:28.647326,the art forger,In Stock,Mid-range,Average
+books_toscrape,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,History,1,In stock (16 available),2025-09-24 12:41:29.459374,the age of genius the seventeenth century and the birth of the modern mind,In Stock,Affordable,Very Poor
+books_toscrape,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,Spirituality,5,In stock (16 available),2025-09-24 12:41:30.319991,the activists tao te ching ancient advice for a modern revolution,In Stock,Mid-range,Excellent
+books_toscrape,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,Nonfiction,4,In stock (16 available),2025-09-24 12:41:31.122410,spark joy an illustrated master class on the art of organizing and tidying up,In Stock,Mid-range,Good
+books_toscrape,Soul Reader,39.58,Default,2,In stock (16 available),2025-09-24 12:41:31.913679,soul reader,In Stock,Mid-range,Poor
+books_toscrape,Security,39.25,Horror,2,In stock (16 available),2025-09-24 12:41:32.729292,security,In Stock,Mid-range,Poor
+books_toscrape,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,Fantasy,3,In stock (16 available),2025-09-24 12:41:33.977485,"saga, volume 6 saga collected editions 6",In Stock,Mid-range,Average
+books_toscrape,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,Sequential Art,2,In stock (16 available),2025-09-24 12:41:34.789367,"saga, volume 5 saga collected editions 5",In Stock,Premium,Poor
+books_toscrape,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,Nonfiction,2,In stock (16 available),2025-09-24 12:41:35.606719,reskilling america learning to labor in the twentyfirst century,In Stock,Affordable,Poor
+books_toscrape,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.4,Sequential Art,3,In stock (16 available),2025-09-24 12:41:36.391387,"rat queens, vol. 3 demons rat queens collected editions 1115",In Stock,Premium,Average
+books_toscrape,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,Sequential Art,5,In stock (16 available),2025-09-24 12:41:39.361508,"princess jellyfish 2in1 omnibus, vol. 01 princess jellyfish 2in1 omnibus 1",In Stock,Affordable,Excellent
+books_toscrape,Princess Between Worlds (Wide-Awake Princess #5),13.34,Fantasy,5,In stock (16 available),2025-09-24 12:41:40.227809,princess between worlds wideawake princess 5,In Stock,Affordable,Excellent
+books_toscrape,"Pop Gun War, Volume 1: Gift",18.97,Sequential Art,1,In stock (16 available),2025-09-24 12:41:41.020420,"pop gun war, volume 1 gift",In Stock,Affordable,Very Poor
+books_toscrape,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,History,2,In stock (16 available),2025-09-24 12:41:42.830753,"political suicide missteps, peccadilloes, bad calls, backroom hijinx, sordid pasts, rotten breaks, and just plain dumb mistakes in the annals of american politics",In Stock,Mid-range,Poor
+books_toscrape,Patience,10.16,Sequential Art,3,In stock (16 available),2025-09-24 12:41:43.635627,patience,In Stock,Affordable,Average
+books_toscrape,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,Sequential Art,4,In stock (16 available),2025-09-24 12:41:44.435171,"outcast, vol. 1 a darkness surrounds him outcast 1",In Stock,Affordable,Good
+books_toscrape,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,Sequential Art,1,In stock (16 available),2025-09-24 12:41:45.246779,orange the complete collection 1 orange the complete collection 1,In Stock,Mid-range,Very Poor
+books_toscrape,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,Self Help,1,In stock (16 available),2025-09-24 12:41:46.037568,online marketing for busy authors a stepbystep guide,In Stock,Mid-range,Very Poor
+books_toscrape,On a Midnight Clear,14.07,Add a comment,3,In stock (16 available),2025-09-24 12:41:46.830557,on a midnight clear,In Stock,Affordable,Average
+books_toscrape,Obsidian (Lux #1),14.86,Young Adult,2,In stock (16 available),2025-09-24 12:41:49.006717,obsidian lux 1,In Stock,Affordable,Poor
+books_toscrape,My Paris Kitchen: Recipes and Stories,33.37,Food and Drink,2,In stock (16 available),2025-09-24 12:41:49.799734,my paris kitchen recipes and stories,In Stock,Mid-range,Poor
+books_toscrape,Masks and Shadows,56.4,Fantasy,2,In stock (16 available),2025-09-24 12:41:50.594681,masks and shadows,In Stock,Premium,Poor
+books_toscrape,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,Food and Drink,4,In stock (16 available),2025-09-24 12:41:51.556071,"mama tried traditional italian cooking for the screwed, crude, vegan, and tattooed",In Stock,Affordable,Good
+books_toscrape,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,Sequential Art,2,In stock (16 available),2025-09-24 12:41:52.353108,"lumberjanes, vol. 2 friendship to the max lumberjanes 58",In Stock,Mid-range,Poor
+books_toscrape,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,Sequential Art,3,In stock (16 available),2025-09-24 12:41:53.163220,"lumberjanes, vol. 1 beware the kitten holy lumberjanes 14",In Stock,Mid-range,Average
+books_toscrape,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,Sequential Art,2,In stock (16 available),2025-09-24 12:41:53.958269,lumberjanes vol. 3 a terrible plan lumberjanes 912,In Stock,Affordable,Poor
+books_toscrape,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,Food and Drink,1,In stock (16 available),2025-09-24 12:41:54.765058,"layered baking, building, and styling spectacular cakes",In Stock,Mid-range,Very Poor
+books_toscrape,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.9,Add a comment,2,In stock (16 available),2025-09-24 12:41:55.558746,judo seven steps to black belt an introductory guide for beginners,In Stock,Premium,Poor
+books_toscrape,Join,35.67,Science Fiction,5,In stock (16 available),2025-09-24 12:41:56.374812,join,In Stock,Mid-range,Excellent
+books_toscrape,In the Country We Love: My Family Divided,22.0,Nonfiction,4,In stock (16 available),2025-09-24 12:41:57.175933,in the country we love my family divided,In Stock,Affordable,Good
+books_toscrape,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,Science,5,In stock (16 available),2025-09-24 12:42:00.045096,immunity how elie metchnikoff changed the course of modern medicine,In Stock,Premium,Excellent
+books_toscrape,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,Sequential Art,2,In stock (16 available),2025-09-24 12:42:00.847863,"i hate fairyland, vol. 1 madly ever after i hate fairyland compilations 15",In Stock,Mid-range,Poor
+books_toscrape,I am a Hero Omnibus Volume 1,54.63,Sequential Art,3,In stock (16 available),2025-09-24 12:42:01.666651,i am a hero omnibus volume 1,In Stock,Premium,Average
+books_toscrape,How to Be Miserable: 40 Strategies You Already Use,46.03,Self Help,1,In stock (16 available),2025-09-24 12:42:02.585262,how to be miserable 40 strategies you already use,In Stock,Mid-range,Very Poor
+books_toscrape,Her Backup Boyfriend (The Sorensen Family #1),33.97,Romance,1,In stock (16 available),2025-09-24 12:42:03.430270,her backup boyfriend the sorensen family 1,In Stock,Mid-range,Very Poor
+books_toscrape,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,Sequential Art,2,In stock (16 available),2025-09-24 12:42:04.227688,"giant days, vol. 2 giant days 58",In Stock,Affordable,Poor
+books_toscrape,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,Historical Fiction,3,In stock (16 available),2025-09-24 12:42:05.041944,forever and forever the courtship of henry longfellow and fanny appleton,In Stock,Mid-range,Average
+books_toscrape,First and First (Five Boroughs #3),15.97,Romance,4,In stock (16 available),2025-09-24 12:42:05.965685,first and first five boroughs 3,In Stock,Affordable,Good
+books_toscrape,Fifty Shades Darker (Fifty Shades #2),21.96,Romance,1,In stock (16 available),2025-09-24 12:42:06.754787,fifty shades darker fifty shades 2,In Stock,Affordable,Very Poor
+books_toscrape,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,Nonfiction,2,In stock (16 available),2025-09-24 12:42:07.569082,everydata the misinformation hidden in the little data you consume every day,In Stock,Premium,Poor
+books_toscrape,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,Religion,2,In stock (16 available),2025-09-24 12:42:08.361021,"dont be a jerk and other practical advice from dogen, japans greatest zen master",In Stock,Mid-range,Poor
+books_toscrape,Danganronpa Volume 1,51.99,Sequential Art,4,In stock (16 available),2025-09-24 12:42:09.155602,danganronpa volume 1,In Stock,Premium,Good
+books_toscrape,Crown of Midnight (Throne of Glass #2),43.29,Fantasy,3,In stock (16 available),2025-09-24 12:42:09.937215,crown of midnight throne of glass 2,In Stock,Mid-range,Average
+books_toscrape,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,Sequential Art,4,In stock (16 available),2025-09-24 12:42:10.727234,"codename baboushka, volume 1 the conclave of death",In Stock,Mid-range,Good
+books_toscrape,Camp Midnight,17.08,Sequential Art,4,In stock (16 available),2025-09-24 12:42:11.519019,camp midnight,In Stock,Affordable,Good
+books_toscrape,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,Nonfiction,5,In stock (16 available),2025-09-24 12:42:12.314103,call the nurse true stories of a country nurse on a scottish isle,In Stock,Mid-range,Excellent
+books_toscrape,Burning,28.81,Young Adult,3,In stock (16 available),2025-09-24 12:42:13.105856,burning,In Stock,Mid-range,Average
+books_toscrape,Bossypants,49.46,Default,2,In stock (16 available),2025-09-24 12:42:13.935793,bossypants,In Stock,Mid-range,Poor
+books_toscrape,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,Sequential Art,2,In stock (16 available),2025-09-24 12:42:14.803796,"bitch planet, vol. 1 extraordinary machine bitch planet collected editions",In Stock,Mid-range,Poor
+books_toscrape,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,Fantasy,2,In stock (16 available),2025-09-24 12:42:15.611581,"avatar the last airbender smoke and shadow, part 3 smoke and shadow 3",In Stock,Mid-range,Poor
+books_toscrape,Algorithms to Live By: The Computer Science of Human Decisions,30.81,Nonfiction,1,In stock (16 available),2025-09-24 12:42:18.605534,algorithms to live by the computer science of human decisions,In Stock,Mid-range,Very Poor
+books_toscrape,A World of Flavor: Your Gluten Free Passport,42.95,Default,1,In stock (16 available),2025-09-24 12:42:19.552864,a world of flavor your gluten free passport,In Stock,Mid-range,Very Poor
+books_toscrape,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,Default,5,In stock (16 available),2025-09-24 12:42:20.380446,"a piece of sky, a grain of rice a memoir in four meditations",In Stock,Premium,Excellent
+books_toscrape,A Murder in Time,16.64,Mystery,1,In stock (16 available),2025-09-24 12:42:21.170932,a murder in time,In Stock,Affordable,Very Poor
+books_toscrape,A Flight of Arrows (The Pathfinders #2),55.53,Historical Fiction,5,In stock (16 available),2025-09-24 12:42:21.968179,a flight of arrows the pathfinders 2,In Stock,Premium,Excellent
+books_toscrape,A Fierce and Subtle Poison,28.13,Young Adult,4,In stock (16 available),2025-09-24 12:42:22.750710,a fierce and subtle poison,In Stock,Mid-range,Good
+books_toscrape,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,Fantasy,1,In stock (16 available),2025-09-24 12:42:23.558735,a court of thorns and roses a court of thorns and roses 1,In Stock,Premium,Very Poor
+books_toscrape,(Un)Qualified: How God Uses Broken People to Do Big Things,54.0,Christian,5,In stock (16 available),2025-09-24 12:42:24.364726,unqualified how god uses broken people to do big things,In Stock,Premium,Excellent
+books_toscrape,You Are What You Love: The Spiritual Power of Habit,21.87,Religion,4,In stock (15 available),2025-09-24 12:42:25.164112,you are what you love the spiritual power of habit,In Stock,Affordable,Good
+books_toscrape,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,Science Fiction,4,In stock (15 available),2025-09-24 12:42:26.033549,"william shakespeares star wars verily, a new hope william shakespeares star wars 4",In Stock,Mid-range,Good
+books_toscrape,Tuesday Nights in 1980,21.04,Fiction,2,In stock (15 available),2025-09-24 12:42:27.191775,tuesday nights in 1980,In Stock,Affordable,Poor
+books_toscrape,Tracing Numbers on a Train,41.6,Default,3,In stock (15 available),2025-09-24 12:42:28.020241,tracing numbers on a train,In Stock,Mid-range,Average
+books_toscrape,Throne of Glass (Throne of Glass #1),35.07,Fantasy,3,In stock (15 available),2025-09-24 12:42:28.819331,throne of glass throne of glass 1,In Stock,Mid-range,Average
+books_toscrape,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,History,1,In stock (15 available),2025-09-24 12:42:29.621277,thomas jefferson and the tripoli pirates the forgotten war that changed american history,In Stock,Premium,Very Poor
+books_toscrape,Thirteen Reasons Why,52.72,Default,1,In stock (15 available),2025-09-24 12:42:30.422147,thirteen reasons why,In Stock,Premium,Very Poor
+books_toscrape,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,58.08,Childrens,4,In stock (15 available),2025-09-24 12:42:31.243534,the white cat and the monk a retelling of the poem pangur bán,In Stock,Premium,Good
+books_toscrape,The Wedding Dress,24.12,Romance,1,In stock (15 available),2025-09-24 12:42:32.068109,the wedding dress,In Stock,Affordable,Very Poor
+books_toscrape,The Vacationers,42.15,Fiction,4,In stock (15 available),2025-09-24 12:42:32.882008,the vacationers,In Stock,Mid-range,Good
+books_toscrape,The Third Wave: An Entrepreneur’s Vision of the Future,12.61,Business,5,In stock (15 available),2025-09-24 12:42:33.686099,the third wave an entrepreneurs vision of the future,In Stock,Affordable,Excellent
+books_toscrape,The Stranger,17.44,Philosophy,4,In stock (15 available),2025-09-24 12:42:34.476859,the stranger,In Stock,Affordable,Good
+books_toscrape,The Shadow Hero (The Shadow Hero),33.14,Sequential Art,1,In stock (15 available),2025-09-24 12:42:37.352112,the shadow hero the shadow hero,In Stock,Mid-range,Very Poor
+books_toscrape,The Secret (The Secret #1),27.37,Default,4,In stock (15 available),2025-09-24 12:42:38.147196,the secret the secret 1,In Stock,Mid-range,Good
+books_toscrape,The Regional Office Is Under Attack!,51.36,Fiction,5,In stock (15 available),2025-09-24 12:42:38.934381,the regional office is under attack!,In Stock,Premium,Excellent
+books_toscrape,The Psychopath Test: A Journey Through the Madness Industry,36.0,Default,2,In stock (15 available),2025-09-24 12:42:39.735956,the psychopath test a journey through the madness industry,In Stock,Mid-range,Poor
+books_toscrape,The Project,10.65,Science Fiction,1,In stock (15 available),2025-09-24 12:42:40.595979,the project,In Stock,Affordable,Very Poor
+books_toscrape,The Power of Now: A Guide to Spiritual Enlightenment,43.54,Nonfiction,2,In stock (15 available),2025-09-24 12:42:41.470322,the power of now a guide to spiritual enlightenment,In Stock,Mid-range,Poor
+books_toscrape,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,Nonfiction,2,In stock (15 available),2025-09-24 12:42:42.305432,the omnivores dilemma a natural history of four meals,In Stock,Mid-range,Poor
+books_toscrape,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,Food and Drink,5,In stock (15 available),2025-09-24 12:42:43.117005,the nerdy nummies cookbook sweet treats for the geek in all of us,In Stock,Mid-range,Excellent
+books_toscrape,The Murder of Roger Ackroyd (Hercule Poirot #4),44.1,Mystery,4,In stock (15 available),2025-09-24 12:42:43.910873,the murder of roger ackroyd hercule poirot 4,In Stock,Mid-range,Good
+books_toscrape,The Mistake (Off-Campus #2),43.29,New Adult,3,In stock (15 available),2025-09-24 12:42:44.725478,the mistake offcampus 2,In Stock,Mid-range,Average
+books_toscrape,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,New Adult,1,In stock (15 available),2025-09-24 12:42:45.519610,the matchmakers playbook wingmen inc. 1,In Stock,Premium,Very Poor
+books_toscrape,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.6,Food and Drink,2,In stock (15 available),2025-09-24 12:42:46.321229,the love and lemons cookbook an appletozucchini celebration of impromptu cooking,In Stock,Mid-range,Poor
+books_toscrape,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,Crime,1,In stock (15 available),2025-09-24 12:42:47.111235,the long shadow of small ghosts murder and memory in an american city,In Stock,Affordable,Very Poor
+books_toscrape,The Kite Runner,41.82,Default,4,In stock (15 available),2025-09-24 12:42:47.919571,the kite runner,In Stock,Mid-range,Good
+books_toscrape,The House by the Lake,36.95,Historical Fiction,1,In stock (15 available),2025-09-24 12:42:48.727584,the house by the lake,In Stock,Mid-range,Very Poor
+books_toscrape,The Glittering Court (The Glittering Court #1),44.28,Fantasy,1,In stock (15 available),2025-09-24 12:42:50.542697,the glittering court the glittering court 1,In Stock,Mid-range,Very Poor
+books_toscrape,The Girl on the Train,55.02,Default,2,In stock (15 available),2025-09-24 12:42:51.387831,the girl on the train,In Stock,Premium,Poor
+books_toscrape,The Genius of Birds,17.24,Nonfiction,1,In stock (15 available),2025-09-24 12:42:52.255157,the genius of birds,In Stock,Affordable,Very Poor
+books_toscrape,The Emerald Mystery,23.15,Default,2,In stock (15 available),2025-09-24 12:42:53.183999,the emerald mystery,In Stock,Affordable,Poor
+books_toscrape,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,Food and Drink,1,In stock (15 available),2025-09-24 12:42:54.003456,the cookies cups cookbook 125 sweet savory recipes reminding you to always eat dessert first,In Stock,Mid-range,Very Poor
+books_toscrape,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.0,Default,3,In stock (15 available),2025-09-24 12:42:57.114534,the bridge to consciousness im writing the bridge between science and our old and new beliefs.,In Stock,Mid-range,Average
+books_toscrape,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,Nonfiction,5,In stock (15 available),2025-09-24 12:42:57.981540,the artists way a spiritual path to higher creativity,In Stock,Mid-range,Excellent
+books_toscrape,The Art of War,33.34,Default,5,In stock (15 available),2025-09-24 12:42:58.785076,the art of war,In Stock,Mid-range,Excellent
+books_toscrape,The Argonauts,10.93,Autobiography,2,In stock (15 available),2025-09-24 12:42:59.588926,the argonauts,In Stock,Affordable,Poor
+books_toscrape,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,Business,3,In stock (15 available),2025-09-24 12:43:00.399264,the 10 entrepreneur live your startup dream without quitting your day job,In Stock,Mid-range,Average
+books_toscrape,Suddenly in Love (Lake Haven #1),55.99,Romance,2,In stock (15 available),2025-09-24 12:43:01.189718,suddenly in love lake haven 1,In Stock,Premium,Poor
+books_toscrape,Something More Than This,16.24,Romance,4,In stock (15 available),2025-09-24 12:43:01.993446,something more than this,In Stock,Affordable,Good
+books_toscrape,Soft Apocalypse,26.12,Science Fiction,2,In stock (15 available),2025-09-24 12:43:02.806348,soft apocalypse,In Stock,Mid-range,Poor
+books_toscrape,So You've Been Publicly Shamed,12.23,Nonfiction,2,In stock (15 available),2025-09-24 12:43:03.626979,so youve been publicly shamed,In Stock,Affordable,Poor
+books_toscrape,Shoe Dog: A Memoir by the Creator of NIKE,23.99,Business,2,In stock (15 available),2025-09-24 12:43:04.527423,shoe dog a memoir by the creator of nike,In Stock,Affordable,Poor
+books_toscrape,"Shobu Samurai, Project Aryoku (#3)",29.06,Add a comment,3,In stock (15 available),2025-09-24 12:43:05.433774,"shobu samurai, project aryoku 3",In Stock,Mid-range,Average
+books_toscrape,Secrets and Lace (Fatal Hearts #1),20.27,Default,1,In stock (15 available),2025-09-24 12:43:06.234088,secrets and lace fatal hearts 1,In Stock,Affordable,Very Poor
+books_toscrape,Scarlett Epstein Hates It Here,43.55,Young Adult,5,In stock (15 available),2025-09-24 12:43:07.123868,scarlett epstein hates it here,In Stock,Mid-range,Excellent
+books_toscrape,Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,Default,1,In stock (15 available),2025-09-24 12:43:07.947297,romero and juliet a tragic tale of love and zombies,In Stock,Mid-range,Very Poor
+books_toscrape,Redeeming Love,20.47,Christian Fiction,5,In stock (15 available),2025-09-24 12:43:08.743265,redeeming love,In Stock,Affordable,Excellent
+books_toscrape,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,Default,1,In stock (15 available),2025-09-24 12:43:09.547803,poses for artists volume 1 dynamic and sitting poses an essential reference for figure drawing and the human form,In Stock,Mid-range,Very Poor
+books_toscrape,Poems That Make Grown Women Cry,14.19,Poetry,4,In stock (15 available),2025-09-24 12:43:10.363734,poems that make grown women cry,In Stock,Affordable,Good
+books_toscrape,"Nightingale, Sing",38.28,Young Adult,1,In stock (15 available),2025-09-24 12:43:11.178009,"nightingale, sing",In Stock,Mid-range,Very Poor
+books_toscrape,Night Sky with Exit Wounds,41.05,Poetry,1,In stock (15 available),2025-09-24 12:43:11.970966,night sky with exit wounds,In Stock,Mid-range,Very Poor
+books_toscrape,Mrs. Houdini,30.25,Historical Fiction,5,In stock (15 available),2025-09-24 12:43:12.768006,mrs. houdini,In Stock,Mid-range,Excellent
+books_toscrape,Modern Romance,28.26,Add a comment,5,In stock (15 available),2025-09-24 12:43:17.740248,modern romance,In Stock,Mid-range,Excellent
+books_toscrape,Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),10.76,Default,1,In stock (15 available),2025-09-24 12:43:18.547219,miss peregrines home for peculiar children miss peregrines peculiar children 1,In Stock,Affordable,Very Poor
+books_toscrape,Louisa: The Extraordinary Life of Mrs. Adams,16.85,Biography,2,In stock (15 available),2025-09-24 12:43:19.352855,louisa the extraordinary life of mrs. adams,In Stock,Affordable,Poor
+books_toscrape,Little Red,13.47,Childrens,3,In stock (15 available),2025-09-24 12:43:21.170446,little red,In Stock,Affordable,Average
+books_toscrape,Library of Souls (Miss Peregrine’s Peculiar Children #3),48.56,Young Adult,5,In stock (15 available),2025-09-24 12:43:21.991925,library of souls miss peregrines peculiar children 3,In Stock,Mid-range,Excellent
+books_toscrape,Large Print Heart of the Pride,19.15,Default,2,In stock (15 available),2025-09-24 12:43:22.800394,large print heart of the pride,In Stock,Affordable,Poor
+books_toscrape,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,57.36,Womens Fiction,4,In stock (15 available),2025-09-24 12:43:23.584264,i had a nice time and other lies... how to find love sht like that,In Stock,Premium,Good
+books_toscrape,Hollow City (Miss Peregrine’s Peculiar Children #2),42.98,Fantasy,1,In stock (15 available),2025-09-24 12:43:24.381591,hollow city miss peregrines peculiar children 2,In Stock,Mid-range,Very Poor
+books_toscrape,Grumbles,22.16,Default,2,In stock (15 available),2025-09-24 12:43:25.176116,grumbles,In Stock,Affordable,Poor
+books_toscrape,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43,Travel,4,In stock (15 available),2025-09-24 12:43:25.976183,full moon over noahs ark an odyssey to mount ararat and beyond,In Stock,Mid-range,Good
+books_toscrape,Frostbite (Vampire Academy #2),29.99,Young Adult,5,In stock (15 available),2025-09-24 12:43:26.785440,frostbite vampire academy 2,In Stock,Mid-range,Excellent
+books_toscrape,Follow You Home,21.36,Horror,1,In stock (15 available),2025-09-24 12:43:27.595248,follow you home,In Stock,Affordable,Very Poor
+books_toscrape,First Steps for New Christians (Print Edition),29.0,Default,1,In stock (15 available),2025-09-24 12:43:28.399225,first steps for new christians print edition,In Stock,Mid-range,Very Poor
+books_toscrape,Finders Keepers (Bill Hodges Trilogy #2),53.53,Fiction,5,In stock (15 available),2025-09-24 12:43:29.297490,finders keepers bill hodges trilogy 2,In Stock,Premium,Excellent
+books_toscrape,"Fables, Vol. 1: Legends in Exile (Fables #1)",41.62,Sequential Art,4,In stock (15 available),2025-09-24 12:43:30.154597,"fables, vol. 1 legends in exile fables 1",In Stock,Mid-range,Good
+books_toscrape,Eureka Trivia 6.0,54.59,Default,4,In stock (15 available),2025-09-24 12:43:30.985047,eureka trivia 6.0,In Stock,Premium,Good
+books_toscrape,Drive: The Surprising Truth About What Motivates Us,34.95,Default,4,In stock (15 available),2025-09-24 12:43:31.928774,drive the surprising truth about what motivates us,In Stock,Mid-range,Good
+books_toscrape,Done Rubbed Out (Reightman & Bailey #1),37.72,Default,5,In stock (15 available),2025-09-24 12:43:32.761481,done rubbed out reightman bailey 1,In Stock,Mid-range,Excellent
+books_toscrape,Doing It Over (Most Likely To #1),35.61,Romance,3,In stock (15 available),2025-09-24 12:43:33.595150,doing it over most likely to 1,In Stock,Mid-range,Average
+books_toscrape,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,Food and Drink,3,In stock (15 available),2025-09-24 12:43:34.401979,"deliciously ella every day quick and easy recipes for glutenfree snacks, packed lunches, and simple meals",In Stock,Mid-range,Average
+books_toscrape,Dark Notes,19.19,Erotica,5,In stock (15 available),2025-09-24 12:43:37.459665,dark notes,In Stock,Affordable,Excellent
+books_toscrape,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",19.43,Nonfiction,3,In stock (15 available),2025-09-24 12:43:38.287152,"daring greatly how the courage to be vulnerable transforms the way we live, love, parent, and lead",In Stock,Affordable,Average
+books_toscrape,Close to You,49.46,Christian Fiction,4,In stock (15 available),2025-09-24 12:43:39.083275,close to you,In Stock,Mid-range,Good
+books_toscrape,Chasing Heaven: What Dying Taught Me About Living,37.8,Spirituality,2,In stock (15 available),2025-09-24 12:43:41.560911,chasing heaven what dying taught me about living,In Stock,Mid-range,Poor
+books_toscrape,Big Magic: Creative Living Beyond Fear,30.8,Nonfiction,3,In stock (15 available),2025-09-24 12:43:42.505389,big magic creative living beyond fear,In Stock,Mid-range,Average
+books_toscrape,Becoming Wise: An Inquiry into the Mystery and Art of Living,27.43,Nonfiction,2,In stock (15 available),2025-09-24 12:43:43.322807,becoming wise an inquiry into the mystery and art of living,In Stock,Mid-range,Poor
+books_toscrape,Beauty Restored (Riley Family Legacy Novellas #3),11.11,Default,2,In stock (15 available),2025-09-24 12:43:44.121061,beauty restored riley family legacy novellas 3,In Stock,Affordable,Poor
+books_toscrape,Batman: The Long Halloween (Batman),36.5,Sequential Art,2,In stock (15 available),2025-09-24 12:43:44.922670,batman the long halloween batman,In Stock,Mid-range,Poor
+books_toscrape,Batman: The Dark Knight Returns (Batman),15.38,Sequential Art,5,In stock (15 available),2025-09-24 12:43:45.732629,batman the dark knight returns batman,In Stock,Affordable,Excellent
+books_toscrape,Ayumi's Violin,15.48,Default,2,In stock (15 available),2025-09-24 12:43:46.548113,ayumis violin,In Stock,Affordable,Poor
+books_toscrape,Anonymous,46.82,Default,4,In stock (15 available),2025-09-24 12:43:47.367069,anonymous,In Stock,Mid-range,Good
+books_toscrape,Amy Meets the Saints and Sages,18.46,Default,3,In stock (15 available),2025-09-24 12:43:48.175749,amy meets the saints and sages,In Stock,Affordable,Average
+books_toscrape,Amid the Chaos,36.58,Cultural,1,In stock (15 available),2025-09-24 12:43:49.088937,amid the chaos,In Stock,Mid-range,Very Poor
+books_toscrape,Amatus,50.54,Default,5,In stock (15 available),2025-09-24 12:43:49.898370,amatus,In Stock,Premium,Excellent
+books_toscrape,Agnostic: A Spirited Manifesto,12.51,Nonfiction,5,In stock (15 available),2025-09-24 12:43:50.690424,agnostic a spirited manifesto,In Stock,Affordable,Excellent
+books_toscrape,Zealot: The Life and Times of Jesus of Nazareth,24.7,History,3,In stock (14 available),2025-09-24 12:43:51.502446,zealot the life and times of jesus of nazareth,In Stock,Affordable,Average
+books_toscrape,You (You #1),43.61,Thriller,5,In stock (14 available),2025-09-24 12:43:52.318557,you you 1,In Stock,Mid-range,Excellent
+books_toscrape,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",37.34,Sequential Art,4,In stock (14 available),2025-09-24 12:43:53.122551,"wonder woman earth one, volume one wonder woman earth one 1",In Stock,Mid-range,Good
+books_toscrape,Wild Swans,14.36,Young Adult,2,In stock (14 available),2025-09-24 12:43:53.923519,wild swans,In Stock,Affordable,Poor
+books_toscrape,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65,Politics,4,In stock (14 available),2025-09-24 12:43:54.749104,why the right went wrong conservatismfrom goldwater to the tea party and beyond,In Stock,Premium,Good
+books_toscrape,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,38.2,Nonfiction,4,In stock (14 available),2025-09-24 12:43:57.798656,whole lotta creativity going on 60 fun and unusual exercises to awaken and strengthen your creativity,In Stock,Mid-range,Good
+books_toscrape,What's It Like in Space?: Stories from Astronauts Who've Been There,19.6,Nonfiction,2,In stock (14 available),2025-09-24 12:43:58.584802,whats it like in space? stories from astronauts whove been there,In Stock,Affordable,Poor
+books_toscrape,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",53.9,Sequential Art,1,In stock (14 available),2025-09-24 12:43:59.391381,"we are robin, vol. 1 the vigilante business we are robin 1",In Stock,Premium,Very Poor
+books_toscrape,Walt Disney's Alice in Wonderland,12.96,Childrens,5,In stock (14 available),2025-09-24 12:44:00.230801,walt disneys alice in wonderland,In Stock,Affordable,Excellent
+books_toscrape,V for Vendetta (V for Vendetta Complete),37.1,Default,4,In stock (14 available),2025-09-24 12:44:01.040609,v for vendetta v for vendetta complete,In Stock,Mid-range,Good
+books_toscrape,Until Friday Night (The Field Party #1),46.31,Young Adult,2,In stock (14 available),2025-09-24 12:44:01.851246,until friday night the field party 1,In Stock,Mid-range,Poor
+books_toscrape,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",45.95,Default,2,In stock (14 available),2025-09-24 12:44:02.657418,"unbroken a world war ii story of survival, resilience, and redemption",In Stock,Mid-range,Poor
+books_toscrape,Twenty Yawns,22.08,Childrens,2,In stock (14 available),2025-09-24 12:44:03.476293,twenty yawns,In Stock,Affordable,Poor
+books_toscrape,Through the Woods,25.38,Sequential Art,2,In stock (14 available),2025-09-24 12:44:04.269611,through the woods,In Stock,Mid-range,Poor
+books_toscrape,This Is Where It Ends,27.12,Young Adult,2,In stock (14 available),2025-09-24 12:44:05.110416,this is where it ends,In Stock,Mid-range,Poor
+books_toscrape,The Year of Magical Thinking,43.04,Nonfiction,2,In stock (14 available),2025-09-24 12:44:06.043617,the year of magical thinking,In Stock,Mid-range,Poor
+books_toscrape,The Wright Brothers,56.8,Default,4,In stock (14 available),2025-09-24 12:44:06.894263,the wright brothers,In Stock,Premium,Good
+books_toscrape,The White Queen (The Cousins' War #1),25.91,Add a comment,5,In stock (14 available),2025-09-24 12:44:07.706920,the white queen the cousins war 1,In Stock,Mid-range,Excellent
+books_toscrape,The Wedding Pact (The O'Malleys #2),32.61,Romance,3,In stock (14 available),2025-09-24 12:44:08.591429,the wedding pact the omalleys 2,In Stock,Mid-range,Average
+books_toscrape,The Time Keeper,27.88,Fiction,5,In stock (14 available),2025-09-24 12:44:09.466400,the time keeper,In Stock,Mid-range,Excellent
+books_toscrape,The Testament of Mary,52.67,Fiction,4,In stock (14 available),2025-09-24 12:44:10.289433,the testament of mary,In Stock,Premium,Good
+books_toscrape,The Star-Touched Queen,46.02,Fantasy,5,In stock (14 available),2025-09-24 12:44:11.123178,the startouched queen,In Stock,Mid-range,Excellent
+books_toscrape,The Songs of the Gods,44.48,Default,5,In stock (14 available),2025-09-24 12:44:11.962754,the songs of the gods,In Stock,Mid-range,Excellent
+books_toscrape,The Song of Achilles,37.4,Add a comment,5,In stock (14 available),2025-09-24 12:44:12.780399,the song of achilles,In Stock,Mid-range,Excellent
+books_toscrape,The Rosie Project (Don Tillman #1),54.04,Default,1,In stock (14 available),2025-09-24 12:44:13.591867,the rosie project don tillman 1,In Stock,Premium,Very Poor
+books_toscrape,The Power of Habit: Why We Do What We Do in Life and Business,16.88,Default,3,In stock (14 available),2025-09-24 12:44:16.486078,the power of habit why we do what we do in life and business,In Stock,Affordable,Average
+books_toscrape,The Marriage of Opposites,28.08,Historical Fiction,4,In stock (14 available),2025-09-24 12:44:17.298736,the marriage of opposites,In Stock,Mid-range,Good
+books_toscrape,The Lucifer Effect: Understanding How Good People Turn Evil,10.4,Psychology,1,In stock (14 available),2025-09-24 12:44:18.095032,the lucifer effect understanding how good people turn evil,In Stock,Affordable,Very Poor
+books_toscrape,The Long Haul (Diary of a Wimpy Kid #9),44.07,Humor,1,In stock (14 available),2025-09-24 12:44:18.888219,the long haul diary of a wimpy kid 9,In Stock,Mid-range,Very Poor
+books_toscrape,The Loney,23.4,Horror,1,In stock (14 available),2025-09-24 12:44:19.751605,the loney,In Stock,Affordable,Very Poor
+books_toscrape,The Literature Book (Big Ideas Simply Explained),17.43,Nonfiction,3,In stock (14 available),2025-09-24 12:44:20.588173,the literature book big ideas simply explained,In Stock,Affordable,Average
+books_toscrape,The Last Mile (Amos Decker #2),54.21,Mystery,2,In stock (14 available),2025-09-24 12:44:21.433143,the last mile amos decker 2,In Stock,Premium,Poor
+books_toscrape,The Immortal Life of Henrietta Lacks,40.67,Add a comment,2,In stock (14 available),2025-09-24 12:44:22.318634,the immortal life of henrietta lacks,In Stock,Mid-range,Poor
+books_toscrape,The Hidden Oracle (The Trials of Apollo #1),52.26,Fantasy,2,In stock (14 available),2025-09-24 12:44:23.136723,the hidden oracle the trials of apollo 1,In Stock,Premium,Poor
+books_toscrape,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,Food and Drink,3,In stock (14 available),2025-09-24 12:44:23.976281,the help yourself cookbook for kids 60 easy plantbased recipes kids can make to stay healthy and save the earth,In Stock,Mid-range,Average
+books_toscrape,The Guilty (Will Robie #4),13.82,Thriller,2,In stock (14 available),2025-09-24 12:44:24.769597,the guilty will robie 4,In Stock,Affordable,Poor
+books_toscrape,The First Hostage (J.B. Collins #2),25.85,Fiction,3,In stock (14 available),2025-09-24 12:44:25.571093,the first hostage j.b. collins 2,In Stock,Mid-range,Average
+books_toscrape,The Dovekeepers,48.78,Add a comment,1,In stock (14 available),2025-09-24 12:44:26.380770,the dovekeepers,In Stock,Mid-range,Very Poor
+books_toscrape,The Darkest Lie,35.35,Young Adult,5,In stock (14 available),2025-09-24 12:44:27.201623,the darkest lie,In Stock,Mid-range,Excellent
+books_toscrape,The Bane Chronicles (The Bane Chronicles #1-11),44.73,Fantasy,4,In stock (14 available),2025-09-24 12:44:27.994814,the bane chronicles the bane chronicles 111,In Stock,Mid-range,Good
+books_toscrape,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,15.77,Nonfiction,1,In stock (14 available),2025-09-24 12:44:28.782590,the badass librarians of timbuktu and their race to save the worlds most precious manuscripts,In Stock,Affordable,Very Poor
+books_toscrape,The 14th Colony (Cotton Malone #11),39.24,Thriller,1,In stock (14 available),2025-09-24 12:44:29.570804,the 14th colony cotton malone 11,In Stock,Mid-range,Very Poor
+books_toscrape,That Darkness (Gardiner and Renner #1),13.92,Mystery,1,In stock (14 available),2025-09-24 12:44:30.381691,that darkness gardiner and renner 1,In Stock,Affordable,Very Poor
+books_toscrape,Tastes Like Fear (DI Marnie Rome #3),10.69,Mystery,1,In stock (14 available),2025-09-24 12:44:31.234854,tastes like fear di marnie rome 3,In Stock,Affordable,Very Poor
+books_toscrape,Take Me with You,45.21,Fiction,3,In stock (14 available),2025-09-24 12:44:32.098113,take me with you,In Stock,Mid-range,Average
+books_toscrape,Swell: A Year of Waves,45.58,Nonfiction,1,In stock (14 available),2025-09-24 12:44:35.040249,swell a year of waves,In Stock,Mid-range,Very Poor
+books_toscrape,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),11.89,Sequential Art,5,In stock (14 available),2025-09-24 12:44:35.863713,superman vol. 1 before truth superman by gene luen yang 1,In Stock,Affordable,Excellent
+books_toscrape,Still Life with Bread Crumbs,26.41,Fiction,3,In stock (14 available),2025-09-24 12:44:36.661516,still life with bread crumbs,In Stock,Mid-range,Average
+books_toscrape,Steve Jobs,39.5,Default,5,In stock (14 available),2025-09-24 12:44:37.464093,steve jobs,In Stock,Mid-range,Excellent
+books_toscrape,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74,Science,4,In stock (14 available),2025-09-24 12:44:38.250199,sorting the beef from the bull the science of food fraud forensics,In Stock,Mid-range,Good
+books_toscrape,Someone Like You (The Harrisons #2),52.79,Contemporary,5,In stock (14 available),2025-09-24 12:44:39.051499,someone like you the harrisons 2,In Stock,Premium,Excellent
+books_toscrape,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",35.43,Sequential Art,4,In stock (14 available),2025-09-24 12:44:39.849710,"so cute it hurts!!, vol. 6 so cute it hurts!! 6",In Stock,Mid-range,Good
+books_toscrape,Shtum,55.84,Fiction,4,In stock (14 available),2025-09-24 12:44:40.644741,shtum,In Stock,Premium,Good
+books_toscrape,See America: A Celebration of Our National Parks & Treasured Sites,48.87,Travel,3,In stock (14 available),2025-09-24 12:44:41.436328,see america a celebration of our national parks treasured sites,In Stock,Mid-range,Average
+books_toscrape,salt.,46.78,Poetry,4,In stock (14 available),2025-09-24 12:44:42.232509,salt.,In Stock,Mid-range,Good
+books_toscrape,Robin War,47.82,Sequential Art,3,In stock (14 available),2025-09-24 12:44:43.046315,robin war,In Stock,Mid-range,Average
+books_toscrape,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",25.48,Sequential Art,2,In stock (14 available),2025-09-24 12:44:43.837947,"red hoodarsenal, vol. 1 open for business red hoodarsenal 1",In Stock,Mid-range,Poor
+books_toscrape,Rain Fish,23.57,Childrens,3,In stock (14 available),2025-09-24 12:44:44.627715,rain fish,In Stock,Affordable,Average
+books_toscrape,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89,Poetry,5,In stock (14 available),2025-09-24 12:44:45.553890,"quarter life poetry poems for the young, broke and hangry",In Stock,Premium,Excellent
+books_toscrape,Pet Sematary,10.56,Horror,3,In stock (14 available),2025-09-24 12:44:46.356213,pet sematary,In Stock,Affordable,Average
+books_toscrape,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15,Self Help,3,In stock (14 available),2025-09-24 12:44:47.245371,"overload how to unplug, unwind, and unleash yourself from the pressure of stress",In Stock,Premium,Average
+books_toscrape,Once Was a Time,18.28,Childrens,2,In stock (14 available),2025-09-24 12:44:48.212253,once was a time,In Stock,Affordable,Poor
+books_toscrape,Old School (Diary of a Wimpy Kid #10),11.83,Humor,5,In stock (14 available),2025-09-24 12:44:49.022299,old school diary of a wimpy kid 10,In Stock,Affordable,Excellent
+books_toscrape,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,21.95,Nonfiction,2,In stock (14 available),2025-09-24 12:44:49.819984,no dream is too high life lessons from a man who walked on the moon,In Stock,Affordable,Poor
+books_toscrape,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",38.39,Sequential Art,2,In stock (14 available),2025-09-24 12:44:50.615225,"naruto 3in1 edition, vol. 14 includes vols. 40, 41 42 naruto omnibus 14",In Stock,Mid-range,Poor
+books_toscrape,My Name Is Lucy Barton,41.56,Fiction,1,In stock (14 available),2025-09-24 12:44:53.496832,my name is lucy barton,In Stock,Mid-range,Very Poor
+books_toscrape,My Mrs. Brown,24.48,Fiction,3,In stock (14 available),2025-09-24 12:44:54.307524,my mrs. brown,In Stock,Affordable,Average
+books_toscrape,My Kind of Crazy,40.36,Young Adult,1,In stock (14 available),2025-09-24 12:44:55.107388,my kind of crazy,In Stock,Mid-range,Very Poor
+books_toscrape,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,Fiction,1,In stock (14 available),2025-09-24 12:44:55.905540,mr. mercedes bill hodges trilogy 1,In Stock,Mid-range,Very Poor
+books_toscrape,More Than Music (Chasing the Dream #1),37.61,Add a comment,2,In stock (14 available),2025-09-24 12:44:56.752606,more than music chasing the dream 1,In Stock,Mid-range,Poor
+books_toscrape,Made to Stick: Why Some Ideas Survive and Others Die,38.85,Business,5,In stock (14 available),2025-09-24 12:44:57.552957,made to stick why some ideas survive and others die,In Stock,Mid-range,Excellent
+books_toscrape,Luis Paints the World,53.95,Childrens,3,In stock (14 available),2025-09-24 12:44:58.425420,luis paints the world,In Stock,Premium,Average
+books_toscrape,Luckiest Girl Alive,49.83,Default,3,In stock (14 available),2025-09-24 12:44:59.328568,luckiest girl alive,In Stock,Mid-range,Average
+books_toscrape,Lowriders to the Center of the Earth (Lowriders in Space #2),51.51,Sequential Art,2,In stock (14 available),2025-09-24 12:45:00.133594,lowriders to the center of the earth lowriders in space 2,In Stock,Premium,Poor
+books_toscrape,Love Is a Mix Tape (Music #1),18.03,Music,1,In stock (14 available),2025-09-24 12:45:00.938703,love is a mix tape music 1,In Stock,Affordable,Very Poor
+books_toscrape,Looking for Lovely: Collecting the Moments that Matter,29.14,Nonfiction,5,In stock (14 available),2025-09-24 12:45:01.745605,looking for lovely collecting the moments that matter,In Stock,Mid-range,Excellent
+books_toscrape,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",46.91,Default,4,In stock (14 available),2025-09-24 12:45:02.556266,"living leadership by insight a good leader achieves, a great leader builds monuments",In Stock,Mid-range,Good
+books_toscrape,Let It Out: A Journey Through Journaling,26.79,Nonfiction,5,In stock (14 available),2025-09-24 12:45:03.351586,let it out a journey through journaling,In Stock,Mid-range,Excellent
+books_toscrape,Lady Midnight (The Dark Artifices #1),16.28,Default,5,In stock (14 available),2025-09-24 12:45:04.140226,lady midnight the dark artifices 1,In Stock,Affordable,Excellent
+books_toscrape,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,Food and Drink,1,In stock (14 available),2025-09-24 12:45:04.956923,"its all easy healthy, delicious weeknight meals in under 30 minutes",In Stock,Affordable,Very Poor
+books_toscrape,Island of Dragons (Unwanteds #7),29.65,Fantasy,1,In stock (14 available),2025-09-24 12:45:05.750091,island of dragons unwanteds 7,In Stock,Mid-range,Very Poor
+books_toscrape,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,Humor,4,In stock (14 available),2025-09-24 12:45:06.554364,i know what im doing and other lies i tell myself dispatches from a life under construction,In Stock,Mid-range,Good
+books_toscrape,I Am Pilgrim (Pilgrim #1),10.6,Fiction,4,In stock (14 available),2025-09-24 12:45:07.359873,i am pilgrim pilgrim 1,In Stock,Affordable,Good
+books_toscrape,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,Humor,5,In stock (14 available),2025-09-24 12:45:08.175924,"hyperbole and a half unfortunate situations, flawed coping mechanisms, mayhem, and other things that happened",In Stock,Affordable,Excellent
+books_toscrape,"Hush, Hush (Hush, Hush #1)",47.02,Default,3,In stock (14 available),2025-09-24 12:45:08.989705,"hush, hush hush, hush 1",In Stock,Mid-range,Average
+books_toscrape,Hold Your Breath (Search and Rescue #1),28.82,Romance,1,In stock (14 available),2025-09-24 12:45:11.983937,hold your breath search and rescue 1,In Stock,Mid-range,Very Poor
+books_toscrape,Hamilton: The Revolution,58.79,Nonfiction,3,In stock (14 available),2025-09-24 12:45:12.902749,hamilton the revolution,In Stock,Premium,Average
+books_toscrape,Greek Mythic History,10.23,Default,5,In stock (14 available),2025-09-24 12:45:13.757277,greek mythic history,In Stock,Affordable,Excellent
+books_toscrape,God: The Most Unpleasant Character in All Fiction,30.03,Religion,5,In stock (14 available),2025-09-24 12:45:14.578068,god the most unpleasant character in all fiction,In Stock,Mid-range,Excellent
+books_toscrape,Glory over Everything: Beyond The Kitchen House,45.84,Historical Fiction,3,In stock (14 available),2025-09-24 12:45:15.384544,glory over everything beyond the kitchen house,In Stock,Mid-range,Average
+books_toscrape,Feathers: Displays of Brilliant Plumage,49.05,Art,3,In stock (14 available),2025-09-24 12:45:16.187265,feathers displays of brilliant plumage,In Stock,Mid-range,Average
+books_toscrape,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",15.06,Nonfiction,4,In stock (14 available),2025-09-24 12:45:16.996696,"far away places on the brink of change seven continents, twentyfive years",In Stock,Affordable,Good
+books_toscrape,Every Last Word,46.47,Default,3,In stock (14 available),2025-09-24 12:45:17.814547,every last word,In Stock,Mid-range,Average
+books_toscrape,Eligible (The Austen Project #4),27.09,Fiction,3,In stock (14 available),2025-09-24 12:45:18.623724,eligible the austen project 4,In Stock,Mid-range,Average
+books_toscrape,El Deafo,57.62,Sequential Art,5,In stock (14 available),2025-09-24 12:45:19.430824,el deafo,In Stock,Premium,Excellent
+books_toscrape,Eight Hundred Grapes,14.39,Fiction,4,In stock (14 available),2025-09-24 12:45:20.350120,eight hundred grapes,In Stock,Affordable,Good
+books_toscrape,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",51.75,Nonfiction,5,In stock (14 available),2025-09-24 12:45:22.621008,"eaternity more than 150 deliciously easy vegan recipes for a long, healthy, satisfied, joyful life",In Stock,Premium,Excellent
+books_toscrape,"Eat Fat, Get Thin",54.07,Health,2,In stock (14 available),2025-09-24 12:45:23.438941,"eat fat, get thin",In Stock,Premium,Poor
+books_toscrape,Don't Get Caught,55.35,Young Adult,1,In stock (14 available),2025-09-24 12:45:24.299741,dont get caught,In Stock,Premium,Very Poor
+books_toscrape,Doctor Sleep (The Shining #2),40.12,Horror,2,In stock (14 available),2025-09-24 12:45:25.244892,doctor sleep the shining 2,In Stock,Mid-range,Poor
+books_toscrape,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,Fantasy,5,In stock (14 available),2025-09-24 12:45:26.068257,demigods magicians percy and annabeth meet the kanes percy jackson kane chronicles crossover 13,In Stock,Mid-range,Excellent
+books_toscrape,Dear Mr. Knightley,11.21,Fiction,5,In stock (14 available),2025-09-24 12:45:26.888642,dear mr. knightley,In Stock,Affordable,Excellent
+books_toscrape,Daily Fantasy Sports,36.58,Default,1,In stock (14 available),2025-09-24 12:45:27.684842,daily fantasy sports,In Stock,Mid-range,Very Poor
+books_toscrape,Crazy Love: Overwhelmed by a Relentless God,47.72,Christian,2,In stock (14 available),2025-09-24 12:45:28.493012,crazy love overwhelmed by a relentless god,In Stock,Mid-range,Poor
+books_toscrape,Cometh the Hour (The Clifton Chronicles #6),25.01,Fiction,3,In stock (14 available),2025-09-24 12:45:29.302642,cometh the hour the clifton chronicles 6,In Stock,Mid-range,Average
+books_toscrape,Code Name Verity (Code Name Verity #1),22.13,Add a comment,4,In stock (14 available),2025-09-24 12:45:32.218836,code name verity code name verity 1,In Stock,Affordable,Good
+books_toscrape,Clockwork Angel (The Infernal Devices #1),44.14,Default,1,In stock (14 available),2025-09-24 12:45:33.014028,clockwork angel the infernal devices 1,In Stock,Mid-range,Very Poor
+books_toscrape,City of Glass (The Mortal Instruments #3),56.02,Fantasy,4,In stock (14 available),2025-09-24 12:45:33.821105,city of glass the mortal instruments 3,In Stock,Premium,Good
+books_toscrape,City of Fallen Angels (The Mortal Instruments #4),11.23,Default,4,In stock (14 available),2025-09-24 12:45:34.613439,city of fallen angels the mortal instruments 4,In Stock,Affordable,Good
+books_toscrape,City of Bones (The Mortal Instruments #1),43.28,Default,1,In stock (14 available),2025-09-24 12:45:35.431422,city of bones the mortal instruments 1,In Stock,Mid-range,Very Poor
+books_toscrape,City of Ashes (The Mortal Instruments #2),47.27,Default,1,In stock (14 available),2025-09-24 12:45:36.236409,city of ashes the mortal instruments 2,In Stock,Mid-range,Very Poor
+books_toscrape,Cell,20.29,Add a comment,4,In stock (14 available),2025-09-24 12:45:37.038074,cell,In Stock,Affordable,Good
+books_toscrape,Catching Jordan (Hundred Oaks),50.83,Young Adult,3,In stock (14 available),2025-09-24 12:45:37.832326,catching jordan hundred oaks,In Stock,Premium,Average
+books_toscrape,"Carry On, Warrior: Thoughts on Life Unarmed",31.85,Default,3,In stock (14 available),2025-09-24 12:45:38.632319,"carry on, warrior thoughts on life unarmed",In Stock,Mid-range,Average
+books_toscrape,Carrie,46.23,Default,2,In stock (14 available),2025-09-24 12:45:39.425049,carrie,In Stock,Mid-range,Poor
+books_toscrape,Buying In: The Secret Dialogue Between What We Buy and Who We Are,37.8,Nonfiction,4,In stock (14 available),2025-09-24 12:45:40.253984,buying in the secret dialogue between what we buy and who we are,In Stock,Mid-range,Good
+books_toscrape,Brain on Fire: My Month of Madness,49.32,Nonfiction,5,In stock (14 available),2025-09-24 12:45:41.072598,brain on fire my month of madness,In Stock,Mid-range,Excellent
+books_toscrape,Batman: Europa,32.01,Sequential Art,2,In stock (14 available),2025-09-24 12:45:41.881678,batman europa,In Stock,Mid-range,Poor
+books_toscrape,Barefoot Contessa Back to Basics,28.01,Food and Drink,1,In stock (14 available),2025-09-24 12:45:42.692812,barefoot contessa back to basics,In Stock,Mid-range,Very Poor
+books_toscrape,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,Food and Drink,5,In stock (14 available),2025-09-24 12:45:43.517441,barefoot contessa at home everyday recipes youll make over and over again,In Stock,Premium,Excellent
+books_toscrape,Balloon Animals,17.03,Fiction,3,In stock (14 available),2025-09-24 12:45:44.314569,balloon animals,In Stock,Affordable,Average
+books_toscrape,Art Ops Vol. 1,48.8,Sequential Art,3,In stock (14 available),2025-09-24 12:45:45.112831,art ops vol. 1,In Stock,Mid-range,Average
+books_toscrape,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,Young Adult,4,In stock (14 available),2025-09-24 12:45:45.893552,aristotle and dante discover the secrets of the universe aristotle and dante discover the secrets of the universe 1,In Stock,Premium,Good
+books_toscrape,Angels Walking (Angels Walking #1),34.2,Add a comment,2,In stock (14 available),2025-09-24 12:45:46.721434,angels walking angels walking 1,In Stock,Mid-range,Poor
+books_toscrape,Angels & Demons (Robert Langdon #1),51.48,Default,3,In stock (14 available),2025-09-24 12:45:47.511953,angels demons robert langdon 1,In Stock,Premium,Average
+books_toscrape,All the Light We Cannot See,29.87,Historical,5,In stock (14 available),2025-09-24 12:45:50.395645,all the light we cannot see,In Stock,Mid-range,Excellent
+books_toscrape,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",10.9,Sequential Art,2,In stock (14 available),2025-09-24 12:45:51.186511,adulthood is a myth a sarahs scribbles collection,In Stock,Affordable,Poor
+books_toscrape,Abstract City,56.37,Nonfiction,5,In stock (14 available),2025-09-24 12:45:51.988901,abstract city,In Stock,Premium,Excellent
+books_toscrape,A Time of Torment (Charlie Parker #14),48.35,Mystery,5,In stock (14 available),2025-09-24 12:45:52.789601,a time of torment charlie parker 14,In Stock,Mid-range,Excellent
+books_toscrape,A Study in Scarlet (Sherlock Holmes #1),16.73,Mystery,2,In stock (14 available),2025-09-24 12:45:53.579734,a study in scarlet sherlock holmes 1,In Stock,Affordable,Poor
+books_toscrape,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48,Add a comment,2,In stock (14 available),2025-09-24 12:45:54.370857,"a series of catastrophes and miracles a true story of love, science, and cancer",In Stock,Premium,Poor
+books_toscrape,A People's History of the United States,40.79,Add a comment,2,In stock (14 available),2025-09-24 12:45:55.176815,a peoples history of the united states,In Stock,Mid-range,Poor
+books_toscrape,A Man Called Ove,39.72,Fiction,1,In stock (14 available),2025-09-24 12:45:55.990492,a man called ove,In Stock,Mid-range,Very Poor
+books_toscrape,A Distant Mirror: The Calamitous 14th Century,14.58,History,3,In stock (14 available),2025-09-24 12:45:56.785616,a distant mirror the calamitous 14th century,In Stock,Affordable,Average
+books_toscrape,A Brush of Wings (Angels Walking #3),55.51,Add a comment,1,In stock (14 available),2025-09-24 12:45:57.574990,a brush of wings angels walking 3,In Stock,Premium,Very Poor
+books_toscrape,1491: New Revelations of the Americas Before Columbus,21.8,History,3,In stock (14 available),2025-09-24 12:45:58.509596,1491 new revelations of the americas before columbus,In Stock,Affordable,Average
+books_toscrape,"The Three Searches, Meaning, and the Story",13.33,Default,3,In stock (13 available),2025-09-24 12:45:59.506493,"the three searches, meaning, and the story",In Stock,Affordable,Average
+books_toscrape,Searching for Meaning in Gailana,38.73,Fantasy,1,In stock (13 available),2025-09-24 12:46:00.354277,searching for meaning in gailana,In Stock,Mid-range,Very Poor
+books_toscrape,Rook,37.86,Add a comment,4,In stock (13 available),2025-09-24 12:46:01.166130,rook,In Stock,Mid-range,Good
+books_toscrape,My Kitchen Year: 136 Recipes That Saved My Life,11.53,Food and Drink,2,In stock (13 available),2025-09-24 12:46:01.974496,my kitchen year 136 recipes that saved my life,In Stock,Affordable,Poor
+books_toscrape,13 Hours: The Inside Account of What Really Happened In Benghazi,27.06,Nonfiction,1,In stock (13 available),2025-09-24 12:46:02.769143,13 hours the inside account of what really happened in benghazi,In Stock,Mid-range,Very Poor
+books_toscrape,Will You Won't You Want Me?,13.86,Womens Fiction,3,In stock (12 available),2025-09-24 12:46:03.561675,will you wont you want me?,In Stock,Affordable,Average
+books_toscrape,Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55,Science,1,In stock (12 available),2025-09-24 12:46:04.369470,tipping point for planet earth how close are we to the edge?,In Stock,Mid-range,Very Poor
+books_toscrape,The Silent Sister (Riley MacPherson #1),46.29,Fiction,5,In stock (12 available),2025-09-24 12:46:05.973042,the silent sister riley macpherson 1,In Stock,Mid-range,Excellent
+books_toscrape,The Midnight Watch: A Novel of the Titanic and the Californian,26.2,Add a comment,1,In stock (12 available),2025-09-24 12:46:08.851182,the midnight watch a novel of the titanic and the californian,In Stock,Mid-range,Very Poor
+books_toscrape,The Lonely City: Adventures in the Art of Being Alone,33.26,Nonfiction,2,In stock (12 available),2025-09-24 12:46:09.646854,the lonely city adventures in the art of being alone,In Stock,Mid-range,Poor
+books_toscrape,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,59.15,Add a comment,4,In stock (12 available),2025-09-24 12:46:10.443799,the gray rhino how to recognize and act on the obvious dangers we ignore,In Stock,Premium,Good
+books_toscrape,The Golden Condom: And Other Essays on Love Lost and Found,39.43,Psychology,1,In stock (12 available),2025-09-24 12:46:11.269509,the golden condom and other essays on love lost and found,In Stock,Mid-range,Very Poor
+books_toscrape,The Epidemic (The Program 0.6),14.44,Young Adult,5,In stock (12 available),2025-09-24 12:46:13.699006,the epidemic the program 0.6,In Stock,Affordable,Excellent
+books_toscrape,The Dinner Party,56.54,Fiction,2,In stock (12 available),2025-09-24 12:46:14.507832,the dinner party,In Stock,Premium,Poor
+books_toscrape,The Diary of a Young Girl,59.9,Nonfiction,3,In stock (12 available),2025-09-24 12:46:15.436702,the diary of a young girl,In Stock,Premium,Average
+books_toscrape,The Children,11.88,Add a comment,3,In stock (12 available),2025-09-24 12:46:16.264666,the children,In Stock,Affordable,Average
+books_toscrape,Stars Above (The Lunar Chronicles #4.5),48.05,Young Adult,2,In stock (12 available),2025-09-24 12:46:17.060873,stars above the lunar chronicles 4.5,In Stock,Mid-range,Poor
+books_toscrape,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,21.21,Nonfiction,3,In stock (12 available),2025-09-24 12:46:17.860342,snatched how a drug queen went undercover for the dea and was kidnapped by colombian guerillas,In Stock,Affordable,Average
+books_toscrape,Raspberry Pi Electronics Projects for the Evil Genius,49.67,Default,4,In stock (12 available),2025-09-24 12:46:18.666877,raspberry pi electronics projects for the evil genius,In Stock,Mid-range,Good
+books_toscrape,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,Business,1,In stock (12 available),2025-09-24 12:46:19.473859,quench your own thirst business lessons learned over a beer or two,In Stock,Mid-range,Very Poor
+books_toscrape,Psycho: Sanitarium (Psycho #1.5),36.97,Horror,5,In stock (12 available),2025-09-24 12:46:20.268597,psycho sanitarium psycho 1.5,In Stock,Mid-range,Excellent
+books_toscrape,Poisonous (Max Revere Novels #3),26.8,Mystery,3,In stock (12 available),2025-09-24 12:46:21.063757,poisonous max revere novels 3,In Stock,Mid-range,Average
+books_toscrape,One with You (Crossfire #5),15.71,Add a comment,4,In stock (12 available),2025-09-24 12:46:21.880164,one with you crossfire 5,In Stock,Affordable,Good
+books_toscrape,No Love Allowed (Dodge Cove #1),54.65,Young Adult,4,In stock (12 available),2025-09-24 12:46:22.670230,no love allowed dodge cove 1,In Stock,Premium,Good
+books_toscrape,Murder at the 42nd Street Library (Raymond Ambler #1),54.36,Mystery,4,In stock (12 available),2025-09-24 12:46:23.477159,murder at the 42nd street library raymond ambler 1,In Stock,Premium,Good
+books_toscrape,Most Wanted,35.28,Mystery,3,In stock (12 available),2025-09-24 12:46:24.310641,most wanted,In Stock,Mid-range,Average
+books_toscrape,"Love, Lies and Spies",20.55,Historical Fiction,2,In stock (12 available),2025-09-24 12:46:25.113740,"love, lies and spies",In Stock,Affordable,Poor
+books_toscrape,How to Speak Golf: An Illustrated Guide to Links Lingo,58.32,Default,5,In stock (12 available),2025-09-24 12:46:25.915348,how to speak golf an illustrated guide to links lingo,In Stock,Premium,Excellent
+books_toscrape,Hide Away (Eve Duncan #20),11.84,Mystery,1,In stock (12 available),2025-09-24 12:46:28.920098,hide away eve duncan 20,In Stock,Affordable,Very Poor
+books_toscrape,Furiously Happy: A Funny Book About Horrible Things,41.46,Nonfiction,4,In stock (12 available),2025-09-24 12:46:29.831798,furiously happy a funny book about horrible things,In Stock,Mid-range,Good
+books_toscrape,Everyday Italian: 125 Simple and Delicious Recipes,20.1,Food and Drink,5,In stock (12 available),2025-09-24 12:46:30.635111,everyday italian 125 simple and delicious recipes,In Stock,Affordable,Excellent
+books_toscrape,Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86,Politics,1,In stock (12 available),2025-09-24 12:46:31.434195,equal is unfair americas misguided fight against income inequality,In Stock,Premium,Very Poor
+books_toscrape,Eleanor & Park,56.51,Default,5,In stock (12 available),2025-09-24 12:46:32.248845,eleanor park,In Stock,Premium,Excellent
+books_toscrape,Dirty (Dive Bar #1),40.83,Romance,4,In stock (12 available),2025-09-24 12:46:33.050493,dirty dive bar 1,In Stock,Mid-range,Good
+books_toscrape,Can You Keep a Secret? (Fear Street Relaunch #4),48.64,Horror,1,In stock (12 available),2025-09-24 12:46:33.849804,can you keep a secret? fear street relaunch 4,In Stock,Mid-range,Very Poor
+books_toscrape,Boar Island (Anna Pigeon #19),59.48,Mystery,3,In stock (12 available),2025-09-24 12:46:34.657342,boar island anna pigeon 19,In Stock,Premium,Average
+books_toscrape,A Paris Apartment,39.01,Historical Fiction,4,In stock (12 available),2025-09-24 12:46:35.472635,a paris apartment,In Stock,Mid-range,Good
+books_toscrape,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,Food and Drink,1,In stock (12 available),2025-09-24 12:46:36.317963,"a la mode 120 recipes in 60 pairings pies, tarts, cakes, crisps, and more topped with ice cream, gelato, frozen custard, and more",In Stock,Mid-range,Very Poor
+books_toscrape,Troublemaker: Surviving Hollywood and Scientology,48.39,Default,2,In stock (11 available),2025-09-24 12:46:37.132549,troublemaker surviving hollywood and scientology,In Stock,Mid-range,Poor
+books_toscrape,The Widow,27.26,Mystery,2,In stock (11 available),2025-09-24 12:46:37.941485,the widow,In Stock,Mid-range,Poor
+books_toscrape,"The Sleep Revolution: Transforming Your Life, One Night at a Time",11.68,Nonfiction,4,In stock (11 available),2025-09-24 12:46:38.747414,"the sleep revolution transforming your life, one night at a time",In Stock,Affordable,Good
+books_toscrape,The Improbability of Love,59.45,Fiction,1,In stock (11 available),2025-09-24 12:46:39.532895,the improbability of love,In Stock,Premium,Very Poor
+books_toscrape,The Art of Startup Fundraising,21.0,Business,3,In stock (11 available),2025-09-24 12:46:40.344455,the art of startup fundraising,In Stock,Affordable,Average
+books_toscrape,Take Me Home Tonight (Rock Star Romance #3),53.98,Romance,3,In stock (11 available),2025-09-24 12:46:41.173778,take me home tonight rock star romance 3,In Stock,Premium,Average
+books_toscrape,Sleeping Giants (Themis Files #1),48.74,Science Fiction,1,In stock (11 available),2025-09-24 12:46:42.047073,sleeping giants themis files 1,In Stock,Mid-range,Very Poor
+books_toscrape,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15,Biography,2,In stock (11 available),2025-09-24 12:46:42.915016,"setting the world on fire the brief, astonishing life of st. catherine of siena",In Stock,Affordable,Poor
+books_toscrape,Playing with Fire,13.71,Mystery,3,In stock (11 available),2025-09-24 12:46:43.717538,playing with fire,In Stock,Affordable,Average
+books_toscrape,Off the Hook (Fishing for Trouble #1),47.67,Romance,3,In stock (11 available),2025-09-24 12:46:44.547727,off the hook fishing for trouble 1,In Stock,Mid-range,Average
+books_toscrape,Mothering Sunday,13.34,Fiction,2,In stock (11 available),2025-09-24 12:46:47.452619,mothering sunday,In Stock,Affordable,Poor
+books_toscrape,"Mother, Can You Not?",16.89,Nonfiction,5,In stock (11 available),2025-09-24 12:46:48.253108,"mother, can you not?",In Stock,Affordable,Excellent
+books_toscrape,M Train,27.18,Autobiography,1,In stock (11 available),2025-09-24 12:46:49.044540,m train,In Stock,Mid-range,Very Poor
+books_toscrape,Lilac Girls,17.28,Historical Fiction,2,In stock (11 available),2025-09-24 12:46:49.839639,lilac girls,In Stock,Affordable,Poor
+books_toscrape,Lies and Other Acts of Love,45.14,Fiction,1,In stock (11 available),2025-09-24 12:46:50.656868,lies and other acts of love,In Stock,Mid-range,Very Poor
+books_toscrape,Lab Girl,40.85,Autobiography,1,In stock (11 available),2025-09-24 12:46:51.469412,lab girl,In Stock,Mid-range,Very Poor
+books_toscrape,Keep Me Posted,20.46,Womens Fiction,4,In stock (11 available),2025-09-24 12:46:52.335395,keep me posted,In Stock,Affordable,Good
+books_toscrape,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27,Psychology,3,In stock (11 available),2025-09-24 12:46:53.138202,it didnt start with you how inherited family trauma shapes who we are and how to end the cycle,In Stock,Premium,Average
+books_toscrape,Grey (Fifty Shades #4),48.49,Womens Fiction,4,In stock (11 available),2025-09-24 12:46:53.942965,grey fifty shades 4,In Stock,Mid-range,Good
+books_toscrape,"Exit, Pursued by a Bear",51.34,Young Adult,4,In stock (11 available),2025-09-24 12:46:54.847443,"exit, pursued by a bear",In Stock,Premium,Good
+books_toscrape,Daredevils,16.34,Fiction,3,In stock (11 available),2025-09-24 12:46:55.674869,daredevils,In Stock,Affordable,Average
+books_toscrape,Cravings: Recipes for What You Want to Eat,20.5,Food and Drink,3,In stock (11 available),2025-09-24 12:46:56.493255,cravings recipes for what you want to eat,In Stock,Affordable,Average
+books_toscrape,Born for This: How to Find the Work You Were Meant to Do,21.59,Business,5,In stock (11 available),2025-09-24 12:46:57.297494,born for this how to find the work you were meant to do,In Stock,Affordable,Excellent
+books_toscrape,Arena,21.36,Science Fiction,4,In stock (11 available),2025-09-24 12:46:58.105402,arena,In Stock,Affordable,Good
+books_toscrape,Adultery,20.88,Default,5,In stock (11 available),2025-09-24 12:46:58.915974,adultery,In Stock,Affordable,Excellent
+books_toscrape,A Mother's Reckoning: Living in the Aftermath of Tragedy,19.53,Nonfiction,3,In stock (11 available),2025-09-24 12:47:00.761113,a mothers reckoning living in the aftermath of tragedy,In Stock,Affordable,Average
+books_toscrape,A Gentleman's Position (Society of Gentlemen #3),14.75,Romance,5,In stock (11 available),2025-09-24 12:47:01.586104,a gentlemans position society of gentlemen 3,In Stock,Affordable,Excellent
+books_toscrape,11/22/63,48.48,Fiction,3,In stock (11 available),2025-09-24 12:47:03.966085,112263,In Stock,Mid-range,Average
+books_toscrape,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",24.57,Nonfiction,2,In stock (10 available),2025-09-24 12:47:04.851923,"10 happier how i tamed the voice in my head, reduced stress without losing my edge, and found selfhelp that actually works",In Stock,Affordable,Poor
+books_toscrape,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,Health,5,In stock (10 available),2025-09-24 12:47:05.740189,10day green smoothie cleanse lose up to 15 pounds in 10 days!,In Stock,Mid-range,Excellent
+books_toscrape,Without Shame,48.27,Add a comment,5,In stock (9 available),2025-09-24 12:47:08.630465,without shame,In Stock,Mid-range,Excellent
+books_toscrape,Watchmen,58.05,Add a comment,4,In stock (9 available),2025-09-24 12:47:09.449831,watchmen,In Stock,Premium,Good
+books_toscrape,Unlimited Intuition Now,58.87,Default,4,In stock (9 available),2025-09-24 12:47:10.259402,unlimited intuition now,In Stock,Premium,Good
+books_toscrape,Underlying Notes,11.82,Default,2,In stock (9 available),2025-09-24 12:47:11.061879,underlying notes,In Stock,Affordable,Poor
+books_toscrape,The Shack,28.03,Fiction,1,In stock (9 available),2025-09-24 12:47:11.864175,the shack,In Stock,Mid-range,Very Poor
+books_toscrape,The New Brand You: Your New Image Makes the Sale for You,44.05,Default,5,In stock (9 available),2025-09-24 12:47:12.665577,the new brand you your new image makes the sale for you,In Stock,Mid-range,Excellent
+books_toscrape,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,Food and Drink,4,In stock (9 available),2025-09-24 12:47:13.489505,"the moosewood cookbook recipes from moosewood restaurant, ithaca, new york",In Stock,Affordable,Good
+books_toscrape,The Flowers Lied,16.68,Default,2,In stock (9 available),2025-09-24 12:47:14.286303,the flowers lied,In Stock,Affordable,Poor
+books_toscrape,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91,Science,1,In stock (9 available),2025-09-24 12:47:15.078420,"the fabric of the cosmos space, time, and the texture of reality",In Stock,Premium,Very Poor
+books_toscrape,The Book of Mormon,24.57,Religion,3,In stock (9 available),2025-09-24 12:47:15.869175,the book of mormon,In Stock,Affordable,Average
+books_toscrape,The Art and Science of Low Carbohydrate Living,52.98,Health,5,In stock (9 available),2025-09-24 12:47:16.670932,the art and science of low carbohydrate living,In Stock,Premium,Excellent
+books_toscrape,The Alien Club,54.4,Young Adult,1,In stock (9 available),2025-09-24 12:47:17.477095,the alien club,In Stock,Premium,Very Poor
+books_toscrape,Suzie Snowflake: One beautiful flake (a self-esteem story),54.81,Novels,5,In stock (9 available),2025-09-24 12:47:18.362350,suzie snowflake one beautiful flake a selfesteem story,In Stock,Premium,Excellent
+books_toscrape,Nap-a-Roo,25.08,Childrens,1,In stock (9 available),2025-09-24 12:47:19.234952,naparoo,In Stock,Mid-range,Very Poor
+books_toscrape,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",10.41,Default,4,In stock (9 available),2025-09-24 12:47:20.045642,"nano what now? finding your editing process, revising your nanowrimo book and building a writing career through publishing and beyond",In Stock,Affordable,Good
+books_toscrape,Modern Day Fables,47.44,Default,2,In stock (9 available),2025-09-24 12:47:21.861178,modern day fables,In Stock,Mid-range,Poor
+books_toscrape,If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91,Spirituality,1,In stock (9 available),2025-09-24 12:47:22.669198,if i gave you gods phone number.... searching for spirituality in america,In Stock,Affordable,Very Poor
+books_toscrape,"Fruits Basket, Vol. 9 (Fruits Basket #9)",33.95,Sequential Art,4,In stock (9 available),2025-09-24 12:47:23.483499,"fruits basket, vol. 9 fruits basket 9",In Stock,Mid-range,Good
+books_toscrape,Dress Your Family in Corduroy and Denim,43.68,Humor,3,In stock (9 available),2025-09-24 12:47:24.291865,dress your family in corduroy and denim,In Stock,Mid-range,Average
+books_toscrape,Don't Forget Steven,33.23,Young Adult,1,In stock (9 available),2025-09-24 12:47:25.092342,dont forget steven,In Stock,Mid-range,Very Poor
+books_toscrape,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,35.92,Nonfiction,2,In stock (9 available),2025-09-24 12:47:28.076318,chernobyl 012340 the incredible true story of the worlds worst nuclear disaster,In Stock,Mid-range,Poor
+books_toscrape,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,Art,4,In stock (9 available),2025-09-24 12:47:28.958133,art and fear observations on the perils and rewards of artmaking,In Stock,Mid-range,Good
+books_toscrape,A Shard of Ice (The Black Symphony Saga #1),56.63,Fantasy,3,In stock (9 available),2025-09-24 12:47:29.753163,a shard of ice the black symphony saga 1,In Stock,Premium,Average
+books_toscrape,A Hero's Curse (The Unseen Chronicles #1),50.49,Add a comment,3,In stock (9 available),2025-09-24 12:47:30.556899,a heros curse the unseen chronicles 1,In Stock,Premium,Average
+books_toscrape,23 Degrees South: A Tropical Tale of Changing Whether...,35.79,Add a comment,2,In stock (9 available),2025-09-24 12:47:31.355225,23 degrees south a tropical tale of changing whether...,In Stock,Mid-range,Poor
+books_toscrape,"Zero to One: Notes on Startups, or How to Build the Future",34.06,Nonfiction,3,In stock (8 available),2025-09-24 12:47:32.153893,"zero to one notes on startups, or how to build the future",In Stock,Mid-range,Average
+books_toscrape,Why Not Me?,17.76,Nonfiction,1,In stock (8 available),2025-09-24 12:47:32.952291,why not me?,In Stock,Affordable,Very Poor
+books_toscrape,When Breath Becomes Air,39.36,Nonfiction,2,In stock (8 available),2025-09-24 12:47:33.744937,when breath becomes air,In Stock,Mid-range,Poor
+books_toscrape,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,Travel,2,In stock (8 available),2025-09-24 12:47:34.538918,vagabonding an uncommon guide to the art of longterm world travel,In Stock,Mid-range,Poor
+books_toscrape,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),43.62,Default,5,In stock (8 available),2025-09-24 12:47:35.355724,the unlikely pilgrimage of harold fry harold fry 1,In Stock,Mid-range,Excellent
+books_toscrape,The New Drawing on the Right Side of the Brain,43.02,Art,3,In stock (8 available),2025-09-24 12:47:36.143334,the new drawing on the right side of the brain,In Stock,Mid-range,Average
+books_toscrape,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",28.45,Nonfiction,4,In stock (8 available),2025-09-24 12:47:36.943112,"the midnight assassin panic, scandal, and the hunt for americas first serial killer",In Stock,Mid-range,Good
+books_toscrape,The Martian (The Martian #1),41.39,Default,2,In stock (8 available),2025-09-24 12:47:37.756380,the martian the martian 1,In Stock,Mid-range,Poor
+books_toscrape,The High Mountains of Portugal,51.15,Fiction,1,In stock (8 available),2025-09-24 12:47:38.544084,the high mountains of portugal,In Stock,Premium,Very Poor
+books_toscrape,The Grownup,35.88,Short Stories,1,In stock (8 available),2025-09-24 12:47:39.476611,the grownup,In Stock,Mid-range,Very Poor
+books_toscrape,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,Business,1,In stock (8 available),2025-09-24 12:47:40.346414,the emyth revisited why most small businesses dont work and what to do about it,In Stock,Mid-range,Very Poor
+books_toscrape,South of Sunshine,28.93,Young Adult,1,In stock (8 available),2025-09-24 12:47:41.225205,south of sunshine,In Stock,Mid-range,Very Poor
+books_toscrape,Smarter Faster Better: The Secrets of Being Productive in Life and Business,38.89,Nonfiction,5,In stock (8 available),2025-09-24 12:47:42.099852,smarter faster better the secrets of being productive in life and business,In Stock,Mid-range,Excellent
+books_toscrape,Silence in the Dark (Logan Point #4),58.33,Suspense,3,In stock (8 available),2025-09-24 12:47:42.992516,silence in the dark logan point 4,In Stock,Premium,Average
+books_toscrape,Shadows of the Past (Logan Point #1),39.67,Christian Fiction,5,In stock (8 available),2025-09-24 12:47:43.820022,shadows of the past logan point 1,In Stock,Mid-range,Excellent
+books_toscrape,Roller Girl,14.1,Sequential Art,5,In stock (8 available),2025-09-24 12:47:46.735041,roller girl,In Stock,Affordable,Excellent
+books_toscrape,Rising Strong,21.82,Nonfiction,3,In stock (8 available),2025-09-24 12:47:47.548959,rising strong,In Stock,Affordable,Average
+books_toscrape,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,Philosophy,1,In stock (8 available),2025-09-24 12:47:48.370521,proofs of god classical arguments from tertullian to barth,In Stock,Premium,Very Poor
+books_toscrape,Please Kill Me: The Uncensored Oral History of Punk,31.19,Music,4,In stock (8 available),2025-09-24 12:47:49.170302,please kill me the uncensored oral history of punk,In Stock,Mid-range,Good
+books_toscrape,Out of Print: City Lights Spotlight No. 14,53.64,Poetry,5,In stock (8 available),2025-09-24 12:47:49.981029,out of print city lights spotlight no. 14,In Stock,Premium,Excellent
+books_toscrape,My Life Next Door (My Life Next Door ),36.39,Young Adult,5,In stock (8 available),2025-09-24 12:47:50.783363,my life next door my life next door,In Stock,Mid-range,Excellent
+books_toscrape,Miller's Valley,58.54,Fiction,2,In stock (8 available),2025-09-24 12:47:51.583513,millers valley,In Stock,Premium,Poor
+books_toscrape,Man's Search for Meaning,29.48,Nonfiction,3,In stock (8 available),2025-09-24 12:47:52.385455,mans search for meaning,In Stock,Mid-range,Average
+books_toscrape,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",25.06,Nonfiction,2,In stock (8 available),2025-09-24 12:47:54.263254,"love that boy what two presidents, eight road trips, and my son taught me about a parents expectations",In Stock,Mid-range,Poor
+books_toscrape,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,12.55,Nonfiction,3,In stock (8 available),2025-09-24 12:47:55.204803,living forward a proven plan to stop drifting and get the life you want,In Stock,Affordable,Average
+books_toscrape,Les Fleurs du Mal,29.04,Poetry,5,In stock (8 available),2025-09-24 12:47:56.070759,les fleurs du mal,In Stock,Mid-range,Excellent
+books_toscrape,Left Behind (Left Behind #1),40.72,Default,2,In stock (8 available),2025-09-24 12:47:56.877452,left behind left behind 1,In Stock,Mid-range,Poor
+books_toscrape,Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,Music,5,In stock (8 available),2025-09-24 12:47:57.676728,kill em and leave searching for james brown and the american soul,In Stock,Mid-range,Excellent
+books_toscrape,Kierkegaard: A Christian Missionary to Christians,47.13,Philosophy,1,In stock (8 available),2025-09-24 12:47:58.486411,kierkegaard a christian missionary to christians,In Stock,Mid-range,Very Poor
+books_toscrape,John Vassos: Industrial Design for Modern Life,20.22,Default,4,In stock (8 available),2025-09-24 12:47:59.268893,john vassos industrial design for modern life,In Stock,Affordable,Good
+books_toscrape,I'll Give You the Sun,56.48,Default,1,In stock (8 available),2025-09-24 12:48:00.057302,ill give you the sun,In Stock,Premium,Very Poor
+books_toscrape,I Will Find You,44.21,Nonfiction,1,In stock (8 available),2025-09-24 12:48:00.853897,i will find you,In Stock,Mid-range,Very Poor
+books_toscrape,Hystopia: A Novel,21.96,Fiction,4,In stock (8 available),2025-09-24 12:48:01.667551,hystopia a novel,In Stock,Affordable,Good
+books_toscrape,Howl and Other Poems,40.45,Poetry,2,In stock (8 available),2025-09-24 12:48:02.497974,howl and other poems,In Stock,Mid-range,Poor
+books_toscrape,History of Beauty,10.29,Art,4,In stock (8 available),2025-09-24 12:48:03.298372,history of beauty,In Stock,Affordable,Good
+books_toscrape,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,52.86,Default,2,In stock (8 available),2025-09-24 12:48:06.299498,heaven is for real a little boys astounding story of his trip to heaven and back,In Stock,Premium,Poor
+books_toscrape,Future Shock (Future Shock #1),55.65,Young Adult,5,In stock (8 available),2025-09-24 12:48:07.189068,future shock future shock 1,In Stock,Premium,Excellent
+books_toscrape,Ender's Game (The Ender Quintet #1),43.64,Default,1,In stock (8 available),2025-09-24 12:48:08.004276,enders game the ender quintet 1,In Stock,Mid-range,Very Poor
+books_toscrape,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41,Science,1,In stock (8 available),2025-09-24 12:48:09.825877,diary of a citizen scientist chasing tiger beetles and other new ways of engaging the world,In Stock,Mid-range,Very Poor
+books_toscrape,Death by Leisure: A Cautionary Tale,37.51,Default,4,In stock (8 available),2025-09-24 12:48:10.637906,death by leisure a cautionary tale,In Stock,Mid-range,Good
+books_toscrape,Brilliant Beacons: A History of the American Lighthouse,11.45,History,3,In stock (8 available),2025-09-24 12:48:11.443233,brilliant beacons a history of the american lighthouse,In Stock,Affordable,Average
+books_toscrape,Brazen: The Courage to Find the You That's Been Hiding,19.22,Nonfiction,2,In stock (8 available),2025-09-24 12:48:12.252528,brazen the courage to find the you thats been hiding,In Stock,Affordable,Poor
+books_toscrape,Between the World and Me,56.91,Nonfiction,4,In stock (8 available),2025-09-24 12:48:13.074636,between the world and me,In Stock,Premium,Good
+books_toscrape,Being Mortal: Medicine and What Matters in the End,55.06,Nonfiction,4,In stock (8 available),2025-09-24 12:48:13.859804,being mortal medicine and what matters in the end,In Stock,Premium,Good
+books_toscrape,"A Murder Over a Girl: Justice, Gender, Junior High",13.2,Nonfiction,3,In stock (8 available),2025-09-24 12:48:14.669904,"a murder over a girl justice, gender, junior high",In Stock,Affordable,Average
+books_toscrape,32 Yolks,53.63,Food and Drink,2,In stock (8 available),2025-09-24 12:48:15.526679,32 yolks,In Stock,Premium,Poor
+books_toscrape,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48,History,5,In stock (8 available),2025-09-24 12:48:16.451792,most blessed of the patriarchs thomas jefferson and the empire of the imagination,In Stock,Mid-range,Excellent
+books_toscrape,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08,Self Help,3,In stock (7 available),2025-09-24 12:48:17.250554,you are a badass how to stop doubting your greatness and start living an awesome life,In Stock,Affordable,Average
+books_toscrape,Wildlife of New York: A Five-Borough Coloring Book,22.14,Default,2,In stock (7 available),2025-09-24 12:48:18.058485,wildlife of new york a fiveborough coloring book,In Stock,Affordable,Poor
+books_toscrape,What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,Mystery,5,In stock (7 available),2025-09-24 12:48:18.870129,what happened on beale street secrets of the south mysteries 2,In Stock,Mid-range,Excellent
+books_toscrape,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33,Spirituality,2,In stock (7 available),2025-09-24 12:48:19.750724,unreasonable hope finding faith in the god who brings purpose to your pain,In Stock,Mid-range,Poor
+books_toscrape,Under the Tuscan Sun,37.33,Travel,3,In stock (7 available),2025-09-24 12:48:20.536430,under the tuscan sun,In Stock,Mid-range,Average
+books_toscrape,Toddlers Are A**holes: It's Not Your Fault,25.55,Humor,1,In stock (7 available),2025-09-24 12:48:21.458282,toddlers are aholes its not your fault,In Stock,Mid-range,Very Poor
+books_toscrape,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,34.72,Default,1,In stock (7 available),2025-09-24 12:48:22.316042,the year of living biblically one mans humble quest to follow the bible as literally as possible,In Stock,Mid-range,Very Poor
+books_toscrape,The Whale,35.96,Childrens,4,In stock (7 available),2025-09-24 12:48:23.123399,the whale,In Stock,Mid-range,Good
+books_toscrape,The Story of Art,41.14,Art,4,In stock (7 available),2025-09-24 12:48:26.026606,the story of art,In Stock,Mid-range,Good
+books_toscrape,The Origin of Species,10.01,Science,4,In stock (7 available),2025-09-24 12:48:26.830112,the origin of species,In Stock,Affordable,Good
+books_toscrape,The Great Gatsby,36.05,Default,4,In stock (7 available),2025-09-24 12:48:27.627886,the great gatsby,In Stock,Mid-range,Good
+books_toscrape,The Good Girl,49.03,Default,3,In stock (7 available),2025-09-24 12:48:28.450499,the good girl,In Stock,Mid-range,Average
+books_toscrape,The Glass Castle,16.24,Add a comment,1,In stock (7 available),2025-09-24 12:48:29.245814,the glass castle,In Stock,Affordable,Very Poor
+books_toscrape,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55,Biography,1,In stock (7 available),2025-09-24 12:48:30.082792,the faith of christopher hitchens the restless soul of the worlds most notorious atheist,In Stock,Mid-range,Very Poor
+books_toscrape,The Drowning Girls,35.67,Add a comment,3,In stock (7 available),2025-09-24 12:48:30.886880,the drowning girls,In Stock,Mid-range,Average
+books_toscrape,The Constant Princess (The Tudor Court #1),16.62,Historical Fiction,3,In stock (7 available),2025-09-24 12:48:31.690040,the constant princess the tudor court 1,In Stock,Affordable,Average
+books_toscrape,The Bourne Identity (Jason Bourne #1),42.78,Fiction,4,In stock (7 available),2025-09-24 12:48:32.495609,the bourne identity jason bourne 1,In Stock,Mid-range,Good
+books_toscrape,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.3,Mystery,5,In stock (7 available),2025-09-24 12:48:33.416957,the bachelor girls guide to murder herringford and watts mysteries 1,In Stock,Premium,Excellent
+books_toscrape,The Art Book,32.34,Art,2,In stock (7 available),2025-09-24 12:48:34.288981,the art book,In Stock,Mid-range,Poor
+books_toscrape,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,33.17,Default,4,In stock (7 available),2025-09-24 12:48:35.141358,the 7 habits of highly effective people powerful lessons in personal change,In Stock,Mid-range,Good
+books_toscrape,Team of Rivals: The Political Genius of Abraham Lincoln,20.12,Add a comment,5,In stock (7 available),2025-09-24 12:48:35.973335,team of rivals the political genius of abraham lincoln,In Stock,Affordable,Excellent
+books_toscrape,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,20.9,Default,2,In stock (7 available),2025-09-24 12:48:36.793333,steal like an artist 10 things nobody told you about being creative,In Stock,Affordable,Poor
+books_toscrape,"Sit, Stay, Love",20.9,Romance,3,In stock (7 available),2025-09-24 12:48:37.606706,"sit, stay, love",In Stock,Affordable,Average
+books_toscrape,Sister Dear,40.2,Fiction,4,In stock (7 available),2025-09-24 12:48:38.423747,sister dear,In Stock,Mid-range,Good
+books_toscrape,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87,Childrens,3,In stock (7 available),2025-09-24 12:48:39.222306,"shrunken treasures literary classics, short, sweet, and silly",In Stock,Premium,Average
+books_toscrape,"Rich Dad, Poor Dad",51.74,Business,1,In stock (7 available),2025-09-24 12:48:40.044665,"rich dad, poor dad",In Stock,Premium,Very Poor
+books_toscrape,Raymie Nightingale,34.41,Childrens,2,In stock (7 available),2025-09-24 12:48:40.849015,raymie nightingale,In Stock,Mid-range,Poor
+books_toscrape,Playing from the Heart,32.38,Childrens,1,In stock (7 available),2025-09-24 12:48:41.650393,playing from the heart,In Stock,Mid-range,Very Poor
+books_toscrape,Nightstruck: A Novel,50.35,Young Adult,4,In stock (7 available),2025-09-24 12:48:44.750152,nightstruck a novel,In Stock,Premium,Good
+books_toscrape,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,Food and Drink,5,In stock (7 available),2025-09-24 12:48:45.538713,"naturally lean 125 nourishing glutenfree, plantbased recipesall under 300 calories",In Stock,Affordable,Excellent
+books_toscrape,Meternity,43.58,Womens Fiction,3,In stock (7 available),2025-09-24 12:48:46.441273,meternity,In Stock,Mid-range,Average
+books_toscrape,Memoirs of a Geisha,49.67,Fiction,3,In stock (7 available),2025-09-24 12:48:47.304138,memoirs of a geisha,In Stock,Mid-range,Average
+books_toscrape,Like Never Before (Walker Family #2),28.77,Christian Fiction,2,In stock (7 available),2025-09-24 12:48:48.161688,like never before walker family 2,In Stock,Mid-range,Poor
+books_toscrape,Life of Pi,13.22,Default,4,In stock (7 available),2025-09-24 12:48:48.962656,life of pi,In Stock,Affordable,Good
+books_toscrape,Leave This Song Behind: Teen Poetry at Its Best,51.17,Poetry,5,In stock (7 available),2025-09-24 12:48:49.763072,leave this song behind teen poetry at its best,In Stock,Premium,Excellent
+books_toscrape,King's Folly (The Kinsman Chronicles #1),39.61,Fantasy,5,In stock (7 available),2025-09-24 12:48:50.588748,kings folly the kinsman chronicles 1,In Stock,Mid-range,Excellent
+books_toscrape,John Adams,57.43,Add a comment,4,In stock (7 available),2025-09-24 12:48:51.384929,john adams,In Stock,Premium,Good
+books_toscrape,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),46.01,Food and Drink,4,In stock (7 available),2025-09-24 12:48:52.189905,how to cook everything vegetarian simple meatless recipes for great food how to cook everything,In Stock,Mid-range,Good
+books_toscrape,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,28.25,Food and Drink,2,In stock (7 available),2025-09-24 12:48:52.999244,how to be a domestic goddess baking and the art of comfort cooking,In Stock,Mid-range,Poor
+books_toscrape,Good in Bed (Cannie Shapiro #1),37.05,Add a comment,5,In stock (7 available),2025-09-24 12:48:53.813012,good in bed cannie shapiro 1,In Stock,Mid-range,Excellent
+books_toscrape,"Fruits Basket, Vol. 7 (Fruits Basket #7)",19.57,Sequential Art,1,In stock (7 available),2025-09-24 12:48:54.602533,"fruits basket, vol. 7 fruits basket 7",In Stock,Affordable,Very Poor
+books_toscrape,For the Love: Fighting for Grace in a World of Impossible Standards,45.13,Nonfiction,3,In stock (7 available),2025-09-24 12:48:55.417856,for the love fighting for grace in a world of impossible standards,In Stock,Mid-range,Average
+books_toscrape,Finding God in the Ruins: How God Redeems Pain,46.64,Nonfiction,2,In stock (7 available),2025-09-24 12:48:56.232125,finding god in the ruins how god redeems pain,In Stock,Mid-range,Poor
+books_toscrape,Every Heart a Doorway (Every Heart A Doorway #1),12.16,Fantasy,5,In stock (7 available),2025-09-24 12:48:57.045203,every heart a doorway every heart a doorway 1,In Stock,Affordable,Excellent
+books_toscrape,Delivering the Truth (Quaker Midwife Mystery #1),20.89,Mystery,4,In stock (7 available),2025-09-24 12:48:57.864593,delivering the truth quaker midwife mystery 1,In Stock,Affordable,Good
+books_toscrape,Counted With the Stars (Out from Egypt #1),17.97,Christian Fiction,5,In stock (7 available),2025-09-24 12:48:58.753259,counted with the stars out from egypt 1,In Stock,Affordable,Excellent
+books_toscrape,"Chronicles, Vol. 1",52.6,Music,2,In stock (7 available),2025-09-24 12:48:59.662688,"chronicles, vol. 1",In Stock,Premium,Poor
+books_toscrape,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77,Christian,1,In stock (7 available),2025-09-24 12:49:00.486089,blue like jazz nonreligious thoughts on christian spirituality,In Stock,Mid-range,Very Poor
+books_toscrape,Benjamin Franklin: An American Life,48.19,Biography,3,In stock (7 available),2025-09-24 12:49:03.461935,benjamin franklin an american life,In Stock,Mid-range,Average
+books_toscrape,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,Philosophy,5,In stock (7 available),2025-09-24 12:49:04.261229,"at the existentialist café freedom, being, and apricot cocktails with jeanpaul sartre, simone de beauvoir, albert camus, martin heidegger, edmund husserl, karl jaspers, maurice merleauponty and others",In Stock,Mid-range,Excellent
+books_toscrape,A Summer In Europe,44.34,Travel,2,In stock (7 available),2025-09-24 12:49:05.078030,a summer in europe,In Stock,Mid-range,Poor
+books_toscrape,A Short History of Nearly Everything,52.4,History,5,In stock (7 available),2025-09-24 12:49:05.905253,a short history of nearly everything,In Stock,Premium,Excellent
+books_toscrape,A Gathering of Shadows (Shades of Magic #2),44.81,Fantasy,4,In stock (7 available),2025-09-24 12:49:06.720968,a gathering of shadows shades of magic 2,In Stock,Mid-range,Good
+books_toscrape,The Sound Of Love,57.84,Default,5,In stock (6 available),2025-09-24 12:49:07.519202,the sound of love,In Stock,Premium,Excellent
+books_toscrape,The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,History,2,In stock (6 available),2025-09-24 12:49:09.338156,the rise and fall of the third reich a history of nazi germany,In Stock,Mid-range,Poor
+books_toscrape,The Perks of Being a Wallflower,55.02,Default,3,In stock (6 available),2025-09-24 12:49:10.172830,the perks of being a wallflower,In Stock,Premium,Average
+books_toscrape,The Mysterious Affair at Styles (Hercule Poirot #1),24.8,Mystery,4,In stock (6 available),2025-09-24 12:49:11.008964,the mysterious affair at styles hercule poirot 1,In Stock,Affordable,Good
+books_toscrape,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,59.45,Nonfiction,4,In stock (6 available),2025-09-24 12:49:12.840075,the man who mistook his wife for a hat and other clinical tales,In Stock,Premium,Good
+books_toscrape,The Makings of a Fatherless Child,31.58,Default,2,In stock (6 available),2025-09-24 12:49:13.738014,the makings of a fatherless child,In Stock,Mid-range,Poor
+books_toscrape,The Joy of Cooking,43.27,Add a comment,4,In stock (6 available),2025-09-24 12:49:14.662358,the joy of cooking,In Stock,Mid-range,Good
+books_toscrape,The Invention of Wings,37.34,Historical Fiction,1,In stock (6 available),2025-09-24 12:49:15.545171,the invention of wings,In Stock,Mid-range,Very Poor
+books_toscrape,The Hobbit (Middle-Earth Universe),17.8,Default,5,In stock (6 available),2025-09-24 12:49:16.352557,the hobbit middleearth universe,In Stock,Affordable,Excellent
+books_toscrape,The Great Railway Bazaar,30.54,Travel,1,In stock (6 available),2025-09-24 12:49:17.208187,the great railway bazaar,In Stock,Mid-range,Very Poor
+books_toscrape,The Golden Compass (His Dark Materials #1),18.77,Add a comment,1,In stock (6 available),2025-09-24 12:49:18.030950,the golden compass his dark materials 1,In Stock,Affordable,Very Poor
+books_toscrape,The God Delusion,46.85,Add a comment,3,In stock (6 available),2025-09-24 12:49:18.836211,the god delusion,In Stock,Mid-range,Average
+books_toscrape,The Girl You Left Behind (The Girl You Left Behind #1),15.79,Historical,1,In stock (6 available),2025-09-24 12:49:19.648386,the girl you left behind the girl you left behind 1,In Stock,Affordable,Very Poor
+books_toscrape,The Fellowship of the Ring (The Lord of the Rings #1),10.27,Default,2,In stock (6 available),2025-09-24 12:49:20.471892,the fellowship of the ring the lord of the rings 1,In Stock,Affordable,Poor
+books_toscrape,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42,Poetry,5,In stock (6 available),2025-09-24 12:49:21.279598,the collected poems of w.b. yeats the collected works of w.b. yeats 1,In Stock,Affordable,Excellent
+books_toscrape,The Barefoot Contessa Cookbook,59.92,Food and Drink,5,In stock (6 available),2025-09-24 12:49:24.252810,the barefoot contessa cookbook,In Stock,Premium,Excellent
+books_toscrape,Tell the Wolves I'm Home,50.96,Young Adult,2,In stock (6 available),2025-09-24 12:49:25.063368,tell the wolves im home,In Stock,Premium,Poor
+books_toscrape,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,30.6,Default,3,In stock (6 available),2025-09-24 12:49:25.941793,ship leaves harbor essays on travel by a recovering journeyman,In Stock,Mid-range,Average
+books_toscrape,Pride and Prejudice,19.27,Add a comment,4,In stock (6 available),2025-09-24 12:49:26.736597,pride and prejudice,In Stock,Affordable,Good
+books_toscrape,Musicophilia: Tales of Music and the Brain,46.58,Default,1,In stock (6 available),2025-09-24 12:49:27.663843,musicophilia tales of music and the brain,In Stock,Mid-range,Very Poor
+books_toscrape,Mere Christianity,48.51,Add a comment,3,In stock (6 available),2025-09-24 12:49:28.476335,mere christianity,In Stock,Mid-range,Average
+books_toscrape,Me Before You (Me Before You #1),19.02,Fiction,1,In stock (6 available),2025-09-24 12:49:29.362570,me before you me before you 1,In Stock,Affordable,Very Poor
+books_toscrape,In the Woods (Dublin Murder Squad #1),38.38,Mystery,2,In stock (6 available),2025-09-24 12:49:30.174275,in the woods dublin murder squad 1,In Stock,Mid-range,Poor
+books_toscrape,In Cold Blood,49.98,Nonfiction,4,In stock (6 available),2025-09-24 12:49:30.990024,in cold blood,In Stock,Mid-range,Good
+books_toscrape,How to Stop Worrying and Start Living,46.49,Self Help,5,In stock (6 available),2025-09-24 12:49:31.818152,how to stop worrying and start living,In Stock,Mid-range,Excellent
+books_toscrape,Give It Back,18.32,Thriller,2,In stock (6 available),2025-09-24 12:49:32.624275,give it back,In Stock,Affordable,Poor
+books_toscrape,"Girl, Interrupted",42.14,Nonfiction,3,In stock (6 available),2025-09-24 12:49:33.427270,"girl, interrupted",In Stock,Mid-range,Average
+books_toscrape,Fun Home: A Family Tragicomic,56.59,Add a comment,4,In stock (6 available),2025-09-24 12:49:34.239387,fun home a family tragicomic,In Stock,Premium,Good
+books_toscrape,"Fruits Basket, Vol. 6 (Fruits Basket #6)",20.96,Sequential Art,4,In stock (6 available),2025-09-24 12:49:35.056444,"fruits basket, vol. 6 fruits basket 6",In Stock,Affordable,Good
+books_toscrape,Deception Point,40.32,Fiction,4,In stock (6 available),2025-09-24 12:49:36.897653,deception point,In Stock,Mid-range,Good
+books_toscrape,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",36.39,Sequential Art,3,In stock (6 available),2025-09-24 12:49:37.692876,"death note, vol. 6 giveandtake death note 6",In Stock,Mid-range,Average
+books_toscrape,Catherine the Great: Portrait of a Woman,58.55,History,4,In stock (6 available),2025-09-24 12:49:38.541617,catherine the great portrait of a woman,In Stock,Premium,Good
+books_toscrape,Better Homes and Gardens New Cook Book,39.61,Food and Drink,3,In stock (6 available),2025-09-24 12:49:39.350118,better homes and gardens new cook book,In Stock,Mid-range,Average
+books_toscrape,An Unquiet Mind: A Memoir of Moods and Madness,21.3,Psychology,3,In stock (6 available),2025-09-24 12:49:40.161966,an unquiet mind a memoir of moods and madness,In Stock,Affordable,Average
+books_toscrape,A Year in Provence (Provence #1),56.88,Travel,4,In stock (6 available),2025-09-24 12:49:40.960653,a year in provence provence 1,In Stock,Premium,Good
+books_toscrape,World Without End (The Pillars of the Earth #2),32.97,Historical Fiction,4,In stock (5 available),2025-09-24 12:49:43.895350,world without end the pillars of the earth 2,In Stock,Mid-range,Good
+books_toscrape,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",47.31,Young Adult,4,In stock (5 available),2025-09-24 12:49:44.693607,"will grayson, will grayson will grayson, will grayson",In Stock,Mid-range,Good
+books_toscrape,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,48.67,Nonfiction,2,In stock (5 available),2025-09-24 12:49:45.501309,why save the bankers? and other essays on our economic and political crisis,In Stock,Mid-range,Poor
+books_toscrape,Where She Went (If I Stay #2),41.73,Young Adult,4,In stock (5 available),2025-09-24 12:49:46.314736,where she went if i stay 2,In Stock,Mid-range,Good
+books_toscrape,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,53.68,Default,4,In stock (5 available),2025-09-24 12:49:47.129179,what if? serious scientific answers to absurd hypothetical questions,In Stock,Premium,Good
+books_toscrape,Two Summers,14.64,Young Adult,1,In stock (5 available),2025-09-24 12:49:47.944077,two summers,In Stock,Affordable,Very Poor
+books_toscrape,This Is Your Brain on Music: The Science of a Human Obsession,38.4,Music,1,In stock (5 available),2025-09-24 12:49:48.742794,this is your brain on music the science of a human obsession,In Stock,Mid-range,Very Poor
+books_toscrape,The Secret Garden,15.08,Classics,4,In stock (5 available),2025-09-24 12:49:49.614031,the secret garden,In Stock,Affordable,Good
+books_toscrape,The Raven King (The Raven Cycle #4),30.57,Add a comment,2,In stock (5 available),2025-09-24 12:49:50.576268,the raven king the raven cycle 4,In Stock,Mid-range,Poor
+books_toscrape,The Raven Boys (The Raven Cycle #1),57.74,Fantasy,4,In stock (5 available),2025-09-24 12:49:51.440411,the raven boys the raven cycle 1,In Stock,Premium,Good
+books_toscrape,The Power Greens Cookbook: 140 Delicious Superfood Recipes,11.05,Food and Drink,5,In stock (5 available),2025-09-24 12:49:52.256913,the power greens cookbook 140 delicious superfood recipes,In Stock,Affordable,Excellent
+books_toscrape,The Metamorphosis,28.58,Classics,1,In stock (5 available),2025-09-24 12:49:53.086338,the metamorphosis,In Stock,Mid-range,Very Poor
+books_toscrape,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,History,5,In stock (5 available),2025-09-24 12:49:53.929460,the mathews men seven brothers and the war against hitlers uboats,In Stock,Mid-range,Excellent
+books_toscrape,The Little Paris Bookshop,24.73,Fiction,3,In stock (5 available),2025-09-24 12:49:54.730178,the little paris bookshop,In Stock,Affordable,Average
+books_toscrape,The Hiding Place,55.91,History,4,In stock (5 available),2025-09-24 12:49:55.535798,the hiding place,In Stock,Premium,Good
+books_toscrape,The Grand Design,13.76,Science,3,In stock (5 available),2025-09-24 12:49:56.340828,the grand design,In Stock,Affordable,Average
+books_toscrape,The Firm,45.56,Fiction,3,In stock (5 available),2025-09-24 12:49:57.140029,the firm,In Stock,Mid-range,Average
+books_toscrape,The Fault in Our Stars,47.22,Default,1,In stock (5 available),2025-09-24 12:49:57.938564,the fault in our stars,In Stock,Mid-range,Very Poor
+books_toscrape,The False Prince (The Ascendance Trilogy #1),56.0,Fantasy,5,In stock (5 available),2025-09-24 12:49:58.743351,the false prince the ascendance trilogy 1,In Stock,Premium,Excellent
+books_toscrape,The Expatriates,44.58,Fiction,2,In stock (5 available),2025-09-24 12:49:59.547255,the expatriates,In Stock,Mid-range,Poor
+books_toscrape,The Dream Thieves (The Raven Cycle #2),34.5,Default,1,In stock (5 available),2025-09-24 12:50:02.606654,the dream thieves the raven cycle 2,In Stock,Mid-range,Very Poor
+books_toscrape,The Darkest Corners,11.33,Young Adult,5,In stock (5 available),2025-09-24 12:50:03.427869,the darkest corners,In Stock,Affordable,Excellent
+books_toscrape,The Crossover,38.77,Poetry,4,In stock (5 available),2025-09-24 12:50:04.247848,the crossover,In Stock,Mid-range,Good
+books_toscrape,The 5th Wave (The 5th Wave #1),11.83,Default,2,In stock (5 available),2025-09-24 12:50:05.058221,the 5th wave the 5th wave 1,In Stock,Affordable,Poor
+books_toscrape,Tell the Wind and Fire,45.51,Fantasy,3,In stock (5 available),2025-09-24 12:50:05.882263,tell the wind and fire,In Stock,Mid-range,Average
+books_toscrape,Tell Me Three Things,41.81,Young Adult,1,In stock (5 available),2025-09-24 12:50:06.694147,tell me three things,In Stock,Mid-range,Very Poor
+books_toscrape,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,25.15,Nonfiction,4,In stock (5 available),2025-09-24 12:50:07.498889,talking to girls about duran duran one young mans quest for true love and a cooler haircut,In Stock,Mid-range,Good
+books_toscrape,Siddhartha,34.22,Fiction,5,In stock (5 available),2025-09-24 12:50:08.305534,siddhartha,In Stock,Mid-range,Excellent
+books_toscrape,Shiver (The Wolves of Mercy Falls #1),16.23,Default,5,In stock (5 available),2025-09-24 12:50:09.104682,shiver the wolves of mercy falls 1,In Stock,Affordable,Excellent
+books_toscrape,Remember Me?,11.48,Default,3,In stock (5 available),2025-09-24 12:50:09.908641,remember me?,In Stock,Affordable,Average
+books_toscrape,Red Dragon (Hannibal Lecter #1),23.37,Horror,3,In stock (5 available),2025-09-24 12:50:10.712259,red dragon hannibal lecter 1,In Stock,Affordable,Average
+books_toscrape,Peak: Secrets from the New Science of Expertise,16.28,Science,2,In stock (5 available),2025-09-24 12:50:11.509757,peak secrets from the new science of expertise,In Stock,Affordable,Poor
+books_toscrape,My Mother Was Nuts,31.63,Nonfiction,4,In stock (5 available),2025-09-24 12:50:12.311162,my mother was nuts,In Stock,Mid-range,Good
+books_toscrape,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,24.91,Food and Drink,5,In stock (5 available),2025-09-24 12:50:13.122305,mexican today new and rediscovered recipes for contemporary kitchens,In Stock,Affordable,Excellent
+books_toscrape,Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54,Childrens,1,In stock (5 available),2025-09-24 12:50:13.925811,maybe something beautiful how art transformed a neighborhood,In Stock,Affordable,Very Poor
+books_toscrape,Lola and the Boy Next Door (Anna and the French Kiss #2),23.63,Young Adult,4,In stock (5 available),2025-09-24 12:50:15.824473,lola and the boy next door anna and the french kiss 2,In Stock,Affordable,Good
+books_toscrape,Logan Kade (Fallen Crest High #5.5),13.12,Academic,2,In stock (5 available),2025-09-24 12:50:16.797159,logan kade fallen crest high 5.5,In Stock,Affordable,Poor
+books_toscrape,Last One Home (New Beginnings #1),59.98,Fiction,3,In stock (5 available),2025-09-24 12:50:17.628896,last one home new beginnings 1,In Stock,Premium,Average
+books_toscrape,Killing Floor (Jack Reacher #1),31.49,Thriller,4,In stock (5 available),2025-09-24 12:50:18.466085,killing floor jack reacher 1,In Stock,Mid-range,Good
+books_toscrape,Kill the Boy Band,15.52,Young Adult,5,In stock (5 available),2025-09-24 12:50:19.262679,kill the boy band,In Stock,Affordable,Excellent
+books_toscrape,Isla and the Happily Ever After (Anna and the French Kiss #3),48.13,Young Adult,5,In stock (5 available),2025-09-24 12:50:22.310029,isla and the happily ever after anna and the french kiss 3,In Stock,Mid-range,Excellent
+books_toscrape,If I Stay (If I Stay #1),38.13,Default,5,In stock (5 available),2025-09-24 12:50:23.115598,if i stay if i stay 1,In Stock,Mid-range,Excellent
+books_toscrape,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),36.55,Default,2,In stock (5 available),2025-09-24 12:50:23.906201,i know why the caged bird sings maya angelous autobiography 1,In Stock,Mid-range,Poor
+books_toscrape,Harry Potter and the Deathly Hallows (Harry Potter #7),23.32,Default,1,In stock (5 available),2025-09-24 12:50:24.695720,harry potter and the deathly hallows harry potter 7,In Stock,Affordable,Very Poor
+books_toscrape,"Fruits Basket, Vol. 5 (Fruits Basket #5)",16.33,Sequential Art,1,In stock (5 available),2025-09-24 12:50:25.499039,"fruits basket, vol. 5 fruits basket 5",In Stock,Affordable,Very Poor
+books_toscrape,Foundation (Foundation (Publication Order) #1),32.42,Science Fiction,1,In stock (5 available),2025-09-24 12:50:27.949733,foundation foundation publication order 1,In Stock,Mid-range,Very Poor
+books_toscrape,Fool Me Once,16.96,Default,1,In stock (5 available),2025-09-24 12:50:28.755855,fool me once,In Stock,Affordable,Very Poor
+books_toscrape,Find Her (Detective D.D. Warren #8),22.37,Add a comment,1,In stock (5 available),2025-09-24 12:50:29.620582,find her detective d.d. warren 8,In Stock,Affordable,Very Poor
+books_toscrape,Evicted: Poverty and Profit in the American City,42.27,Add a comment,1,In stock (5 available),2025-09-24 12:50:30.429118,evicted poverty and profit in the american city,In Stock,Mid-range,Very Poor
+books_toscrape,Drama,38.7,Default,2,In stock (5 available),2025-09-24 12:50:31.288969,drama,In Stock,Mid-range,Poor
+books_toscrape,Dracula the Un-Dead,35.63,Horror,5,In stock (5 available),2025-09-24 12:50:32.119812,dracula the undead,In Stock,Mid-range,Excellent
+books_toscrape,Digital Fortress,58.0,Fiction,5,In stock (5 available),2025-09-24 12:50:33.030435,digital fortress,In Stock,Premium,Excellent
+books_toscrape,"Death Note, Vol. 5: Whiteout (Death Note #5)",52.41,Sequential Art,1,In stock (5 available),2025-09-24 12:50:33.824858,"death note, vol. 5 whiteout death note 5",In Stock,Premium,Very Poor
+books_toscrape,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",32.35,Nonfiction,3,In stock (5 available),2025-09-24 12:50:34.621495,"data, a love story how i gamed online dating to meet my match",In Stock,Mid-range,Average
+books_toscrape,Critique of Pure Reason,20.75,Philosophy,1,In stock (5 available),2025-09-24 12:50:36.453135,critique of pure reason,In Stock,Affordable,Very Poor
+books_toscrape,Booked,17.49,Poetry,5,In stock (5 available),2025-09-24 12:50:37.267602,booked,In Stock,Affordable,Excellent
+books_toscrape,"Blue Lily, Lily Blue (The Raven Cycle #3)",34.13,Default,5,In stock (5 available),2025-09-24 12:50:38.160786,"blue lily, lily blue the raven cycle 3",In Stock,Mid-range,Excellent
+books_toscrape,Approval Junkie: Adventures in Caring Too Much,58.81,Autobiography,5,In stock (5 available),2025-09-24 12:50:38.950636,approval junkie adventures in caring too much,In Stock,Premium,Excellent
+books_toscrape,An Abundance of Katherines,10.0,Young Adult,5,In stock (5 available),2025-09-24 12:50:39.739664,an abundance of katherines,In Stock,Budget,Excellent
+books_toscrape,America's War for the Greater Middle East: A Military History,51.22,History,2,In stock (5 available),2025-09-24 12:50:40.609799,americas war for the greater middle east a military history,In Stock,Premium,Poor
+books_toscrape,Alight (The Generations Trilogy #2),58.59,Default,4,In stock (5 available),2025-09-24 12:50:43.521363,alight the generations trilogy 2,In Stock,Premium,Good
+books_toscrape,A Girl's Guide to Moving On (New Beginnings #2),31.3,Romance,1,In stock (5 available),2025-09-24 12:50:44.306757,a girls guide to moving on new beginnings 2,In Stock,Mid-range,Very Poor
+books_toscrape,A Game of Thrones (A Song of Ice and Fire #1),46.42,Add a comment,2,In stock (5 available),2025-09-24 12:50:45.125786,a game of thrones a song of ice and fire 1,In Stock,Mid-range,Poor
+books_toscrape,A Feast for Crows (A Song of Ice and Fire #4),17.21,Fantasy,4,In stock (5 available),2025-09-24 12:50:45.974402,a feast for crows a song of ice and fire 4,In Stock,Affordable,Good
+books_toscrape,A Clash of Kings (A Song of Ice and Fire #2),10.79,Add a comment,3,In stock (5 available),2025-09-24 12:50:46.795999,a clash of kings a song of ice and fire 2,In Stock,Affordable,Average
+books_toscrape,Vogue Colors A to Z: A Fashion Coloring Book,52.35,Default,4,In stock (4 available),2025-09-24 12:50:47.875162,vogue colors a to z a fashion coloring book,In Stock,Premium,Good
+books_toscrape,The Shining (The Shining #1),27.88,Default,3,In stock (4 available),2025-09-24 12:50:48.738995,the shining the shining 1,In Stock,Mid-range,Average
+books_toscrape,The Pilgrim's Progress,50.26,Classics,2,In stock (4 available),2025-09-24 12:50:49.540487,the pilgrims progress,In Stock,Premium,Poor
+books_toscrape,The Perfect Play (Play by Play #1),59.99,Romance,3,In stock (4 available),2025-09-24 12:50:50.414124,the perfect play play by play 1,In Stock,Premium,Average
+books_toscrape,The Passion of Dolssa,28.32,Historical Fiction,5,In stock (4 available),2025-09-24 12:50:51.258699,the passion of dolssa,In Stock,Mid-range,Excellent
+books_toscrape,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,38.71,Nonfiction,3,In stock (4 available),2025-09-24 12:50:52.077708,the jazz of physics the secret link between music and the structure of the universe,In Stock,Mid-range,Average
+books_toscrape,The Hunger Games (The Hunger Games #1),29.85,Default,5,In stock (4 available),2025-09-24 12:50:52.889794,the hunger games the hunger games 1,In Stock,Mid-range,Excellent
+books_toscrape,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,Classics,2,In stock (4 available),2025-09-24 12:50:53.706625,the hound of the baskervilles sherlock holmes 5,In Stock,Affordable,Poor
+books_toscrape,The Gunning of America: Business and the Making of American Gun Culture,16.81,Nonfiction,4,In stock (4 available),2025-09-24 12:50:54.522929,the gunning of america business and the making of american gun culture,In Stock,Affordable,Good
+books_toscrape,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,28.23,Nonfiction,2,In stock (4 available),2025-09-24 12:50:55.342828,the geography of bliss one grumps search for the happiest places in the world,In Stock,Mid-range,Poor
+books_toscrape,The Demonists (Demonist #1),52.11,Fantasy,2,In stock (4 available),2025-09-24 12:50:56.158041,the demonists demonist 1,In Stock,Premium,Poor
+books_toscrape,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",27.88,Sequential Art,2,In stock (4 available),2025-09-24 12:50:56.960202,"the demon prince of momochi house, vol. 4 the demon prince of momochi house 4",In Stock,Mid-range,Poor
+books_toscrape,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71,Thriller,3,In stock (4 available),2025-09-24 12:50:57.799601,the bone hunters lexy vaughan steven macaulay 2,In Stock,Premium,Average
+books_toscrape,The Beast (Black Dagger Brotherhood #14),46.08,Fantasy,5,In stock (4 available),2025-09-24 12:50:58.598931,the beast black dagger brotherhood 14,In Stock,Mid-range,Excellent
+books_toscrape,Some Women,13.73,Womens Fiction,5,In stock (4 available),2025-09-24 12:50:59.426060,some women,In Stock,Affordable,Excellent
+books_toscrape,Shopaholic Ties the Knot (Shopaholic #3),48.39,Womens Fiction,5,In stock (4 available),2025-09-24 12:51:02.399049,shopaholic ties the knot shopaholic 3,In Stock,Mid-range,Excellent
+books_toscrape,Paper and Fire (The Great Library #2),49.45,Fantasy,5,In stock (4 available),2025-09-24 12:51:03.254265,paper and fire the great library 2,In Stock,Mid-range,Excellent
+books_toscrape,Outlander (Outlander #1),19.67,Default,5,In stock (4 available),2025-09-24 12:51:04.115618,outlander outlander 1,In Stock,Affordable,Excellent
+books_toscrape,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,Music,3,In stock (4 available),2025-09-24 12:51:04.960500,"orchestra of exiles the story of bronislaw huberman, the israel philharmonic, and the one thousand jews he saved from nazi horrors",In Stock,Affordable,Average
+books_toscrape,No One Here Gets Out Alive,20.02,Music,5,In stock (4 available),2025-09-24 12:51:06.775753,no one here gets out alive,In Stock,Affordable,Excellent
+books_toscrape,Night Shift (Night Shift #1-20),12.75,Horror,4,In stock (4 available),2025-09-24 12:51:07.576499,night shift night shift 120,In Stock,Affordable,Good
+books_toscrape,Needful Things,47.51,Horror,4,In stock (4 available),2025-09-24 12:51:08.386368,needful things,In Stock,Mid-range,Good
+books_toscrape,Mockingjay (The Hunger Games #3),20.44,Default,4,In stock (4 available),2025-09-24 12:51:09.181498,mockingjay the hunger games 3,In Stock,Affordable,Good
+books_toscrape,Misery,34.79,Horror,2,In stock (4 available),2025-09-24 12:51:10.007777,misery,In Stock,Mid-range,Poor
+books_toscrape,Little Women (Little Women #1),28.07,Classics,4,In stock (4 available),2025-09-24 12:51:10.820243,little women little women 1,In Stock,Mid-range,Good
+books_toscrape,It,25.01,Horror,3,In stock (4 available),2025-09-24 12:51:11.618008,it,In Stock,Mid-range,Average
+books_toscrape,Harry Potter and the Sorcerer's Stone (Harry Potter #1),13.9,Default,3,In stock (4 available),2025-09-24 12:51:12.431024,harry potter and the sorcerers stone harry potter 1,In Stock,Affordable,Average
+books_toscrape,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),24.17,Young Adult,4,In stock (4 available),2025-09-24 12:51:13.261584,harry potter and the prisoner of azkaban harry potter 3,In Stock,Affordable,Good
+books_toscrape,Harry Potter and the Order of the Phoenix (Harry Potter #5),31.63,Fantasy,4,In stock (4 available),2025-09-24 12:51:14.113501,harry potter and the order of the phoenix harry potter 5,In Stock,Mid-range,Good
+books_toscrape,Harry Potter and the Half-Blood Prince (Harry Potter #6),48.75,Fantasy,5,In stock (4 available),2025-09-24 12:51:15.089966,harry potter and the halfblood prince harry potter 6,In Stock,Mid-range,Excellent
+books_toscrape,Harry Potter and the Chamber of Secrets (Harry Potter #2),14.74,Fantasy,1,In stock (4 available),2025-09-24 12:51:15.988475,harry potter and the chamber of secrets harry potter 2,In Stock,Affordable,Very Poor
+books_toscrape,Gone with the Wind,32.49,Classics,3,In stock (4 available),2025-09-24 12:51:16.788668,gone with the wind,In Stock,Mid-range,Average
+books_toscrape,God Is Not Great: How Religion Poisons Everything,27.8,Nonfiction,1,In stock (4 available),2025-09-24 12:51:17.622136,god is not great how religion poisons everything,In Stock,Mid-range,Very Poor
+books_toscrape,Girl With a Pearl Earring,26.77,Historical Fiction,1,In stock (4 available),2025-09-24 12:51:18.423697,girl with a pearl earring,In Stock,Mid-range,Very Poor
+books_toscrape,"Fruits Basket, Vol. 4 (Fruits Basket #4)",50.44,Sequential Art,4,In stock (4 available),2025-09-24 12:51:19.233725,"fruits basket, vol. 4 fruits basket 4",In Stock,Premium,Good
+books_toscrape,Far From True (Promise Falls Trilogy #2),34.93,Thriller,2,In stock (4 available),2025-09-24 12:51:22.182238,far from true promise falls trilogy 2,In Stock,Mid-range,Poor
+books_toscrape,Dark Lover (Black Dagger Brotherhood #1),12.87,Romance,1,In stock (4 available),2025-09-24 12:51:22.993546,dark lover black dagger brotherhood 1,In Stock,Affordable,Very Poor
+books_toscrape,Confessions of a Shopaholic (Shopaholic #1),48.94,Default,2,In stock (4 available),2025-09-24 12:51:23.787961,confessions of a shopaholic shopaholic 1,In Stock,Mid-range,Poor
+books_toscrape,Changing the Game (Play by Play #2),13.38,Romance,3,In stock (4 available),2025-09-24 12:51:24.581758,changing the game play by play 2,In Stock,Affordable,Average
+books_toscrape,Candide,58.63,Classics,3,In stock (4 available),2025-09-24 12:51:25.399913,candide,In Stock,Premium,Average
+books_toscrape,Can You Keep a Secret?,21.94,Womens Fiction,1,In stock (4 available),2025-09-24 12:51:26.214490,can you keep a secret?,In Stock,Affordable,Very Poor
+books_toscrape,Atlas Shrugged,26.58,Fiction,5,In stock (4 available),2025-09-24 12:51:27.006259,atlas shrugged,In Stock,Mid-range,Excellent
+books_toscrape,Animal Farm,57.22,Classics,3,In stock (4 available),2025-09-24 12:51:27.832928,animal farm,In Stock,Premium,Average
+books_toscrape,A Walk to Remember,56.43,Romance,1,In stock (4 available),2025-09-24 12:51:28.649657,a walk to remember,In Stock,Premium,Very Poor
+books_toscrape,A New Earth: Awakening to Your Life's Purpose,55.65,Spirituality,5,In stock (4 available),2025-09-24 12:51:29.479086,a new earth awakening to your lifes purpose,In Stock,Premium,Excellent
+books_toscrape,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,Religion,1,In stock (4 available),2025-09-24 12:51:30.378668,"a history of god the 4,000year quest of judaism, christianity, and islam",In Stock,Mid-range,Very Poor
+books_toscrape,'Salem's Lot,49.56,Horror,4,In stock (4 available),2025-09-24 12:51:31.237494,salems lot,In Stock,Mid-range,Good
+books_toscrape,Zero History (Blue Ant #3),34.77,Default,1,In stock (3 available),2025-09-24 12:51:32.039078,zero history blue ant 3,In Stock,Mid-range,Very Poor
+books_toscrape,Wuthering Heights,17.73,Classics,3,In stock (3 available),2025-09-24 12:51:32.858467,wuthering heights,In Stock,Affordable,Average
+books_toscrape,World War Z: An Oral History of the Zombie War,21.8,Default,1,In stock (3 available),2025-09-24 12:51:33.674263,world war z an oral history of the zombie war,In Stock,Affordable,Very Poor
+books_toscrape,Wild: From Lost to Found on the Pacific Crest Trail,46.02,Default,3,In stock (3 available),2025-09-24 12:51:34.476193,wild from lost to found on the pacific crest trail,In Stock,Mid-range,Average
+books_toscrape,"Where'd You Go, Bernadette",18.13,Default,1,In stock (3 available),2025-09-24 12:51:35.288996,"whered you go, bernadette",In Stock,Affordable,Very Poor
+books_toscrape,When You Are Engulfed in Flames,30.89,Humor,5,In stock (3 available),2025-09-24 12:51:36.095626,when you are engulfed in flames,In Stock,Mid-range,Excellent
+books_toscrape,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,31.95,Nonfiction,3,In stock (3 available),2025-09-24 12:51:36.890538,we the people the modernday figures who have reshaped and affirmed the founding fathers vision of america,In Stock,Mid-range,Average
+books_toscrape,We Are All Completely Beside Ourselves,24.04,Contemporary,1,In stock (3 available),2025-09-24 12:51:37.685152,we are all completely beside ourselves,In Stock,Affordable,Very Poor
+books_toscrape,Walk the Edge (Thunder Road #2),32.36,Young Adult,3,In stock (3 available),2025-09-24 12:51:40.733010,walk the edge thunder road 2,In Stock,Mid-range,Average
+books_toscrape,Voyager (Outlander #3),21.07,Historical Fiction,5,In stock (3 available),2025-09-24 12:51:41.615311,voyager outlander 3,In Stock,Affordable,Excellent
+books_toscrape,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,50.66,Nonfiction,3,In stock (3 available),2025-09-24 12:51:42.466476,very good lives the fringe benefits of failure and the importance of imagination,In Stock,Premium,Average
+books_toscrape,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,13.66,Food and Drink,2,In stock (3 available),2025-09-24 12:51:43.249466,vegan vegetarian omnivore dinner for everyone at the table,In Stock,Affordable,Poor
+books_toscrape,"Unstuffed: Decluttering Your Home, Mind, and Soul",58.09,Nonfiction,1,In stock (3 available),2025-09-24 12:51:44.064028,"unstuffed decluttering your home, mind, and soul",In Stock,Premium,Very Poor
+books_toscrape,Under the Banner of Heaven: A Story of Violent Faith,30.0,Nonfiction,1,In stock (3 available),2025-09-24 12:51:44.899368,under the banner of heaven a story of violent faith,In Stock,Mid-range,Very Poor
+books_toscrape,Two Boys Kissing,32.74,Young Adult,2,In stock (3 available),2025-09-24 12:51:45.737535,two boys kissing,In Stock,Mid-range,Poor
+books_toscrape,Twilight (Twilight #1),41.93,Default,2,In stock (3 available),2025-09-24 12:51:46.538967,twilight twilight 1,In Stock,Mid-range,Poor
+books_toscrape,Twenties Girl,42.8,Womens Fiction,2,In stock (3 available),2025-09-24 12:51:48.349449,twenties girl,In Stock,Mid-range,Poor
+books_toscrape,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",53.51,Nonfiction,1,In stock (3 available),2025-09-24 12:51:49.140673,"trespassing across america one mans epic, neverdonebefore and sort of illegal hike across the heartland",In Stock,Premium,Very Poor
+books_toscrape,Three-Martini Lunch,23.21,Fiction,3,In stock (3 available),2025-09-24 12:51:49.935195,threemartini lunch,In Stock,Affordable,Average
+books_toscrape,"Thinking, Fast and Slow",21.14,Psychology,1,In stock (3 available),2025-09-24 12:51:50.735395,"thinking, fast and slow",In Stock,Affordable,Very Poor
+books_toscrape,The Wild Robot,56.07,Childrens,3,In stock (3 available),2025-09-24 12:51:51.554227,the wild robot,In Stock,Premium,Average
+books_toscrape,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",14.41,Sequential Art,3,In stock (3 available),2025-09-24 12:51:52.364799,"the wicked the divine, vol. 3 commercial suicide the wicked the divine",In Stock,Affordable,Average
+books_toscrape,The Undomestic Goddess,45.75,Womens Fiction,4,In stock (3 available),2025-09-24 12:51:53.279748,the undomestic goddess,In Stock,Mid-range,Good
+books_toscrape,The Travelers,15.77,Thriller,1,In stock (3 available),2025-09-24 12:51:54.148771,the travelers,In Stock,Affordable,Very Poor
+books_toscrape,The Tipping Point: How Little Things Can Make a Big Difference,10.02,Add a comment,2,In stock (3 available),2025-09-24 12:51:54.994224,the tipping point how little things can make a big difference,In Stock,Affordable,Poor
+books_toscrape,The Thing About Jellyfish,48.77,Childrens,1,In stock (3 available),2025-09-24 12:51:55.810621,the thing about jellyfish,In Stock,Mid-range,Very Poor
+books_toscrape,The Stand,57.86,Horror,2,In stock (3 available),2025-09-24 12:51:56.607741,the stand,In Stock,Premium,Poor
+books_toscrape,The Smitten Kitchen Cookbook,23.59,Food and Drink,1,In stock (3 available),2025-09-24 12:51:57.406995,the smitten kitchen cookbook,In Stock,Affordable,Very Poor
+books_toscrape,The Silkworm (Cormoran Strike #2),23.05,Mystery,5,In stock (3 available),2025-09-24 12:52:00.331785,the silkworm cormoran strike 2,In Stock,Affordable,Excellent
+books_toscrape,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",55.55,Sequential Art,5,In stock (3 available),2025-09-24 12:52:01.139131,"the sandman, vol. 3 dream country the sandman volumes 3",In Stock,Premium,Excellent
+books_toscrape,The Rose & the Dagger (The Wrath and the Dawn #2),58.64,Fantasy,4,In stock (3 available),2025-09-24 12:52:01.935435,the rose the dagger the wrath and the dawn 2,In Stock,Premium,Good
+books_toscrape,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,Travel,1,In stock (3 available),2025-09-24 12:52:02.777970,the road to little dribbling adventures of an american in britain notes from a small island 2,In Stock,Affordable,Very Poor
+books_toscrape,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57,Biography,3,In stock (3 available),2025-09-24 12:52:03.579545,the rise of theodore roosevelt theodore roosevelt 1,In Stock,Mid-range,Average
+books_toscrape,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,Science Fiction,1,In stock (3 available),2025-09-24 12:52:04.476005,the restaurant at the end of the universe hitchhikers guide to the galaxy 2,In Stock,Affordable,Very Poor
+books_toscrape,The Rest Is Noise: Listening to the Twentieth Century,34.77,Add a comment,1,In stock (3 available),2025-09-24 12:52:05.373961,the rest is noise listening to the twentieth century,In Stock,Mid-range,Very Poor
+books_toscrape,The Red Tent,35.66,Historical Fiction,5,In stock (3 available),2025-09-24 12:52:06.165008,the red tent,In Stock,Mid-range,Excellent
+books_toscrape,The Purpose Driven Life: What on Earth Am I Here for?,37.19,Add a comment,3,In stock (3 available),2025-09-24 12:52:06.989674,the purpose driven life what on earth am i here for?,In Stock,Mid-range,Average
+books_toscrape,The Purest Hook (Second Circle Tattoos #3),12.25,Romance,1,In stock (3 available),2025-09-24 12:52:07.795946,the purest hook second circle tattoos 3,In Stock,Affordable,Very Poor
+books_toscrape,The Picture of Dorian Gray,29.7,Classics,2,In stock (3 available),2025-09-24 12:52:08.597482,the picture of dorian gray,In Stock,Mid-range,Poor
+books_toscrape,The Paris Wife,36.8,Default,3,In stock (3 available),2025-09-24 12:52:09.424830,the paris wife,In Stock,Mid-range,Average
+books_toscrape,The Obsession,45.43,Romance,1,In stock (3 available),2025-09-24 12:52:10.237799,the obsession,In Stock,Mid-range,Very Poor
+books_toscrape,The Nightingale,26.26,Fiction,4,In stock (3 available),2025-09-24 12:52:11.038158,the nightingale,In Stock,Mid-range,Good
+books_toscrape,The New Guy (and Other Senior Year Distractions),44.92,Young Adult,3,In stock (3 available),2025-09-24 12:52:11.840957,the new guy and other senior year distractions,In Stock,Mid-range,Average
+books_toscrape,The Nanny Diaries (Nanny #1),52.53,Womens Fiction,5,In stock (3 available),2025-09-24 12:52:12.646329,the nanny diaries nanny 1,In Stock,Premium,Excellent
+books_toscrape,The Name of God is Mercy,37.25,Nonfiction,2,In stock (3 available),2025-09-24 12:52:13.444647,the name of god is mercy,In Stock,Mid-range,Poor
+books_toscrape,The Maze Runner (The Maze Runner #1),20.93,Default,1,In stock (3 available),2025-09-24 12:52:14.241754,the maze runner the maze runner 1,In Stock,Affordable,Very Poor
+books_toscrape,The Lover's Dictionary,58.09,Default,2,In stock (3 available),2025-09-24 12:52:15.041823,the lovers dictionary,In Stock,Premium,Poor
+books_toscrape,The Lonely Ones,43.59,Childrens,5,In stock (3 available),2025-09-24 12:52:15.845750,the lonely ones,In Stock,Mid-range,Excellent
+books_toscrape,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,Business,3,In stock (3 available),2025-09-24 12:52:18.841732,the lean startup how todays entrepreneurs use continuous innovation to create radically successful businesses,In Stock,Mid-range,Average
+books_toscrape,The Last Painting of Sara de Vos,55.55,Historical Fiction,2,In stock (3 available),2025-09-24 12:52:19.711543,the last painting of sara de vos,In Stock,Premium,Poor
+books_toscrape,"The Land of 10,000 Madonnas",29.64,Young Adult,4,In stock (3 available),2025-09-24 12:52:20.536094,"the land of 10,000 madonnas",In Stock,Mid-range,Good
+books_toscrape,The Infinities,27.41,Fiction,1,In stock (3 available),2025-09-24 12:52:21.420530,the infinities,In Stock,Mid-range,Very Poor
+books_toscrape,The Husband's Secret,52.51,Fiction,5,In stock (3 available),2025-09-24 12:52:22.252671,the husbands secret,In Stock,Premium,Excellent
+books_toscrape,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),47.8,Add a comment,3,In stock (3 available),2025-09-24 12:52:23.056516,the hitchhikers guide to the galaxy hitchhikers guide to the galaxy 1,In Stock,Mid-range,Average
+books_toscrape,The Guns of August,14.54,History,2,In stock (3 available),2025-09-24 12:52:23.849955,the guns of august,In Stock,Affordable,Poor
+books_toscrape,The Guernsey Literary and Potato Peel Pie Society,49.53,Historical Fiction,1,In stock (3 available),2025-09-24 12:52:24.685915,the guernsey literary and potato peel pie society,In Stock,Mid-range,Very Poor
+books_toscrape,The Goldfinch,43.58,Default,3,In stock (3 available),2025-09-24 12:52:25.489457,the goldfinch,In Stock,Mid-range,Average
+books_toscrape,The Giver (The Giver Quartet #1),12.3,Default,1,In stock (3 available),2025-09-24 12:52:26.284744,the giver the giver quartet 1,In Stock,Affordable,Very Poor
+books_toscrape,The Girl with All the Gifts,49.47,Horror,3,In stock (3 available),2025-09-24 12:52:27.089089,the girl with all the gifts,In Stock,Mid-range,Average
+books_toscrape,The Girl Who Played with Fire (Millennium Trilogy #2),22.14,Default,2,In stock (3 available),2025-09-24 12:52:27.899175,the girl who played with fire millennium trilogy 2,In Stock,Affordable,Poor
+books_toscrape,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),57.48,Add a comment,1,In stock (3 available),2025-09-24 12:52:28.713847,the girl who kicked the hornets nest millennium trilogy 3,In Stock,Premium,Very Poor
+books_toscrape,The Exiled,43.45,Mystery,3,In stock (3 available),2025-09-24 12:52:30.536438,the exiled,In Stock,Mid-range,Average
+books_toscrape,"The End of Faith: Religion, Terror, and the Future of Reason",22.13,Add a comment,4,In stock (3 available),2025-09-24 12:52:31.398699,"the end of faith religion, terror, and the future of reason",In Stock,Affordable,Good
+books_toscrape,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03,Science,4,In stock (3 available),2025-09-24 12:52:32.363458,"the elegant universe superstrings, hidden dimensions, and the quest for the ultimate theory",In Stock,Affordable,Good
+books_toscrape,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35,Science,5,In stock (3 available),2025-09-24 12:52:33.190690,"the disappearing spoon and other true tales of madness, love, and the history of the world from the periodic table of the elements",In Stock,Premium,Excellent
+books_toscrape,The Devil Wears Prada (The Devil Wears Prada #1),44.29,Womens Fiction,1,In stock (3 available),2025-09-24 12:52:33.994418,the devil wears prada the devil wears prada 1,In Stock,Mid-range,Very Poor
+books_toscrape,The Demon-Haunted World: Science as a Candle in the Dark,52.25,Default,4,In stock (3 available),2025-09-24 12:52:34.801881,the demonhaunted world science as a candle in the dark,In Stock,Premium,Good
+books_toscrape,The Day the Crayons Came Home (Crayons),26.33,Childrens,5,In stock (3 available),2025-09-24 12:52:35.607271,the day the crayons came home crayons,In Stock,Mid-range,Excellent
+books_toscrape,The Da Vinci Code (Robert Langdon #2),22.96,Fiction,2,In stock (3 available),2025-09-24 12:52:38.478527,the da vinci code robert langdon 2,In Stock,Affordable,Poor
+books_toscrape,The Cuckoo's Calling (Cormoran Strike #1),19.21,Mystery,1,In stock (3 available),2025-09-24 12:52:39.278441,the cuckoos calling cormoran strike 1,In Stock,Affordable,Very Poor
+books_toscrape,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,Classics,4,In stock (3 available),2025-09-24 12:52:40.078946,the complete stories and poems the works of edgar allan poe cameo edition,In Stock,Mid-range,Good
+books_toscrape,The Complete Poems,41.32,Add a comment,5,In stock (3 available),2025-09-24 12:52:40.866925,the complete poems,In Stock,Mid-range,Excellent
+books_toscrape,The Catcher in the Rye,24.55,Add a comment,1,In stock (3 available),2025-09-24 12:52:41.665055,the catcher in the rye,In Stock,Affordable,Very Poor
+books_toscrape,The Cat in the Hat (Beginner Books B-1),16.26,Childrens,2,In stock (3 available),2025-09-24 12:52:42.459272,the cat in the hat beginner books b1,In Stock,Affordable,Poor
+books_toscrape,The Case for Christ (Cases for Christianity),47.84,Add a comment,1,In stock (3 available),2025-09-24 12:52:43.299146,the case for christ cases for christianity,In Stock,Mid-range,Very Poor
+books_toscrape,The Book Thief,53.49,Default,2,In stock (3 available),2025-09-24 12:52:44.150029,the book thief,In Stock,Premium,Poor
+books_toscrape,The Book of Basketball: The NBA According to The Sports Guy,44.84,Sports and Games,5,In stock (3 available),2025-09-24 12:52:44.950454,the book of basketball the nba according to the sports guy,In Stock,Mid-range,Excellent
+books_toscrape,The Blind Side: Evolution of a Game,53.71,Add a comment,5,In stock (3 available),2025-09-24 12:52:45.826578,the blind side evolution of a game,In Stock,Premium,Excellent
+books_toscrape,The Autobiography of Malcolm X,23.43,Default,2,In stock (3 available),2025-09-24 12:52:46.718255,the autobiography of malcolm x,In Stock,Affordable,Poor
+books_toscrape,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",34.32,Food and Drink,3,In stock (3 available),2025-09-24 12:52:47.664191,"the art of simple food notes, lessons, and recipes from a delicious revolution",In Stock,Mid-range,Average
+books_toscrape,The Art of Fielding,22.1,Fiction,1,In stock (3 available),2025-09-24 12:52:48.489086,the art of fielding,In Stock,Affordable,Very Poor
+books_toscrape,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83,Science,2,In stock (3 available),2025-09-24 12:52:49.304852,"surely youre joking, mr. feynman! adventures of a curious character",In Stock,Mid-range,Poor
+books_toscrape,Stiff: The Curious Lives of Human Cadavers,36.74,Nonfiction,3,In stock (3 available),2025-09-24 12:52:50.112329,stiff the curious lives of human cadavers,In Stock,Mid-range,Average
+books_toscrape,Spilled Milk: Based on a True Story,49.51,Nonfiction,1,In stock (3 available),2025-09-24 12:52:50.906933,spilled milk based on a true story,In Stock,Mid-range,Very Poor
+books_toscrape,Something Borrowed (Darcy & Rachel #1),48.96,Womens Fiction,5,In stock (3 available),2025-09-24 12:52:51.713464,something borrowed darcy rachel 1,In Stock,Mid-range,Excellent
+books_toscrape,Something Blue (Darcy & Rachel #2),54.62,Womens Fiction,1,In stock (3 available),2025-09-24 12:52:52.519235,something blue darcy rachel 2,In Stock,Premium,Very Poor
+books_toscrape,Soldier (Talon #3),24.72,Fantasy,2,In stock (3 available),2025-09-24 12:52:53.311255,soldier talon 3,In Stock,Affordable,Poor
+books_toscrape,Shopaholic & Baby (Shopaholic #5),46.45,Default,2,In stock (3 available),2025-09-24 12:52:54.098621,shopaholic baby shopaholic 5,In Stock,Mid-range,Poor
+books_toscrape,Seven Days in the Art World,52.33,Add a comment,2,In stock (3 available),2025-09-24 12:52:57.162690,seven days in the art world,In Stock,Premium,Poor
+books_toscrape,Seven Brief Lessons on Physics,30.6,Science,4,In stock (3 available),2025-09-24 12:52:58.022054,seven brief lessons on physics,In Stock,Mid-range,Good
+books_toscrape,Scarlet (The Lunar Chronicles #2),14.57,Young Adult,4,In stock (3 available),2025-09-24 12:52:58.838853,scarlet the lunar chronicles 2,In Stock,Affordable,Good
+books_toscrape,Sarah's Key,46.29,Add a comment,1,In stock (3 available),2025-09-24 12:52:59.648271,sarahs key,In Stock,Mid-range,Very Poor
+books_toscrape,"Saga, Volume 3 (Saga (Collected Editions) #3)",21.57,Sequential Art,5,In stock (3 available),2025-09-24 12:53:00.455434,"saga, volume 3 saga collected editions 3",In Stock,Affordable,Excellent
+books_toscrape,Running with Scissors,12.91,Autobiography,4,In stock (3 available),2025-09-24 12:53:01.261935,running with scissors,In Stock,Affordable,Good
+books_toscrape,Rogue Lawyer (Rogue Lawyer #1),50.11,Add a comment,3,In stock (3 available),2025-09-24 12:53:02.075966,rogue lawyer rogue lawyer 1,In Stock,Premium,Average
+books_toscrape,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",41.67,Nonfiction,4,In stock (3 available),2025-09-24 12:53:02.868765,"rise of the rocket girls the women who propelled us, from missiles to the moon to mars",In Stock,Mid-range,Good
+books_toscrape,Rework,44.88,Business,2,In stock (3 available),2025-09-24 12:53:03.668550,rework,In Stock,Mid-range,Poor
+books_toscrape,Reservations for Two,11.1,Romance,3,In stock (3 available),2025-09-24 12:53:04.471728,reservations for two,In Stock,Affordable,Average
+books_toscrape,Red: The True Story of Red Riding Hood,28.54,Childrens,3,In stock (3 available),2025-09-24 12:53:05.275770,red the true story of red riding hood,In Stock,Mid-range,Average
+books_toscrape,Ready Player One,19.07,Science Fiction,4,In stock (3 available),2025-09-24 12:53:06.067159,ready player one,In Stock,Affordable,Good
+books_toscrape,Quiet: The Power of Introverts in a World That Can't Stop Talking,43.55,Default,1,In stock (3 available),2025-09-24 12:53:06.870996,quiet the power of introverts in a world that cant stop talking,In Stock,Mid-range,Very Poor
+books_toscrape,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),43.63,Sequential Art,3,In stock (3 available),2025-09-24 12:53:07.680890,prodigy the graphic novel legend the graphic novel 2,In Stock,Mid-range,Average
+books_toscrape,Persepolis: The Story of a Childhood (Persepolis #1-2),39.13,Sequential Art,1,In stock (3 available),2025-09-24 12:53:08.542789,persepolis the story of a childhood persepolis 12,In Stock,Mid-range,Very Poor
+books_toscrape,Packing for Mars: The Curious Science of Life in the Void,56.68,Default,2,In stock (3 available),2025-09-24 12:53:09.344322,packing for mars the curious science of life in the void,In Stock,Premium,Poor
+books_toscrape,Outliers: The Story of Success,14.16,Nonfiction,1,In stock (3 available),2025-09-24 12:53:10.238516,outliers the story of success,In Stock,Affordable,Very Poor
+books_toscrape,Original Fake,31.45,Sequential Art,3,In stock (3 available),2025-09-24 12:53:11.115076,original fake,In Stock,Mid-range,Average
+books_toscrape,Orange Is the New Black,24.61,Default,2,In stock (3 available),2025-09-24 12:53:11.969490,orange is the new black,In Stock,Affordable,Poor
+books_toscrape,One for the Money (Stephanie Plum #1),32.87,Default,2,In stock (3 available),2025-09-24 12:53:12.810779,one for the money stephanie plum 1,In Stock,Mid-range,Poor
+books_toscrape,Notes from a Small Island (Notes From a Small Island #1),40.17,Nonfiction,1,In stock (3 available),2025-09-24 12:53:15.720033,notes from a small island notes from a small island 1,In Stock,Mid-range,Very Poor
+books_toscrape,Night (The Night Trilogy #1),13.51,Nonfiction,1,In stock (3 available),2025-09-24 12:53:16.544769,night the night trilogy 1,In Stock,Affordable,Very Poor
+books_toscrape,Neither Here nor There: Travels in Europe,38.95,Travel,3,In stock (3 available),2025-09-24 12:53:17.342963,neither here nor there travels in europe,In Stock,Mid-range,Average
+books_toscrape,Naked,31.69,Humor,3,In stock (3 available),2025-09-24 12:53:18.172962,naked,In Stock,Mid-range,Average
+books_toscrape,Morning Star (Red Rising #3),29.4,Default,1,In stock (3 available),2025-09-24 12:53:18.995102,morning star red rising 3,In Stock,Mid-range,Very Poor
+books_toscrape,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",57.83,Nonfiction,1,In stock (3 available),2025-09-24 12:53:19.811191,"miracles from heaven a little girl, her journey to heaven, and her amazing story of healing",In Stock,Premium,Very Poor
+books_toscrape,Midnight Riot (Peter Grant/ Rivers of London - books #1),55.46,Fantasy,2,In stock (3 available),2025-09-24 12:53:20.685030,midnight riot peter grant rivers of london books 1,In Stock,Premium,Poor
+books_toscrape,Me Talk Pretty One Day,57.6,Autobiography,2,In stock (3 available),2025-09-24 12:53:21.645736,me talk pretty one day,In Stock,Premium,Poor
+books_toscrape,Manuscript Found in Accra,34.98,Add a comment,2,In stock (3 available),2025-09-24 12:53:22.601237,manuscript found in accra,In Stock,Mid-range,Poor
+books_toscrape,Lust & Wonder,11.87,Autobiography,2,In stock (3 available),2025-09-24 12:53:24.438162,lust wonder,In Stock,Affordable,Poor
+books_toscrape,Lila (Gilead #3),12.47,Fiction,3,In stock (3 available),2025-09-24 12:53:25.338529,lila gilead 3,In Stock,Affordable,Average
+books_toscrape,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,Science Fiction,2,In stock (3 available),2025-09-24 12:53:26.290426,"life, the universe and everything hitchhikers guide to the galaxy 3",In Stock,Mid-range,Poor
+books_toscrape,Life Without a Recipe,59.04,Autobiography,5,In stock (3 available),2025-09-24 12:53:27.108535,life without a recipe,In Stock,Premium,Excellent
+books_toscrape,Life After Life,26.13,Default,2,In stock (3 available),2025-09-24 12:53:27.898119,life after life,In Stock,Mid-range,Poor
+books_toscrape,Letter to a Christian Nation,22.2,Nonfiction,1,In stock (3 available),2025-09-24 12:53:28.717531,letter to a christian nation,In Stock,Affordable,Very Poor
+books_toscrape,Let's Pretend This Never Happened: A Mostly True Memoir,45.11,Nonfiction,1,In stock (3 available),2025-09-24 12:53:29.523303,lets pretend this never happened a mostly true memoir,In Stock,Mid-range,Very Poor
+books_toscrape,Legend (Legend #1),43.69,Young Adult,4,In stock (3 available),2025-09-24 12:53:30.327138,legend legend 1,In Stock,Mid-range,Good
+books_toscrape,"Lean In: Women, Work, and the Will to Lead",25.02,Default,1,In stock (3 available),2025-09-24 12:53:31.140220,"lean in women, work, and the will to lead",In Stock,Mid-range,Very Poor
+books_toscrape,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.5,Humor,5,In stock (3 available),2025-09-24 12:53:31.953634,"lamb the gospel according to biff, christs childhood pal",In Stock,Premium,Excellent
+books_toscrape,Lady Renegades (Rebel Belle #3),53.04,Young Adult,5,In stock (3 available),2025-09-24 12:53:32.771509,lady renegades rebel belle 3,In Stock,Premium,Excellent
+books_toscrape,Jurassic Park (Jurassic Park #1),44.97,Fiction,1,In stock (3 available),2025-09-24 12:53:35.809499,jurassic park jurassic park 1,In Stock,Mid-range,Very Poor
+books_toscrape,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,42.38,Nonfiction,1,In stock (3 available),2025-09-24 12:53:36.673892,its never too late to begin again discovering creativity and meaning at midlife and beyond,In Stock,Mid-range,Very Poor
+books_toscrape,Is Everyone Hanging Out Without Me? (And Other Concerns),20.11,Default,3,In stock (3 available),2025-09-24 12:53:37.637495,is everyone hanging out without me? and other concerns,In Stock,Affordable,Average
+books_toscrape,Into the Wild,56.7,Nonfiction,5,In stock (3 available),2025-09-24 12:53:38.507834,into the wild,In Stock,Premium,Excellent
+books_toscrape,Inferno (Robert Langdon #4),41.0,Fiction,5,In stock (3 available),2025-09-24 12:53:39.387579,inferno robert langdon 4,In Stock,Mid-range,Excellent
+books_toscrape,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",28.85,Nonfiction,3,In stock (3 available),2025-09-24 12:53:40.345101,"in the garden of beasts love, terror, and an american family in hitlers berlin",In Stock,Mid-range,Average
+books_toscrape,If I Run (If I Run #1),49.97,Christian Fiction,4,In stock (3 available),2025-09-24 12:53:41.165726,if i run if i run 1,In Stock,Mid-range,Good
+books_toscrape,I've Got Your Number,19.69,Womens Fiction,1,In stock (3 available),2025-09-24 12:53:41.961115,ive got your number,In Stock,Affordable,Very Poor
+books_toscrape,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,28.88,Nonfiction,2,In stock (3 available),2025-09-24 12:53:42.769110,i am malala the girl who stood up for education and was shot by the taliban,In Stock,Mid-range,Poor
+books_toscrape,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,33.14,Food and Drink,3,In stock (3 available),2025-09-24 12:53:43.558575,hungry girl clean hungry easy allnatural recipes for healthy eating in the real world,In Stock,Mid-range,Average
+books_toscrape,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.7,History,2,In stock (3 available),2025-09-24 12:53:44.348297,"house of lost worlds dinosaurs, dynasties, and the story of life on earth",In Stock,Mid-range,Poor
+books_toscrape,House of Leaves,54.89,Horror,1,In stock (3 available),2025-09-24 12:53:45.149067,house of leaves,In Stock,Premium,Very Poor
+books_toscrape,Horrible Bear!,37.52,Childrens,2,In stock (3 available),2025-09-24 12:53:45.945772,horrible bear!,In Stock,Mid-range,Poor
+books_toscrape,Holidays on Ice,51.07,Humor,2,In stock (3 available),2025-09-24 12:53:46.743812,holidays on ice,In Stock,Premium,Poor
+books_toscrape,Heir to the Sky,44.07,Fantasy,4,In stock (3 available),2025-09-24 12:53:47.552538,heir to the sky,In Stock,Mid-range,Good
+books_toscrape,Green Eggs and Ham (Beginner Books B-16),10.79,Childrens,4,In stock (3 available),2025-09-24 12:53:48.374012,green eggs and ham beginner books b16,In Stock,Affordable,Good
+books_toscrape,"Grayson, Vol 3: Nemesis (Grayson #3)",42.72,Sequential Art,1,In stock (3 available),2025-09-24 12:53:49.189620,"grayson, vol 3 nemesis grayson 3",In Stock,Mid-range,Very Poor
+books_toscrape,Gratitude,26.66,Nonfiction,5,In stock (3 available),2025-09-24 12:53:50.058503,gratitude,In Stock,Mid-range,Excellent
+books_toscrape,Gone Girl,37.6,Default,5,In stock (3 available),2025-09-24 12:53:50.898175,gone girl,In Stock,Mid-range,Excellent
+books_toscrape,Golden (Heart of Dread #3),42.21,Young Adult,4,In stock (3 available),2025-09-24 12:53:51.754493,golden heart of dread 3,In Stock,Mid-range,Good
+books_toscrape,Girl in the Blue Coat,46.83,Historical Fiction,2,In stock (3 available),2025-09-24 12:53:54.656599,girl in the blue coat,In Stock,Mid-range,Poor
+books_toscrape,"Fruits Basket, Vol. 3 (Fruits Basket #3)",45.17,Sequential Art,2,In stock (3 available),2025-09-24 12:53:55.450323,"fruits basket, vol. 3 fruits basket 3",In Stock,Mid-range,Poor
+books_toscrape,"Friday Night Lights: A Town, a Team, and a Dream",51.22,Sports and Games,3,In stock (3 available),2025-09-24 12:53:56.243172,"friday night lights a town, a team, and a dream",In Stock,Premium,Average
+books_toscrape,Fire Bound (Sea Haven/Sisters of the Heart #5),21.28,Add a comment,4,In stock (3 available),2025-09-24 12:53:57.059704,fire bound sea havensisters of the heart 5,In Stock,Affordable,Good
+books_toscrape,Fifty Shades Freed (Fifty Shades #3),15.36,Adult Fiction,5,In stock (3 available),2025-09-24 12:53:57.865947,fifty shades freed fifty shades 3,In Stock,Affordable,Excellent
+books_toscrape,Fellside,38.62,Default,1,In stock (3 available),2025-09-24 12:53:58.660722,fellside,In Stock,Mid-range,Very Poor
+books_toscrape,Extreme Prey (Lucas Davenport #26),25.4,Mystery,3,In stock (3 available),2025-09-24 12:53:59.482205,extreme prey lucas davenport 26,In Stock,Mid-range,Average
+books_toscrape,Eragon (The Inheritance Cycle #1),43.87,Fantasy,3,In stock (3 available),2025-09-24 12:54:00.392979,eragon the inheritance cycle 1,In Stock,Mid-range,Average
+books_toscrape,Eclipse (Twilight #3),18.74,Default,1,In stock (3 available),2025-09-24 12:54:01.246037,eclipse twilight 3,In Stock,Affordable,Very Poor
+books_toscrape,Dune (Dune #1),54.86,Science Fiction,1,In stock (3 available),2025-09-24 12:54:02.115970,dune dune 1,In Stock,Premium,Very Poor
+books_toscrape,Dracula,52.62,Default,3,In stock (3 available),2025-09-24 12:54:02.927565,dracula,In Stock,Premium,Average
+books_toscrape,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,Science Fiction,1,In stock (3 available),2025-09-24 12:54:03.723751,do androids dream of electric sheep? blade runner 1,In Stock,Premium,Very Poor
+books_toscrape,Disrupted: My Misadventure in the Start-Up Bubble,15.28,Nonfiction,5,In stock (3 available),2025-09-24 12:54:04.518580,disrupted my misadventure in the startup bubble,In Stock,Affordable,Excellent
+books_toscrape,Dead Wake: The Last Crossing of the Lusitania,39.24,Default,5,In stock (3 available),2025-09-24 12:54:05.327541,dead wake the last crossing of the lusitania,In Stock,Mid-range,Excellent
+books_toscrape,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",17.81,Default,1,In stock (3 available),2025-09-24 12:54:06.123295,"david and goliath underdogs, misfits, and the art of battling giants",In Stock,Affordable,Very Poor
+books_toscrape,Darkfever (Fever #1),56.02,Fantasy,1,In stock (3 available),2025-09-24 12:54:06.919764,darkfever fever 1,In Stock,Premium,Very Poor
+books_toscrape,Dark Places,23.9,Default,5,In stock (3 available),2025-09-24 12:54:07.711296,dark places,In Stock,Affordable,Excellent
+books_toscrape,Crazy Rich Asians (Crazy Rich Asians #1),49.13,Fiction,5,In stock (3 available),2025-09-24 12:54:08.492898,crazy rich asians crazy rich asians 1,In Stock,Mid-range,Excellent
+books_toscrape,Counting Thyme,10.62,Childrens,1,In stock (3 available),2025-09-24 12:54:09.293629,counting thyme,In Stock,Affordable,Very Poor
+books_toscrape,Cosmos,36.17,Add a comment,2,In stock (3 available),2025-09-24 12:54:11.620154,cosmos,In Stock,Mid-range,Poor
+books_toscrape,Civilization and Its Discontents,59.95,Psychology,2,In stock (3 available),2025-09-24 12:54:14.628136,civilization and its discontents,In Stock,Premium,Poor
+books_toscrape,Cinder (The Lunar Chronicles #1),26.09,Young Adult,1,In stock (3 available),2025-09-24 12:54:15.417251,cinder the lunar chronicles 1,In Stock,Mid-range,Very Poor
+books_toscrape,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35,Parenting,2,In stock (3 available),2025-09-24 12:54:16.245901,catastrophic happiness finding joy in childhoods messy years,In Stock,Mid-range,Poor
+books_toscrape,Career of Evil (Cormoran Strike #3),24.72,Mystery,2,In stock (3 available),2025-09-24 12:54:17.051490,career of evil cormoran strike 3,In Stock,Affordable,Poor
+books_toscrape,Breaking Dawn (Twilight #4),35.28,Default,5,In stock (3 available),2025-09-24 12:54:17.847617,breaking dawn twilight 4,In Stock,Mid-range,Excellent
+books_toscrape,Brave Enough,51.32,Nonfiction,5,In stock (3 available),2025-09-24 12:54:18.650254,brave enough,In Stock,Premium,Excellent
+books_toscrape,Boy Meets Boy,21.12,Young Adult,3,In stock (3 available),2025-09-24 12:54:19.445238,boy meets boy,In Stock,Affordable,Average
+books_toscrape,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",27.35,Nonfiction,2,In stock (3 available),2025-09-24 12:54:20.227945,"born to run a hidden tribe, superathletes, and the greatest race the world has never seen",In Stock,Mid-range,Poor
+books_toscrape,Blink: The Power of Thinking Without Thinking,21.74,Nonfiction,5,In stock (3 available),2025-09-24 12:54:21.044018,blink the power of thinking without thinking,In Stock,Affordable,Excellent
+books_toscrape,Black Flags: The Rise of ISIS,40.87,Nonfiction,1,In stock (3 available),2025-09-24 12:54:21.848111,black flags the rise of isis,In Stock,Mid-range,Very Poor
+books_toscrape,"Black Butler, Vol. 1 (Black Butler #1)",49.31,Sequential Art,1,In stock (3 available),2025-09-24 12:54:22.648074,"black butler, vol. 1 black butler 1",In Stock,Mid-range,Very Poor
+books_toscrape,Big Little Lies,22.11,Fiction,1,In stock (3 available),2025-09-24 12:54:25.068319,big little lies,In Stock,Affordable,Very Poor
+books_toscrape,Between Shades of Gray,20.79,Historical Fiction,5,In stock (3 available),2025-09-24 12:54:25.888197,between shades of gray,In Stock,Affordable,Excellent
+books_toscrape,Best of My Love (Fool's Gold #20),27.41,Romance,2,In stock (3 available),2025-09-24 12:54:26.778974,best of my love fools gold 20,In Stock,Mid-range,Poor
+books_toscrape,Beowulf,38.35,Classics,2,In stock (3 available),2025-09-24 12:54:27.611242,beowulf,In Stock,Mid-range,Poor
+books_toscrape,Beautiful Creatures (Caster Chronicles #1),21.55,Default,5,In stock (3 available),2025-09-24 12:54:28.457797,beautiful creatures caster chronicles 1,In Stock,Affordable,Excellent
+books_toscrape,Awkward,38.02,Sequential Art,2,In stock (3 available),2025-09-24 12:54:29.268377,awkward,In Stock,Mid-range,Poor
+books_toscrape,Ash,22.06,Fantasy,4,In stock (3 available),2025-09-24 12:54:30.074993,ash,In Stock,Affordable,Good
+books_toscrape,Are We There Yet?,10.66,Childrens,3,In stock (3 available),2025-09-24 12:54:30.889932,are we there yet?,In Stock,Affordable,Average
+books_toscrape,Are We Smart Enough to Know How Smart Animals Are?,56.58,Nonfiction,1,In stock (3 available),2025-09-24 12:54:31.701365,are we smart enough to know how smart animals are?,In Stock,Premium,Very Poor
+books_toscrape,Annie on My Mind,36.83,Young Adult,5,In stock (3 available),2025-09-24 12:54:34.609696,annie on my mind,In Stock,Mid-range,Excellent
+books_toscrape,And Then There Were None,35.01,Classics,2,In stock (3 available),2025-09-24 12:54:35.431077,and then there were none,In Stock,Mid-range,Poor
+books_toscrape,A Walk in the Woods: Rediscovering America on the Appalachian Trail,30.48,Nonfiction,4,In stock (3 available),2025-09-24 12:54:36.234720,a walk in the woods rediscovering america on the appalachian trail,In Stock,Mid-range,Good
+books_toscrape,A Visit from the Goon Squad,14.08,Default,5,In stock (3 available),2025-09-24 12:54:37.076358,a visit from the goon squad,In Stock,Affordable,Excellent
+books_toscrape,A Storm of Swords (A Song of Ice and Fire #3),31.22,Fantasy,2,In stock (3 available),2025-09-24 12:54:37.904244,a storm of swords a song of ice and fire 3,In Stock,Mid-range,Poor
+books_toscrape,A Heartbreaking Work of Staggering Genius,54.29,Autobiography,5,In stock (3 available),2025-09-24 12:54:38.737886,a heartbreaking work of staggering genius,In Stock,Premium,Excellent
+books_toscrape,8 Keys to Mental Health Through Exercise,31.04,Psychology,1,In stock (3 available),2025-09-24 12:54:39.624241,8 keys to mental health through exercise,In Stock,Mid-range,Very Poor
+books_toscrape,#GIRLBOSS,50.96,Add a comment,1,In stock (3 available),2025-09-24 12:54:40.482126,girlboss,In Stock,Premium,Very Poor
+books_toscrape,"The Suffragettes (Little Black Classics, #96)",11.89,Nonfiction,2,In stock (2 available),2025-09-24 12:54:41.355390,"the suffragettes little black classics, 96",In Stock,Affordable,Poor
+books_toscrape,The Sense of an Ending,31.38,Add a comment,3,In stock (2 available),2025-09-24 12:54:42.332791,the sense of an ending,In Stock,Mid-range,Average
+books_toscrape,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",54.81,Sequential Art,1,In stock (2 available),2025-09-24 12:54:43.166005,"the sandman, vol. 2 the dolls house the sandman volumes 2",In Stock,Premium,Very Poor
+books_toscrape,The Course of Love,16.78,Fiction,3,In stock (2 available),2025-09-24 12:54:43.996091,the course of love,In Stock,Affordable,Average
+books_toscrape,Sugar Rush (Offensive Line #2),24.42,Sports and Games,1,In stock (2 available),2025-09-24 12:54:44.803579,sugar rush offensive line 2,In Stock,Affordable,Very Poor
+books_toscrape,"Saga, Volume 2 (Saga (Collected Editions) #2)",11.75,Sequential Art,3,In stock (2 available),2025-09-24 12:54:45.615519,"saga, volume 2 saga collected editions 2",In Stock,Affordable,Average
+books_toscrape,"Run, Spot, Run: The Ethics of Keeping Pets",20.02,Philosophy,1,In stock (2 available),2025-09-24 12:54:46.425790,"run, spot, run the ethics of keeping pets",In Stock,Affordable,Very Poor
+books_toscrape,New Moon (Twilight #2),12.86,Young Adult,4,In stock (2 available),2025-09-24 12:54:47.239835,new moon twilight 2,In Stock,Affordable,Good
+books_toscrape,Life,31.58,Music,5,In stock (2 available),2025-09-24 12:54:48.056473,life,In Stock,Mid-range,Excellent
+books_toscrape,Kindle Paperwhite User's Guide,34.0,Nonfiction,3,In stock (2 available),2025-09-24 12:54:48.853386,kindle paperwhite users guide,In Stock,Mid-range,Average
+books_toscrape,H is for Hawk,57.42,Nonfiction,5,In stock (2 available),2025-09-24 12:54:49.679626,h is for hawk,In Stock,Premium,Excellent
+books_toscrape,Girl Online On Tour (Girl Online #2),53.47,Young Adult,1,In stock (2 available),2025-09-24 12:54:50.488325,girl online on tour girl online 2,In Stock,Premium,Very Poor
+books_toscrape,"Fruits Basket, Vol. 2 (Fruits Basket #2)",11.64,Sequential Art,5,In stock (2 available),2025-09-24 12:54:53.457906,"fruits basket, vol. 2 fruits basket 2",In Stock,Affordable,Excellent
+books_toscrape,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),52.88,Childrens,4,In stock (2 available),2025-09-24 12:54:54.310503,diary of a minecraft zombie book 1 a scare of a dare an unofficial minecraft book,In Stock,Premium,Good
+books_toscrape,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",18.51,Sequential Art,4,In stock (1 available),2025-09-24 12:54:55.106716,"y the last man, vol. 1 unmanned y the last man 1",In Stock,Affordable,Good
+books_toscrape,While You Were Mine,41.32,Historical Fiction,5,In stock (1 available),2025-09-24 12:54:55.924305,while you were mine,In Stock,Mid-range,Excellent
+books_toscrape,Where Lightning Strikes (Bleeding Stars #3),39.77,Romance,3,In stock (1 available),2025-09-24 12:54:56.743991,where lightning strikes bleeding stars 3,In Stock,Mid-range,Average
+books_toscrape,When I'm Gone,51.96,Fiction,3,In stock (1 available),2025-09-24 12:54:57.534722,when im gone,In Stock,Premium,Average
+books_toscrape,Ways of Seeing,39.51,Art,5,In stock (1 available),2025-09-24 12:54:58.350091,ways of seeing,In Stock,Mid-range,Excellent
+books_toscrape,"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.4,Paranormal,1,In stock (1 available),2025-09-24 12:54:59.167337,"vampire knight, vol. 1 vampire knight 1",In Stock,Affordable,Very Poor
+books_toscrape,Vampire Girl (Vampire Girl #1),53.82,Fantasy,2,In stock (1 available),2025-09-24 12:54:59.966659,vampire girl vampire girl 1,In Stock,Premium,Poor
+books_toscrape,Twenty Love Poems and a Song of Despair,30.95,Poetry,4,In stock (1 available),2025-09-24 12:55:01.551099,twenty love poems and a song of despair,In Stock,Mid-range,Good
+books_toscrape,Travels with Charley: In Search of America,57.82,Nonfiction,5,In stock (1 available),2025-09-24 12:55:02.396909,travels with charley in search of america,In Stock,Premium,Excellent
+books_toscrape,Three Wishes (River of Time: California #1),44.18,Science Fiction,2,In stock (1 available),2025-09-24 12:55:03.406611,three wishes river of time california 1,In Stock,Mid-range,Poor
+books_toscrape,This One Moment (Pushing Limits #1),48.71,Romance,1,In stock (1 available),2025-09-24 12:55:04.291324,this one moment pushing limits 1,In Stock,Mid-range,Very Poor
+books_toscrape,The Zombie Room,19.69,Default,5,In stock (1 available),2025-09-24 12:55:05.170805,the zombie room,In Stock,Affordable,Excellent
+books_toscrape,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",36.52,Sequential Art,2,In stock (1 available),2025-09-24 12:55:05.990345,"the wicked the divine, vol. 1 the faust act the wicked the divine",In Stock,Mid-range,Poor
+books_toscrape,The Tumor,41.56,Nonfiction,5,In stock (1 available),2025-09-24 12:55:06.811326,the tumor,In Stock,Mid-range,Excellent
+books_toscrape,The Story of Hong Gildong,43.19,Classics,4,In stock (1 available),2025-09-24 12:55:07.614932,the story of hong gildong,In Stock,Mid-range,Good
+books_toscrape,The Silent Wife,12.34,Fiction,5,In stock (1 available),2025-09-24 12:55:08.442149,the silent wife,In Stock,Affordable,Excellent
+books_toscrape,The Silent Twin (Detective Jennifer Knight #3),36.25,Fantasy,3,In stock (1 available),2025-09-24 12:55:09.264688,the silent twin detective jennifer knight 3,In Stock,Mid-range,Average
+books_toscrape,The Selfish Gene,29.45,Science,1,In stock (1 available),2025-09-24 12:55:10.058429,the selfish gene,In Stock,Mid-range,Very Poor
+books_toscrape,The Secret Healer,34.56,Historical Fiction,3,In stock (1 available),2025-09-24 12:55:13.120760,the secret healer,In Stock,Mid-range,Average
+books_toscrape,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",54.12,Sequential Art,3,In stock (1 available),2025-09-24 12:55:13.928001,"the sandman, vol. 1 preludes and nocturnes the sandman volumes 1",In Stock,Premium,Average
+books_toscrape,The Republic,33.78,Add a comment,3,In stock (1 available),2025-09-24 12:55:14.743472,the republic,In Stock,Mid-range,Average
+books_toscrape,The Odyssey,29.64,Add a comment,3,In stock (1 available),2025-09-24 12:55:15.545863,the odyssey,In Stock,Mid-range,Average
+books_toscrape,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),57.7,Mystery,4,In stock (1 available),2025-09-24 12:55:16.425436,the no. 1 ladies detective agency no. 1 ladies detective agency 1,In Stock,Premium,Good
+books_toscrape,The Nicomachean Ethics,36.34,Philosophy,1,In stock (1 available),2025-09-24 12:55:17.303915,the nicomachean ethics,In Stock,Mid-range,Very Poor
+books_toscrape,The Name of the Wind (The Kingkiller Chronicle #1),50.59,Default,3,In stock (1 available),2025-09-24 12:55:18.128399,the name of the wind the kingkiller chronicle 1,In Stock,Premium,Average
+books_toscrape,The Mirror & the Maze (The Wrath and the Dawn #1.5),29.38,Fantasy,1,In stock (1 available),2025-09-24 12:55:18.946678,the mirror the maze the wrath and the dawn 1.5,In Stock,Mid-range,Very Poor
+books_toscrape,The Little Prince,45.42,Classics,2,In stock (1 available),2025-09-24 12:55:19.804731,the little prince,In Stock,Mid-range,Poor
+books_toscrape,The Light of the Fireflies,54.43,Add a comment,1,In stock (1 available),2025-09-24 12:55:20.701623,the light of the fireflies,In Stock,Premium,Very Poor
+books_toscrape,The Last Girl (The Dominion Trilogy #1),36.26,Science Fiction,2,In stock (1 available),2025-09-24 12:55:21.497861,the last girl the dominion trilogy 1,In Stock,Mid-range,Poor
+books_toscrape,The Iliad,16.16,Add a comment,1,In stock (1 available),2025-09-24 12:55:22.294103,the iliad,In Stock,Affordable,Very Poor
+books_toscrape,The Hook Up (Game On #1),36.29,New Adult,5,In stock (1 available),2025-09-24 12:55:23.105999,the hook up game on 1,In Stock,Mid-range,Excellent
+books_toscrape,The Haters,27.89,Young Adult,5,In stock (1 available),2025-09-24 12:55:23.929097,the haters,In Stock,Mid-range,Excellent
+books_toscrape,The Girl You Lost,12.29,Mystery,5,In stock (1 available),2025-09-24 12:55:24.742615,the girl you lost,In Stock,Affordable,Excellent
+books_toscrape,The Girl In The Ice (DCI Erika Foster #1),15.85,Mystery,3,In stock (1 available),2025-09-24 12:55:25.541505,the girl in the ice dci erika foster 1,In Stock,Affordable,Average
+books_toscrape,The End of the Jesus Era (An Investigation #1),14.4,Nonfiction,1,In stock (1 available),2025-09-24 12:55:26.391658,the end of the jesus era an investigation 1,In Stock,Affordable,Very Poor
+books_toscrape,The Edge of Reason (Bridget Jones #2),19.18,Womens Fiction,4,In stock (1 available),2025-09-24 12:55:27.201169,the edge of reason bridget jones 2,In Stock,Affordable,Good
+books_toscrape,The Complete Maus (Maus #1-2),10.64,Sequential Art,3,In stock (1 available),2025-09-24 12:55:28.011776,the complete maus maus 12,In Stock,Affordable,Average
+books_toscrape,The Communist Manifesto,14.76,Add a comment,3,In stock (1 available),2025-09-24 12:55:28.888975,the communist manifesto,In Stock,Affordable,Average
+books_toscrape,The Bhagavad Gita,57.49,Religion,3,In stock (1 available),2025-09-24 12:55:31.958871,the bhagavad gita,In Stock,Premium,Average
+books_toscrape,The Bette Davis Club,30.66,Fiction,3,In stock (1 available),2025-09-24 12:55:32.750294,the bette davis club,In Stock,Mid-range,Average
+books_toscrape,The Art of Not Breathing,40.83,Young Adult,4,In stock (1 available),2025-09-24 12:55:33.564115,the art of not breathing,In Stock,Mid-range,Good
+books_toscrape,Taking Shots (Assassins #1),18.88,Default,2,In stock (1 available),2025-09-24 12:55:34.386176,taking shots assassins 1,In Stock,Affordable,Poor
+books_toscrape,Starlark,25.83,Historical Fiction,3,In stock (1 available),2025-09-24 12:55:35.186110,starlark,In Stock,Mid-range,Average
+books_toscrape,"Skip Beat!, Vol. 01 (Skip Beat! #1)",42.12,Sequential Art,3,In stock (1 available),2025-09-24 12:55:35.990547,"skip beat!, vol. 01 skip beat! 1",In Stock,Mid-range,Average
+books_toscrape,Sister Sable (The Mad Queen #1),13.33,Fantasy,3,In stock (1 available),2025-09-24 12:55:36.793764,sister sable the mad queen 1,In Stock,Affordable,Average
+books_toscrape,Shatter Me (Shatter Me #1),42.4,Default,1,In stock (1 available),2025-09-24 12:55:37.614294,shatter me shatter me 1,In Stock,Mid-range,Very Poor
+books_toscrape,Shameless,58.35,New Adult,3,In stock (1 available),2025-09-24 12:55:38.426813,shameless,In Stock,Premium,Average
+books_toscrape,Shadow Rites (Jane Yellowrock #10),21.72,Fantasy,4,In stock (1 available),2025-09-24 12:55:39.239039,shadow rites jane yellowrock 10,In Stock,Affordable,Good
+books_toscrape,Settling the Score (The Summer Games #1),44.91,Sports and Games,2,In stock (1 available),2025-09-24 12:55:40.029160,settling the score the summer games 1,In Stock,Mid-range,Poor
+books_toscrape,Sense and Sensibility,37.46,Classics,1,In stock (1 available),2025-09-24 12:55:40.891520,sense and sensibility,In Stock,Mid-range,Very Poor
+books_toscrape,"Saga, Volume 1 (Saga (Collected Editions) #1)",28.48,Sequential Art,1,In stock (1 available),2025-09-24 12:55:41.701953,"saga, volume 1 saga collected editions 1",In Stock,Mid-range,Very Poor
+books_toscrape,"Rhythm, Chord & Malykhin",28.34,Romance,2,In stock (1 available),2025-09-24 12:55:42.582576,"rhythm, chord malykhin",In Stock,Mid-range,Poor
+books_toscrape,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",46.96,Sequential Art,5,In stock (1 available),2025-09-24 12:55:43.445031,"rat queens, vol. 1 sass sorcery rat queens collected editions 15",In Stock,Mid-range,Excellent
+books_toscrape,Paradise Lost (Paradise #1),24.96,Default,1,In stock (1 available),2025-09-24 12:55:44.336146,paradise lost paradise 1,In Stock,Affordable,Very Poor
+books_toscrape,"Paper Girls, Vol. 1 (Paper Girls #1-5)",21.71,Sequential Art,4,In stock (1 available),2025-09-24 12:55:45.174137,"paper girls, vol. 1 paper girls 15",In Stock,Affordable,Good
+books_toscrape,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",29.87,Sequential Art,3,In stock (1 available),2025-09-24 12:55:45.988299,"ouran high school host club, vol. 1 ouran high school host club 1",In Stock,Mid-range,Average
+books_toscrape,Origins (Alphas 0.5),28.99,Fantasy,1,In stock (1 available),2025-09-24 12:55:46.809340,origins alphas 0.5,In Stock,Mid-range,Very Poor
+books_toscrape,One Second (Seven #7),52.94,Fantasy,2,In stock (1 available),2025-09-24 12:55:47.617751,one second seven 7,In Stock,Premium,Poor
+books_toscrape,On the Road (Duluoz Legend),32.36,Default,3,In stock (1 available),2025-09-24 12:55:50.553719,on the road duluoz legend,In Stock,Mid-range,Average
+books_toscrape,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,Music,2,In stock (1 available),2025-09-24 12:55:53.347650,old records never die one mans quest for his vinyl and his past,In Stock,Premium,Poor
+books_toscrape,Off Sides (Off #1),39.45,New Adult,5,In stock (1 available),2025-09-24 12:55:54.156266,off sides off 1,In Stock,Mid-range,Excellent
+books_toscrape,Of Mice and Men,47.11,Classics,2,In stock (1 available),2025-09-24 12:55:54.990646,of mice and men,In Stock,Mid-range,Poor
+books_toscrape,Myriad (Prentor #1),58.75,Fantasy,4,In stock (1 available),2025-09-24 12:55:55.866511,myriad prentor 1,In Stock,Premium,Good
+books_toscrape,My Perfect Mistake (Over the Top #1),38.92,Romance,2,In stock (1 available),2025-09-24 12:55:56.662273,my perfect mistake over the top 1,In Stock,Mid-range,Poor
+books_toscrape,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",39.39,Sequential Art,4,In stock (1 available),2025-09-24 12:55:57.486928,"ms. marvel, vol. 1 no normal ms. marvel 20142015 1",In Stock,Mid-range,Good
+books_toscrape,Meditations,25.89,Philosophy,2,In stock (1 available),2025-09-24 12:55:58.297722,meditations,In Stock,Mid-range,Poor
+books_toscrape,Matilda,28.34,Childrens,1,In stock (1 available),2025-09-24 12:55:59.098939,matilda,In Stock,Mid-range,Very Poor
+books_toscrape,Lost Among the Living,27.7,Historical Fiction,4,In stock (1 available),2025-09-24 12:55:59.909746,lost among the living,In Stock,Mid-range,Good
+books_toscrape,Lord of the Flies,24.89,Add a comment,3,In stock (1 available),2025-09-24 12:56:00.706246,lord of the flies,In Stock,Affordable,Average
+books_toscrape,Listen to Me (Fusion #1),58.99,Romance,3,In stock (1 available),2025-09-24 12:56:01.503520,listen to me fusion 1,In Stock,Premium,Average
+books_toscrape,Kitchens of the Great Midwest,57.2,Fiction,5,In stock (1 available),2025-09-24 12:56:02.331454,kitchens of the great midwest,In Stock,Premium,Excellent
+books_toscrape,Jane Eyre,38.43,Default,5,In stock (1 available),2025-09-24 12:56:03.144248,jane eyre,In Stock,Mid-range,Excellent
+books_toscrape,Imperfect Harmony,34.74,Romance,4,In stock (1 available),2025-09-24 12:56:03.988638,imperfect harmony,In Stock,Mid-range,Good
+books_toscrape,Icing (Aces Hockey #2),40.44,Sports and Games,4,In stock (1 available),2025-09-24 12:56:04.794012,icing aces hockey 2,In Stock,Mid-range,Good
+books_toscrape,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",45.24,Sequential Art,3,In stock (1 available),2025-09-24 12:56:05.622852,"hawkeye, vol. 1 my life as a weapon hawkeye 1",In Stock,Mid-range,Average
+books_toscrape,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,Science Fiction,4,In stock (1 available),2025-09-24 12:56:06.433238,having the barbarians baby ice planet barbarians 7.5,In Stock,Mid-range,Good
+books_toscrape,"Giant Days, Vol. 1 (Giant Days #1-4)",56.76,Sequential Art,4,In stock (1 available),2025-09-24 12:56:07.227979,"giant days, vol. 1 giant days 14",In Stock,Premium,Good
+books_toscrape,"Fruits Basket, Vol. 1 (Fruits Basket #1)",40.28,Sequential Art,5,In stock (1 available),2025-09-24 12:56:08.128524,"fruits basket, vol. 1 fruits basket 1",In Stock,Mid-range,Excellent
+books_toscrape,Frankenstein,38.0,Default,2,In stock (1 available),2025-09-24 12:56:11.039455,frankenstein,In Stock,Mid-range,Poor
+books_toscrape,Forever Rockers (The Rocker #12),28.8,Music,3,In stock (1 available),2025-09-24 12:56:11.847470,forever rockers the rocker 12,In Stock,Mid-range,Average
+books_toscrape,Fighting Fate (Fighting #6),39.24,Romance,3,In stock (1 available),2025-09-24 12:56:12.658845,fighting fate fighting 6,In Stock,Mid-range,Average
+books_toscrape,Emma,32.93,Classics,2,In stock (1 available),2025-09-24 12:56:13.459763,emma,In Stock,Mid-range,Poor
+books_toscrape,"Eat, Pray, Love",51.32,Nonfiction,3,In stock (1 available),2025-09-24 12:56:14.257457,"eat, pray, love",In Stock,Premium,Average
+books_toscrape,Deep Under (Walker Security #1),47.09,Romance,5,In stock (1 available),2025-09-24 12:56:15.058900,deep under walker security 1,In Stock,Mid-range,Excellent
+books_toscrape,Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,Religion,4,In stock (1 available),2025-09-24 12:56:15.869565,choosing our religion the spiritual lives of americas nones,In Stock,Mid-range,Good
+books_toscrape,Charlie and the Chocolate Factory (Charlie Bucket #1),22.85,Childrens,3,In stock (1 available),2025-09-24 12:56:16.678298,charlie and the chocolate factory charlie bucket 1,In Stock,Affordable,Average
+books_toscrape,Charity's Cross (Charles Towne Belles #4),41.24,Romance,1,In stock (1 available),2025-09-24 12:56:17.542885,charitys cross charles towne belles 4,In Stock,Mid-range,Very Poor
+books_toscrape,Bright Lines,39.07,Fiction,5,In stock (1 available),2025-09-24 12:56:18.413836,bright lines,In Stock,Mid-range,Excellent
+books_toscrape,Bridget Jones's Diary (Bridget Jones #1),29.82,Womens Fiction,1,In stock (1 available),2025-09-24 12:56:19.277965,bridget joness diary bridget jones 1,In Stock,Mid-range,Very Poor
+books_toscrape,Bounty (Colorado Mountain #7),37.26,Romance,4,In stock (1 available),2025-09-24 12:56:20.106012,bounty colorado mountain 7,In Stock,Mid-range,Good
+books_toscrape,Blood Defense (Samantha Brinkman #1),20.3,Mystery,3,In stock (1 available),2025-09-24 12:56:20.929208,blood defense samantha brinkman 1,In Stock,Affordable,Average
+books_toscrape,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",34.65,Sequential Art,5,In stock (1 available),2025-09-24 12:56:21.741348,"bleach, vol. 1 strawberry and the soul reapers bleach 1",In Stock,Mid-range,Excellent
+books_toscrape,Beyond Good and Evil,43.38,Philosophy,1,In stock (1 available),2025-09-24 12:56:22.579698,beyond good and evil,In Stock,Mid-range,Very Poor
+books_toscrape,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,Classics,1,In stock (1 available),2025-09-24 12:56:23.371928,alice in wonderland alices adventures in wonderland 1,In Stock,Premium,Very Poor
+books_toscrape,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",57.06,Sequential Art,4,In stock (1 available),2025-09-24 12:56:24.184786,"ajin demihuman, volume 1 ajin demihuman 1",In Stock,Premium,Good
+books_toscrape,A Spy's Devotion (The Regency Spies of London #1),16.97,Historical Fiction,5,In stock (1 available),2025-09-24 12:56:24.988811,a spys devotion the regency spies of london 1,In Stock,Affordable,Excellent
+books_toscrape,1st to Die (Women's Murder Club #1),53.98,Mystery,1,In stock (1 available),2025-09-24 12:56:25.781552,1st to die womens murder club 1,In Stock,Premium,Very Poor
+books_toscrape,"1,000 Places to See Before You Die",26.08,Travel,5,In stock (1 available),2025-09-24 12:56:26.596493,"1,000 places to see before you die",In Stock,Mid-range,Excellent
