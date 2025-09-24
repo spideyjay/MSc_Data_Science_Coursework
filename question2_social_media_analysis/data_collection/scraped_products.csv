@@ -1,0 +1,1001 @@
+source,title,price,category,rating,availability,scraped_at
+books_toscrape,A Light in the Attic,51.77,Poetry,Three,In stock (22 available),2025-09-24T12:40:21.618064
+books_toscrape,Tipping the Velvet,53.74,Historical Fiction,One,In stock (20 available),2025-09-24T12:40:22.173733
+books_toscrape,Soumission,50.1,Fiction,One,In stock (20 available),2025-09-24T12:40:22.972085
+books_toscrape,Sharp Objects,47.82,Mystery,Four,In stock (20 available),2025-09-24T12:40:23.778021
+books_toscrape,Sapiens: A Brief History of Humankind,54.23,History,Five,In stock (20 available),2025-09-24T12:40:24.625300
+books_toscrape,The Requiem Red,22.65,Young Adult,One,In stock (19 available),2025-09-24T12:40:25.494524
+books_toscrape,The Dirty Little Secrets of Getting Your Dream Job,33.34,Business,Four,In stock (19 available),2025-09-24T12:40:26.347193
+books_toscrape,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,Default,Three,In stock (19 available),2025-09-24T12:40:27.217091
+books_toscrape,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,Default,Four,In stock (19 available),2025-09-24T12:40:28.031180
+books_toscrape,The Black Maria,52.15,Poetry,One,In stock (19 available),2025-09-24T12:40:29.818290
+books_toscrape,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,Default,Two,In stock (19 available),2025-09-24T12:40:30.628763
+books_toscrape,Shakespeare's Sonnets,20.66,Poetry,Four,In stock (19 available),2025-09-24T12:40:31.422880
+books_toscrape,Set Me Free,17.46,Young Adult,Five,In stock (19 available),2025-09-24T12:40:32.214482
+books_toscrape,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,Sequential Art,Five,In stock (19 available),2025-09-24T12:40:33.006347
+books_toscrape,Rip it Up and Start Again,35.02,Music,Five,In stock (19 available),2025-09-24T12:40:33.787318
+books_toscrape,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,Music,Three,In stock (19 available),2025-09-24T12:40:34.585491
+books_toscrape,Olio,23.88,Poetry,One,In stock (19 available),2025-09-24T12:40:35.570419
+books_toscrape,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,Science Fiction,One,In stock (19 available),2025-09-24T12:40:36.441476
+books_toscrape,Libertarianism for Beginners,51.33,Politics,Two,In stock (19 available),2025-09-24T12:40:37.235741
+books_toscrape,It's Only the Himalayas,45.17,Travel,Two,In stock (19 available),2025-09-24T12:40:38.110089
+books_toscrape,In Her Wake,12.84,Thriller,One,In stock (19 available),2025-09-24T12:40:40.996201
+books_toscrape,How Music Works,37.32,Music,Two,In stock (19 available),2025-09-24T12:40:41.783232
+books_toscrape,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,Food and Drink,Three,In stock (19 available),2025-09-24T12:40:42.578770
+books_toscrape,Chase Me (Paris Nights #2),25.27,Romance,Five,In stock (19 available),2025-09-24T12:40:43.382326
+books_toscrape,Black Dust,34.53,Romance,Five,In stock (19 available),2025-09-24T12:40:44.189994
+books_toscrape,Birdsong: A Story in Pictures,54.64,Childrens,Three,In stock (19 available),2025-09-24T12:40:44.993784
+books_toscrape,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.5,Default,Three,In stock (19 available),2025-09-24T12:40:45.776539
+books_toscrape,Aladdin and His Wonderful Lamp,53.13,Default,Three,In stock (19 available),2025-09-24T12:40:46.561538
+books_toscrape,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.3,Nonfiction,Five,In stock (18 available),2025-09-24T12:40:47.362811
+books_toscrape,Wall and Piece,44.18,Art,Four,In stock (18 available),2025-09-24T12:40:48.164623
+books_toscrape,The Four Agreements: A Practical Guide to Personal Freedom,17.66,Spirituality,Five,In stock (18 available),2025-09-24T12:40:48.952611
+books_toscrape,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,Nonfiction,Three,In stock (18 available),2025-09-24T12:40:49.754184
+books_toscrape,The Elephant Tree,23.82,Thriller,Five,In stock (18 available),2025-09-24T12:40:50.551232
+books_toscrape,The Bear and the Piano,36.89,Childrens,One,In stock (18 available),2025-09-24T12:40:51.427658
+books_toscrape,Sophie's World,15.94,Philosophy,Five,In stock (18 available),2025-09-24T12:40:52.354635
+books_toscrape,Penny Maybe,33.29,Default,Three,In stock (18 available),2025-09-24T12:40:53.164474
+books_toscrape,Maude (1883-1993):She Grew Up with the country,18.02,Default,Two,In stock (18 available),2025-09-24T12:40:53.967061
+books_toscrape,"In a Dark, Dark Wood",19.63,Mystery,One,In stock (18 available),2025-09-24T12:40:54.763753
+books_toscrape,Behind Closed Doors,52.22,Thriller,Four,In stock (18 available),2025-09-24T12:40:55.562696
+books_toscrape,You can't bury them all: Poems,33.63,Poetry,Two,In stock (17 available),2025-09-24T12:40:56.355831
+books_toscrape,Slow States of Collapse: Poems,57.31,Poetry,Three,In stock (17 available),2025-09-24T12:40:59.234103
+books_toscrape,Reasons to Stay Alive,26.41,Nonfiction,Two,In stock (17 available),2025-09-24T12:41:01.321858
+books_toscrape,Private Paris (Private #10),47.61,Fiction,Five,In stock (17 available),2025-09-24T12:41:02.178785
+books_toscrape,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,Nonfiction,Five,In stock (17 available),2025-09-24T12:41:03.062750
+books_toscrape,Without Borders (Wanderlove #1),45.07,New Adult,Two,In stock (16 available),2025-09-24T12:41:03.932627
+books_toscrape,When We Collided,31.77,Contemporary,One,In stock (16 available),2025-09-24T12:41:04.798772
+books_toscrape,"We Love You, Charlie Freeman",50.27,Fiction,Five,In stock (16 available),2025-09-24T12:41:05.603866
+books_toscrape,Untitled Collection: Sabbath Poems 2014,14.27,Poetry,Four,In stock (16 available),2025-09-24T12:41:06.411754
+books_toscrape,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,Nonfiction,Four,In stock (16 available),2025-09-24T12:41:07.214595
+books_toscrape,Unicorn Tracks,18.78,Fantasy,Three,In stock (16 available),2025-09-24T12:41:08.027776
+books_toscrape,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,History,One,In stock (16 available),2025-09-24T12:41:09.840545
+books_toscrape,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,Sequential Art,One,In stock (16 available),2025-09-24T12:41:11.237352
+books_toscrape,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,Nonfiction,Three,In stock (16 available),2025-09-24T12:41:12.090723
+books_toscrape,This One Summer,19.49,Sequential Art,Four,In stock (16 available),2025-09-24T12:41:12.920125
+books_toscrape,Thirst,17.27,Fiction,Five,In stock (16 available),2025-09-24T12:41:13.707613
+books_toscrape,The Torch Is Passed: A Harding Family Story,19.09,Add a comment,One,In stock (16 available),2025-09-24T12:41:14.511626
+books_toscrape,The Secret of Dreadwillow Carse,56.13,Childrens,One,In stock (16 available),2025-09-24T12:41:15.323154
+books_toscrape,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,Food and Drink,One,In stock (16 available),2025-09-24T12:41:16.150958
+books_toscrape,The Past Never Ends,56.5,Mystery,Four,In stock (16 available),2025-09-24T12:41:16.966750
+books_toscrape,The Natural History of Us (The Fine Art of Pretending #2),45.22,Young Adult,Three,In stock (16 available),2025-09-24T12:41:17.768144
+books_toscrape,The Nameless City (The Nameless City #1),38.16,Sequential Art,Four,In stock (16 available),2025-09-24T12:41:20.663650
+books_toscrape,The Murder That Never Was (Forensic Instincts #5),54.11,Fiction,Three,In stock (16 available),2025-09-24T12:41:21.450549
+books_toscrape,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,Science,Four,In stock (16 available),2025-09-24T12:41:22.258108
+books_toscrape,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,Add a comment,Four,In stock (16 available),2025-09-24T12:41:23.061342
+books_toscrape,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,Nonfiction,Three,In stock (16 available),2025-09-24T12:41:23.870358
+books_toscrape,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,Default,Five,In stock (16 available),2025-09-24T12:41:24.663148
+books_toscrape,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,Nonfiction,One,In stock (16 available),2025-09-24T12:41:25.454162
+books_toscrape,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,Nonfiction,One,In stock (16 available),2025-09-24T12:41:26.247771
+books_toscrape,The Death of Humanity: and the Case for Life,58.11,Philosophy,Four,In stock (16 available),2025-09-24T12:41:27.053303
+books_toscrape,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,Health,Three,In stock (16 available),2025-09-24T12:41:27.847415
+books_toscrape,The Art Forger,40.76,Add a comment,Three,In stock (16 available),2025-09-24T12:41:28.647326
+books_toscrape,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,History,One,In stock (16 available),2025-09-24T12:41:29.459374
+books_toscrape,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,Spirituality,Five,In stock (16 available),2025-09-24T12:41:30.319991
+books_toscrape,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,Nonfiction,Four,In stock (16 available),2025-09-24T12:41:31.122410
+books_toscrape,Soul Reader,39.58,Default,Two,In stock (16 available),2025-09-24T12:41:31.913679
+books_toscrape,Security,39.25,Horror,Two,In stock (16 available),2025-09-24T12:41:32.729292
+books_toscrape,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,Fantasy,Three,In stock (16 available),2025-09-24T12:41:33.977485
+books_toscrape,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,Sequential Art,Two,In stock (16 available),2025-09-24T12:41:34.789367
+books_toscrape,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,Nonfiction,Two,In stock (16 available),2025-09-24T12:41:35.606719
+books_toscrape,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.4,Sequential Art,Three,In stock (16 available),2025-09-24T12:41:36.391387
+books_toscrape,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,Sequential Art,Five,In stock (16 available),2025-09-24T12:41:39.361508
+books_toscrape,Princess Between Worlds (Wide-Awake Princess #5),13.34,Fantasy,Five,In stock (16 available),2025-09-24T12:41:40.227809
+books_toscrape,"Pop Gun War, Volume 1: Gift",18.97,Sequential Art,One,In stock (16 available),2025-09-24T12:41:41.020420
+books_toscrape,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,History,Two,In stock (16 available),2025-09-24T12:41:42.830753
+books_toscrape,Patience,10.16,Sequential Art,Three,In stock (16 available),2025-09-24T12:41:43.635627
+books_toscrape,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,Sequential Art,Four,In stock (16 available),2025-09-24T12:41:44.435171
+books_toscrape,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,Sequential Art,One,In stock (16 available),2025-09-24T12:41:45.246779
+books_toscrape,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,Self Help,One,In stock (16 available),2025-09-24T12:41:46.037568
+books_toscrape,On a Midnight Clear,14.07,Add a comment,Three,In stock (16 available),2025-09-24T12:41:46.830557
+books_toscrape,Obsidian (Lux #1),14.86,Young Adult,Two,In stock (16 available),2025-09-24T12:41:49.006717
+books_toscrape,My Paris Kitchen: Recipes and Stories,33.37,Food and Drink,Two,In stock (16 available),2025-09-24T12:41:49.799734
+books_toscrape,Masks and Shadows,56.4,Fantasy,Two,In stock (16 available),2025-09-24T12:41:50.594681
+books_toscrape,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,Food and Drink,Four,In stock (16 available),2025-09-24T12:41:51.556071
+books_toscrape,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,Sequential Art,Two,In stock (16 available),2025-09-24T12:41:52.353108
+books_toscrape,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,Sequential Art,Three,In stock (16 available),2025-09-24T12:41:53.163220
+books_toscrape,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,Sequential Art,Two,In stock (16 available),2025-09-24T12:41:53.958269
+books_toscrape,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,Food and Drink,One,In stock (16 available),2025-09-24T12:41:54.765058
+books_toscrape,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.9,Add a comment,Two,In stock (16 available),2025-09-24T12:41:55.558746
+books_toscrape,Join,35.67,Science Fiction,Five,In stock (16 available),2025-09-24T12:41:56.374812
+books_toscrape,In the Country We Love: My Family Divided,22.0,Nonfiction,Four,In stock (16 available),2025-09-24T12:41:57.175933
+books_toscrape,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,Science,Five,In stock (16 available),2025-09-24T12:42:00.045096
+books_toscrape,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,Sequential Art,Two,In stock (16 available),2025-09-24T12:42:00.847863
+books_toscrape,I am a Hero Omnibus Volume 1,54.63,Sequential Art,Three,In stock (16 available),2025-09-24T12:42:01.666651
+books_toscrape,How to Be Miserable: 40 Strategies You Already Use,46.03,Self Help,One,In stock (16 available),2025-09-24T12:42:02.585262
+books_toscrape,Her Backup Boyfriend (The Sorensen Family #1),33.97,Romance,One,In stock (16 available),2025-09-24T12:42:03.430270
+books_toscrape,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,Sequential Art,Two,In stock (16 available),2025-09-24T12:42:04.227688
+books_toscrape,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,Historical Fiction,Three,In stock (16 available),2025-09-24T12:42:05.041944
+books_toscrape,First and First (Five Boroughs #3),15.97,Romance,Four,In stock (16 available),2025-09-24T12:42:05.965685
+books_toscrape,Fifty Shades Darker (Fifty Shades #2),21.96,Romance,One,In stock (16 available),2025-09-24T12:42:06.754787
+books_toscrape,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,Nonfiction,Two,In stock (16 available),2025-09-24T12:42:07.569082
+books_toscrape,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,Religion,Two,In stock (16 available),2025-09-24T12:42:08.361021
+books_toscrape,Danganronpa Volume 1,51.99,Sequential Art,Four,In stock (16 available),2025-09-24T12:42:09.155602
+books_toscrape,Crown of Midnight (Throne of Glass #2),43.29,Fantasy,Three,In stock (16 available),2025-09-24T12:42:09.937215
+books_toscrape,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,Sequential Art,Four,In stock (16 available),2025-09-24T12:42:10.727234
+books_toscrape,Camp Midnight,17.08,Sequential Art,Four,In stock (16 available),2025-09-24T12:42:11.519019
+books_toscrape,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,Nonfiction,Five,In stock (16 available),2025-09-24T12:42:12.314103
+books_toscrape,Burning,28.81,Young Adult,Three,In stock (16 available),2025-09-24T12:42:13.105856
+books_toscrape,Bossypants,49.46,Default,Two,In stock (16 available),2025-09-24T12:42:13.935793
+books_toscrape,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,Sequential Art,Two,In stock (16 available),2025-09-24T12:42:14.803796
+books_toscrape,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,Fantasy,Two,In stock (16 available),2025-09-24T12:42:15.611581
+books_toscrape,Algorithms to Live By: The Computer Science of Human Decisions,30.81,Nonfiction,One,In stock (16 available),2025-09-24T12:42:18.605534
+books_toscrape,A World of Flavor: Your Gluten Free Passport,42.95,Default,One,In stock (16 available),2025-09-24T12:42:19.552864
+books_toscrape,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,Default,Five,In stock (16 available),2025-09-24T12:42:20.380446
+books_toscrape,A Murder in Time,16.64,Mystery,One,In stock (16 available),2025-09-24T12:42:21.170932
+books_toscrape,A Flight of Arrows (The Pathfinders #2),55.53,Historical Fiction,Five,In stock (16 available),2025-09-24T12:42:21.968179
+books_toscrape,A Fierce and Subtle Poison,28.13,Young Adult,Four,In stock (16 available),2025-09-24T12:42:22.750710
+books_toscrape,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,Fantasy,One,In stock (16 available),2025-09-24T12:42:23.558735
+books_toscrape,(Un)Qualified: How God Uses Broken People to Do Big Things,54.0,Christian,Five,In stock (16 available),2025-09-24T12:42:24.364726
+books_toscrape,You Are What You Love: The Spiritual Power of Habit,21.87,Religion,Four,In stock (15 available),2025-09-24T12:42:25.164112
+books_toscrape,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,Science Fiction,Four,In stock (15 available),2025-09-24T12:42:26.033549
+books_toscrape,Tuesday Nights in 1980,21.04,Fiction,Two,In stock (15 available),2025-09-24T12:42:27.191775
+books_toscrape,Tracing Numbers on a Train,41.6,Default,Three,In stock (15 available),2025-09-24T12:42:28.020241
+books_toscrape,Throne of Glass (Throne of Glass #1),35.07,Fantasy,Three,In stock (15 available),2025-09-24T12:42:28.819331
+books_toscrape,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,History,One,In stock (15 available),2025-09-24T12:42:29.621277
+books_toscrape,Thirteen Reasons Why,52.72,Default,One,In stock (15 available),2025-09-24T12:42:30.422147
+books_toscrape,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,58.08,Childrens,Four,In stock (15 available),2025-09-24T12:42:31.243534
+books_toscrape,The Wedding Dress,24.12,Romance,One,In stock (15 available),2025-09-24T12:42:32.068109
+books_toscrape,The Vacationers,42.15,Fiction,Four,In stock (15 available),2025-09-24T12:42:32.882008
+books_toscrape,The Third Wave: An Entrepreneur’s Vision of the Future,12.61,Business,Five,In stock (15 available),2025-09-24T12:42:33.686099
+books_toscrape,The Stranger,17.44,Philosophy,Four,In stock (15 available),2025-09-24T12:42:34.476859
+books_toscrape,The Shadow Hero (The Shadow Hero),33.14,Sequential Art,One,In stock (15 available),2025-09-24T12:42:37.352112
+books_toscrape,The Secret (The Secret #1),27.37,Default,Four,In stock (15 available),2025-09-24T12:42:38.147196
+books_toscrape,The Regional Office Is Under Attack!,51.36,Fiction,Five,In stock (15 available),2025-09-24T12:42:38.934381
+books_toscrape,The Psychopath Test: A Journey Through the Madness Industry,36.0,Default,Two,In stock (15 available),2025-09-24T12:42:39.735956
+books_toscrape,The Project,10.65,Science Fiction,One,In stock (15 available),2025-09-24T12:42:40.595979
+books_toscrape,The Power of Now: A Guide to Spiritual Enlightenment,43.54,Nonfiction,Two,In stock (15 available),2025-09-24T12:42:41.470322
+books_toscrape,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,Nonfiction,Two,In stock (15 available),2025-09-24T12:42:42.305432
+books_toscrape,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,Food and Drink,Five,In stock (15 available),2025-09-24T12:42:43.117005
+books_toscrape,The Murder of Roger Ackroyd (Hercule Poirot #4),44.1,Mystery,Four,In stock (15 available),2025-09-24T12:42:43.910873
+books_toscrape,The Mistake (Off-Campus #2),43.29,New Adult,Three,In stock (15 available),2025-09-24T12:42:44.725478
+books_toscrape,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,New Adult,One,In stock (15 available),2025-09-24T12:42:45.519610
+books_toscrape,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.6,Food and Drink,Two,In stock (15 available),2025-09-24T12:42:46.321229
+books_toscrape,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,Crime,One,In stock (15 available),2025-09-24T12:42:47.111235
+books_toscrape,The Kite Runner,41.82,Default,Four,In stock (15 available),2025-09-24T12:42:47.919571
+books_toscrape,The House by the Lake,36.95,Historical Fiction,One,In stock (15 available),2025-09-24T12:42:48.727584
+books_toscrape,The Glittering Court (The Glittering Court #1),44.28,Fantasy,One,In stock (15 available),2025-09-24T12:42:50.542697
+books_toscrape,The Girl on the Train,55.02,Default,Two,In stock (15 available),2025-09-24T12:42:51.387831
+books_toscrape,The Genius of Birds,17.24,Nonfiction,One,In stock (15 available),2025-09-24T12:42:52.255157
+books_toscrape,The Emerald Mystery,23.15,Default,Two,In stock (15 available),2025-09-24T12:42:53.183999
+books_toscrape,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,Food and Drink,One,In stock (15 available),2025-09-24T12:42:54.003456
+books_toscrape,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.0,Default,Three,In stock (15 available),2025-09-24T12:42:57.114534
+books_toscrape,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,Nonfiction,Five,In stock (15 available),2025-09-24T12:42:57.981540
+books_toscrape,The Art of War,33.34,Default,Five,In stock (15 available),2025-09-24T12:42:58.785076
+books_toscrape,The Argonauts,10.93,Autobiography,Two,In stock (15 available),2025-09-24T12:42:59.588926
+books_toscrape,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,Business,Three,In stock (15 available),2025-09-24T12:43:00.399264
+books_toscrape,Suddenly in Love (Lake Haven #1),55.99,Romance,Two,In stock (15 available),2025-09-24T12:43:01.189718
+books_toscrape,Something More Than This,16.24,Romance,Four,In stock (15 available),2025-09-24T12:43:01.993446
+books_toscrape,Soft Apocalypse,26.12,Science Fiction,Two,In stock (15 available),2025-09-24T12:43:02.806348
+books_toscrape,So You've Been Publicly Shamed,12.23,Nonfiction,Two,In stock (15 available),2025-09-24T12:43:03.626979
+books_toscrape,Shoe Dog: A Memoir by the Creator of NIKE,23.99,Business,Two,In stock (15 available),2025-09-24T12:43:04.527423
+books_toscrape,"Shobu Samurai, Project Aryoku (#3)",29.06,Add a comment,Three,In stock (15 available),2025-09-24T12:43:05.433774
+books_toscrape,Secrets and Lace (Fatal Hearts #1),20.27,Default,One,In stock (15 available),2025-09-24T12:43:06.234088
+books_toscrape,Scarlett Epstein Hates It Here,43.55,Young Adult,Five,In stock (15 available),2025-09-24T12:43:07.123868
+books_toscrape,Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,Default,One,In stock (15 available),2025-09-24T12:43:07.947297
+books_toscrape,Redeeming Love,20.47,Christian Fiction,Five,In stock (15 available),2025-09-24T12:43:08.743265
+books_toscrape,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,Default,One,In stock (15 available),2025-09-24T12:43:09.547803
+books_toscrape,Poems That Make Grown Women Cry,14.19,Poetry,Four,In stock (15 available),2025-09-24T12:43:10.363734
+books_toscrape,"Nightingale, Sing",38.28,Young Adult,One,In stock (15 available),2025-09-24T12:43:11.178009
+books_toscrape,Night Sky with Exit Wounds,41.05,Poetry,One,In stock (15 available),2025-09-24T12:43:11.970966
+books_toscrape,Mrs. Houdini,30.25,Historical Fiction,Five,In stock (15 available),2025-09-24T12:43:12.768006
+books_toscrape,Modern Romance,28.26,Add a comment,Five,In stock (15 available),2025-09-24T12:43:17.740248
+books_toscrape,Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),10.76,Default,One,In stock (15 available),2025-09-24T12:43:18.547219
+books_toscrape,Louisa: The Extraordinary Life of Mrs. Adams,16.85,Biography,Two,In stock (15 available),2025-09-24T12:43:19.352855
+books_toscrape,Little Red,13.47,Childrens,Three,In stock (15 available),2025-09-24T12:43:21.170446
+books_toscrape,Library of Souls (Miss Peregrine’s Peculiar Children #3),48.56,Young Adult,Five,In stock (15 available),2025-09-24T12:43:21.991925
+books_toscrape,Large Print Heart of the Pride,19.15,Default,Two,In stock (15 available),2025-09-24T12:43:22.800394
+books_toscrape,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,57.36,Womens Fiction,Four,In stock (15 available),2025-09-24T12:43:23.584264
+books_toscrape,Hollow City (Miss Peregrine’s Peculiar Children #2),42.98,Fantasy,One,In stock (15 available),2025-09-24T12:43:24.381591
+books_toscrape,Grumbles,22.16,Default,Two,In stock (15 available),2025-09-24T12:43:25.176116
+books_toscrape,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43,Travel,Four,In stock (15 available),2025-09-24T12:43:25.976183
+books_toscrape,Frostbite (Vampire Academy #2),29.99,Young Adult,Five,In stock (15 available),2025-09-24T12:43:26.785440
+books_toscrape,Follow You Home,21.36,Horror,One,In stock (15 available),2025-09-24T12:43:27.595248
+books_toscrape,First Steps for New Christians (Print Edition),29.0,Default,One,In stock (15 available),2025-09-24T12:43:28.399225
+books_toscrape,Finders Keepers (Bill Hodges Trilogy #2),53.53,Fiction,Five,In stock (15 available),2025-09-24T12:43:29.297490
+books_toscrape,"Fables, Vol. 1: Legends in Exile (Fables #1)",41.62,Sequential Art,Four,In stock (15 available),2025-09-24T12:43:30.154597
+books_toscrape,Eureka Trivia 6.0,54.59,Default,Four,In stock (15 available),2025-09-24T12:43:30.985047
+books_toscrape,Drive: The Surprising Truth About What Motivates Us,34.95,Default,Four,In stock (15 available),2025-09-24T12:43:31.928774
+books_toscrape,Done Rubbed Out (Reightman & Bailey #1),37.72,Default,Five,In stock (15 available),2025-09-24T12:43:32.761481
+books_toscrape,Doing It Over (Most Likely To #1),35.61,Romance,Three,In stock (15 available),2025-09-24T12:43:33.595150
+books_toscrape,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,Food and Drink,Three,In stock (15 available),2025-09-24T12:43:34.401979
+books_toscrape,Dark Notes,19.19,Erotica,Five,In stock (15 available),2025-09-24T12:43:37.459665
+books_toscrape,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",19.43,Nonfiction,Three,In stock (15 available),2025-09-24T12:43:38.287152
+books_toscrape,Close to You,49.46,Christian Fiction,Four,In stock (15 available),2025-09-24T12:43:39.083275
+books_toscrape,Chasing Heaven: What Dying Taught Me About Living,37.8,Spirituality,Two,In stock (15 available),2025-09-24T12:43:41.560911
+books_toscrape,Big Magic: Creative Living Beyond Fear,30.8,Nonfiction,Three,In stock (15 available),2025-09-24T12:43:42.505389
+books_toscrape,Becoming Wise: An Inquiry into the Mystery and Art of Living,27.43,Nonfiction,Two,In stock (15 available),2025-09-24T12:43:43.322807
+books_toscrape,Beauty Restored (Riley Family Legacy Novellas #3),11.11,Default,Two,In stock (15 available),2025-09-24T12:43:44.121061
+books_toscrape,Batman: The Long Halloween (Batman),36.5,Sequential Art,Two,In stock (15 available),2025-09-24T12:43:44.922670
+books_toscrape,Batman: The Dark Knight Returns (Batman),15.38,Sequential Art,Five,In stock (15 available),2025-09-24T12:43:45.732629
+books_toscrape,Ayumi's Violin,15.48,Default,Two,In stock (15 available),2025-09-24T12:43:46.548113
+books_toscrape,Anonymous,46.82,Default,Four,In stock (15 available),2025-09-24T12:43:47.367069
+books_toscrape,Amy Meets the Saints and Sages,18.46,Default,Three,In stock (15 available),2025-09-24T12:43:48.175749
+books_toscrape,Amid the Chaos,36.58,Cultural,One,In stock (15 available),2025-09-24T12:43:49.088937
+books_toscrape,Amatus,50.54,Default,Five,In stock (15 available),2025-09-24T12:43:49.898370
+books_toscrape,Agnostic: A Spirited Manifesto,12.51,Nonfiction,Five,In stock (15 available),2025-09-24T12:43:50.690424
+books_toscrape,Zealot: The Life and Times of Jesus of Nazareth,24.7,History,Three,In stock (14 available),2025-09-24T12:43:51.502446
+books_toscrape,You (You #1),43.61,Thriller,Five,In stock (14 available),2025-09-24T12:43:52.318557
+books_toscrape,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",37.34,Sequential Art,Four,In stock (14 available),2025-09-24T12:43:53.122551
+books_toscrape,Wild Swans,14.36,Young Adult,Two,In stock (14 available),2025-09-24T12:43:53.923519
+books_toscrape,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65,Politics,Four,In stock (14 available),2025-09-24T12:43:54.749104
+books_toscrape,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,38.2,Nonfiction,Four,In stock (14 available),2025-09-24T12:43:57.798656
+books_toscrape,What's It Like in Space?: Stories from Astronauts Who've Been There,19.6,Nonfiction,Two,In stock (14 available),2025-09-24T12:43:58.584802
+books_toscrape,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",53.9,Sequential Art,One,In stock (14 available),2025-09-24T12:43:59.391381
+books_toscrape,Walt Disney's Alice in Wonderland,12.96,Childrens,Five,In stock (14 available),2025-09-24T12:44:00.230801
+books_toscrape,V for Vendetta (V for Vendetta Complete),37.1,Default,Four,In stock (14 available),2025-09-24T12:44:01.040609
+books_toscrape,Until Friday Night (The Field Party #1),46.31,Young Adult,Two,In stock (14 available),2025-09-24T12:44:01.851246
+books_toscrape,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",45.95,Default,Two,In stock (14 available),2025-09-24T12:44:02.657418
+books_toscrape,Twenty Yawns,22.08,Childrens,Two,In stock (14 available),2025-09-24T12:44:03.476293
+books_toscrape,Through the Woods,25.38,Sequential Art,Two,In stock (14 available),2025-09-24T12:44:04.269611
+books_toscrape,This Is Where It Ends,27.12,Young Adult,Two,In stock (14 available),2025-09-24T12:44:05.110416
+books_toscrape,The Year of Magical Thinking,43.04,Nonfiction,Two,In stock (14 available),2025-09-24T12:44:06.043617
+books_toscrape,The Wright Brothers,56.8,Default,Four,In stock (14 available),2025-09-24T12:44:06.894263
+books_toscrape,The White Queen (The Cousins' War #1),25.91,Add a comment,Five,In stock (14 available),2025-09-24T12:44:07.706920
+books_toscrape,The Wedding Pact (The O'Malleys #2),32.61,Romance,Three,In stock (14 available),2025-09-24T12:44:08.591429
+books_toscrape,The Time Keeper,27.88,Fiction,Five,In stock (14 available),2025-09-24T12:44:09.466400
+books_toscrape,The Testament of Mary,52.67,Fiction,Four,In stock (14 available),2025-09-24T12:44:10.289433
+books_toscrape,The Star-Touched Queen,46.02,Fantasy,Five,In stock (14 available),2025-09-24T12:44:11.123178
+books_toscrape,The Songs of the Gods,44.48,Default,Five,In stock (14 available),2025-09-24T12:44:11.962754
+books_toscrape,The Song of Achilles,37.4,Add a comment,Five,In stock (14 available),2025-09-24T12:44:12.780399
+books_toscrape,The Rosie Project (Don Tillman #1),54.04,Default,One,In stock (14 available),2025-09-24T12:44:13.591867
+books_toscrape,The Power of Habit: Why We Do What We Do in Life and Business,16.88,Default,Three,In stock (14 available),2025-09-24T12:44:16.486078
+books_toscrape,The Marriage of Opposites,28.08,Historical Fiction,Four,In stock (14 available),2025-09-24T12:44:17.298736
+books_toscrape,The Lucifer Effect: Understanding How Good People Turn Evil,10.4,Psychology,One,In stock (14 available),2025-09-24T12:44:18.095032
+books_toscrape,The Long Haul (Diary of a Wimpy Kid #9),44.07,Humor,One,In stock (14 available),2025-09-24T12:44:18.888219
+books_toscrape,The Loney,23.4,Horror,One,In stock (14 available),2025-09-24T12:44:19.751605
+books_toscrape,The Literature Book (Big Ideas Simply Explained),17.43,Nonfiction,Three,In stock (14 available),2025-09-24T12:44:20.588173
+books_toscrape,The Last Mile (Amos Decker #2),54.21,Mystery,Two,In stock (14 available),2025-09-24T12:44:21.433143
+books_toscrape,The Immortal Life of Henrietta Lacks,40.67,Add a comment,Two,In stock (14 available),2025-09-24T12:44:22.318634
+books_toscrape,The Hidden Oracle (The Trials of Apollo #1),52.26,Fantasy,Two,In stock (14 available),2025-09-24T12:44:23.136723
+books_toscrape,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,Food and Drink,Three,In stock (14 available),2025-09-24T12:44:23.976281
+books_toscrape,The Guilty (Will Robie #4),13.82,Thriller,Two,In stock (14 available),2025-09-24T12:44:24.769597
+books_toscrape,The First Hostage (J.B. Collins #2),25.85,Fiction,Three,In stock (14 available),2025-09-24T12:44:25.571093
+books_toscrape,The Dovekeepers,48.78,Add a comment,One,In stock (14 available),2025-09-24T12:44:26.380770
+books_toscrape,The Darkest Lie,35.35,Young Adult,Five,In stock (14 available),2025-09-24T12:44:27.201623
+books_toscrape,The Bane Chronicles (The Bane Chronicles #1-11),44.73,Fantasy,Four,In stock (14 available),2025-09-24T12:44:27.994814
+books_toscrape,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,15.77,Nonfiction,One,In stock (14 available),2025-09-24T12:44:28.782590
+books_toscrape,The 14th Colony (Cotton Malone #11),39.24,Thriller,One,In stock (14 available),2025-09-24T12:44:29.570804
+books_toscrape,That Darkness (Gardiner and Renner #1),13.92,Mystery,One,In stock (14 available),2025-09-24T12:44:30.381691
+books_toscrape,Tastes Like Fear (DI Marnie Rome #3),10.69,Mystery,One,In stock (14 available),2025-09-24T12:44:31.234854
+books_toscrape,Take Me with You,45.21,Fiction,Three,In stock (14 available),2025-09-24T12:44:32.098113
+books_toscrape,Swell: A Year of Waves,45.58,Nonfiction,One,In stock (14 available),2025-09-24T12:44:35.040249
+books_toscrape,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),11.89,Sequential Art,Five,In stock (14 available),2025-09-24T12:44:35.863713
+books_toscrape,Still Life with Bread Crumbs,26.41,Fiction,Three,In stock (14 available),2025-09-24T12:44:36.661516
+books_toscrape,Steve Jobs,39.5,Default,Five,In stock (14 available),2025-09-24T12:44:37.464093
+books_toscrape,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74,Science,Four,In stock (14 available),2025-09-24T12:44:38.250199
+books_toscrape,Someone Like You (The Harrisons #2),52.79,Contemporary,Five,In stock (14 available),2025-09-24T12:44:39.051499
+books_toscrape,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",35.43,Sequential Art,Four,In stock (14 available),2025-09-24T12:44:39.849710
+books_toscrape,Shtum,55.84,Fiction,Four,In stock (14 available),2025-09-24T12:44:40.644741
+books_toscrape,See America: A Celebration of Our National Parks & Treasured Sites,48.87,Travel,Three,In stock (14 available),2025-09-24T12:44:41.436328
+books_toscrape,salt.,46.78,Poetry,Four,In stock (14 available),2025-09-24T12:44:42.232509
+books_toscrape,Robin War,47.82,Sequential Art,Three,In stock (14 available),2025-09-24T12:44:43.046315
+books_toscrape,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",25.48,Sequential Art,Two,In stock (14 available),2025-09-24T12:44:43.837947
+books_toscrape,Rain Fish,23.57,Childrens,Three,In stock (14 available),2025-09-24T12:44:44.627715
+books_toscrape,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89,Poetry,Five,In stock (14 available),2025-09-24T12:44:45.553890
+books_toscrape,Pet Sematary,10.56,Horror,Three,In stock (14 available),2025-09-24T12:44:46.356213
+books_toscrape,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15,Self Help,Three,In stock (14 available),2025-09-24T12:44:47.245371
+books_toscrape,Once Was a Time,18.28,Childrens,Two,In stock (14 available),2025-09-24T12:44:48.212253
+books_toscrape,Old School (Diary of a Wimpy Kid #10),11.83,Humor,Five,In stock (14 available),2025-09-24T12:44:49.022299
+books_toscrape,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,21.95,Nonfiction,Two,In stock (14 available),2025-09-24T12:44:49.819984
+books_toscrape,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",38.39,Sequential Art,Two,In stock (14 available),2025-09-24T12:44:50.615225
+books_toscrape,My Name Is Lucy Barton,41.56,Fiction,One,In stock (14 available),2025-09-24T12:44:53.496832
+books_toscrape,My Mrs. Brown,24.48,Fiction,Three,In stock (14 available),2025-09-24T12:44:54.307524
+books_toscrape,My Kind of Crazy,40.36,Young Adult,One,In stock (14 available),2025-09-24T12:44:55.107388
+books_toscrape,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,Fiction,One,In stock (14 available),2025-09-24T12:44:55.905540
+books_toscrape,More Than Music (Chasing the Dream #1),37.61,Add a comment,Two,In stock (14 available),2025-09-24T12:44:56.752606
+books_toscrape,Made to Stick: Why Some Ideas Survive and Others Die,38.85,Business,Five,In stock (14 available),2025-09-24T12:44:57.552957
+books_toscrape,Luis Paints the World,53.95,Childrens,Three,In stock (14 available),2025-09-24T12:44:58.425420
+books_toscrape,Luckiest Girl Alive,49.83,Default,Three,In stock (14 available),2025-09-24T12:44:59.328568
+books_toscrape,Lowriders to the Center of the Earth (Lowriders in Space #2),51.51,Sequential Art,Two,In stock (14 available),2025-09-24T12:45:00.133594
+books_toscrape,Love Is a Mix Tape (Music #1),18.03,Music,One,In stock (14 available),2025-09-24T12:45:00.938703
+books_toscrape,Looking for Lovely: Collecting the Moments that Matter,29.14,Nonfiction,Five,In stock (14 available),2025-09-24T12:45:01.745605
+books_toscrape,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",46.91,Default,Four,In stock (14 available),2025-09-24T12:45:02.556266
+books_toscrape,Let It Out: A Journey Through Journaling,26.79,Nonfiction,Five,In stock (14 available),2025-09-24T12:45:03.351586
+books_toscrape,Lady Midnight (The Dark Artifices #1),16.28,Default,Five,In stock (14 available),2025-09-24T12:45:04.140226
+books_toscrape,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,Food and Drink,One,In stock (14 available),2025-09-24T12:45:04.956923
+books_toscrape,Island of Dragons (Unwanteds #7),29.65,Fantasy,One,In stock (14 available),2025-09-24T12:45:05.750091
+books_toscrape,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,Humor,Four,In stock (14 available),2025-09-24T12:45:06.554364
+books_toscrape,I Am Pilgrim (Pilgrim #1),10.6,Fiction,Four,In stock (14 available),2025-09-24T12:45:07.359873
+books_toscrape,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,Humor,Five,In stock (14 available),2025-09-24T12:45:08.175924
+books_toscrape,"Hush, Hush (Hush, Hush #1)",47.02,Default,Three,In stock (14 available),2025-09-24T12:45:08.989705
+books_toscrape,Hold Your Breath (Search and Rescue #1),28.82,Romance,One,In stock (14 available),2025-09-24T12:45:11.983937
+books_toscrape,Hamilton: The Revolution,58.79,Nonfiction,Three,In stock (14 available),2025-09-24T12:45:12.902749
+books_toscrape,Greek Mythic History,10.23,Default,Five,In stock (14 available),2025-09-24T12:45:13.757277
+books_toscrape,God: The Most Unpleasant Character in All Fiction,30.03,Religion,Five,In stock (14 available),2025-09-24T12:45:14.578068
+books_toscrape,Glory over Everything: Beyond The Kitchen House,45.84,Historical Fiction,Three,In stock (14 available),2025-09-24T12:45:15.384544
+books_toscrape,Feathers: Displays of Brilliant Plumage,49.05,Art,Three,In stock (14 available),2025-09-24T12:45:16.187265
+books_toscrape,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",15.06,Nonfiction,Four,In stock (14 available),2025-09-24T12:45:16.996696
+books_toscrape,Every Last Word,46.47,Default,Three,In stock (14 available),2025-09-24T12:45:17.814547
+books_toscrape,Eligible (The Austen Project #4),27.09,Fiction,Three,In stock (14 available),2025-09-24T12:45:18.623724
+books_toscrape,El Deafo,57.62,Sequential Art,Five,In stock (14 available),2025-09-24T12:45:19.430824
+books_toscrape,Eight Hundred Grapes,14.39,Fiction,Four,In stock (14 available),2025-09-24T12:45:20.350120
+books_toscrape,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",51.75,Nonfiction,Five,In stock (14 available),2025-09-24T12:45:22.621008
+books_toscrape,"Eat Fat, Get Thin",54.07,Health,Two,In stock (14 available),2025-09-24T12:45:23.438941
+books_toscrape,Don't Get Caught,55.35,Young Adult,One,In stock (14 available),2025-09-24T12:45:24.299741
+books_toscrape,Doctor Sleep (The Shining #2),40.12,Horror,Two,In stock (14 available),2025-09-24T12:45:25.244892
+books_toscrape,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,Fantasy,Five,In stock (14 available),2025-09-24T12:45:26.068257
+books_toscrape,Dear Mr. Knightley,11.21,Fiction,Five,In stock (14 available),2025-09-24T12:45:26.888642
+books_toscrape,Daily Fantasy Sports,36.58,Default,One,In stock (14 available),2025-09-24T12:45:27.684842
+books_toscrape,Crazy Love: Overwhelmed by a Relentless God,47.72,Christian,Two,In stock (14 available),2025-09-24T12:45:28.493012
+books_toscrape,Cometh the Hour (The Clifton Chronicles #6),25.01,Fiction,Three,In stock (14 available),2025-09-24T12:45:29.302642
+books_toscrape,Code Name Verity (Code Name Verity #1),22.13,Add a comment,Four,In stock (14 available),2025-09-24T12:45:32.218836
+books_toscrape,Clockwork Angel (The Infernal Devices #1),44.14,Default,One,In stock (14 available),2025-09-24T12:45:33.014028
+books_toscrape,City of Glass (The Mortal Instruments #3),56.02,Fantasy,Four,In stock (14 available),2025-09-24T12:45:33.821105
+books_toscrape,City of Fallen Angels (The Mortal Instruments #4),11.23,Default,Four,In stock (14 available),2025-09-24T12:45:34.613439
+books_toscrape,City of Bones (The Mortal Instruments #1),43.28,Default,One,In stock (14 available),2025-09-24T12:45:35.431422
+books_toscrape,City of Ashes (The Mortal Instruments #2),47.27,Default,One,In stock (14 available),2025-09-24T12:45:36.236409
+books_toscrape,Cell,20.29,Add a comment,Four,In stock (14 available),2025-09-24T12:45:37.038074
+books_toscrape,Catching Jordan (Hundred Oaks),50.83,Young Adult,Three,In stock (14 available),2025-09-24T12:45:37.832326
+books_toscrape,"Carry On, Warrior: Thoughts on Life Unarmed",31.85,Default,Three,In stock (14 available),2025-09-24T12:45:38.632319
+books_toscrape,Carrie,46.23,Default,Two,In stock (14 available),2025-09-24T12:45:39.425049
+books_toscrape,Buying In: The Secret Dialogue Between What We Buy and Who We Are,37.8,Nonfiction,Four,In stock (14 available),2025-09-24T12:45:40.253984
+books_toscrape,Brain on Fire: My Month of Madness,49.32,Nonfiction,Five,In stock (14 available),2025-09-24T12:45:41.072598
+books_toscrape,Batman: Europa,32.01,Sequential Art,Two,In stock (14 available),2025-09-24T12:45:41.881678
+books_toscrape,Barefoot Contessa Back to Basics,28.01,Food and Drink,One,In stock (14 available),2025-09-24T12:45:42.692812
+books_toscrape,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,Food and Drink,Five,In stock (14 available),2025-09-24T12:45:43.517441
+books_toscrape,Balloon Animals,17.03,Fiction,Three,In stock (14 available),2025-09-24T12:45:44.314569
+books_toscrape,Art Ops Vol. 1,48.8,Sequential Art,Three,In stock (14 available),2025-09-24T12:45:45.112831
+books_toscrape,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,Young Adult,Four,In stock (14 available),2025-09-24T12:45:45.893552
+books_toscrape,Angels Walking (Angels Walking #1),34.2,Add a comment,Two,In stock (14 available),2025-09-24T12:45:46.721434
+books_toscrape,Angels & Demons (Robert Langdon #1),51.48,Default,Three,In stock (14 available),2025-09-24T12:45:47.511953
+books_toscrape,All the Light We Cannot See,29.87,Historical,Five,In stock (14 available),2025-09-24T12:45:50.395645
+books_toscrape,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",10.9,Sequential Art,Two,In stock (14 available),2025-09-24T12:45:51.186511
+books_toscrape,Abstract City,56.37,Nonfiction,Five,In stock (14 available),2025-09-24T12:45:51.988901
+books_toscrape,A Time of Torment (Charlie Parker #14),48.35,Mystery,Five,In stock (14 available),2025-09-24T12:45:52.789601
+books_toscrape,A Study in Scarlet (Sherlock Holmes #1),16.73,Mystery,Two,In stock (14 available),2025-09-24T12:45:53.579734
+books_toscrape,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48,Add a comment,Two,In stock (14 available),2025-09-24T12:45:54.370857
+books_toscrape,A People's History of the United States,40.79,Add a comment,Two,In stock (14 available),2025-09-24T12:45:55.176815
+books_toscrape,A Man Called Ove,39.72,Fiction,One,In stock (14 available),2025-09-24T12:45:55.990492
+books_toscrape,A Distant Mirror: The Calamitous 14th Century,14.58,History,Three,In stock (14 available),2025-09-24T12:45:56.785616
+books_toscrape,A Brush of Wings (Angels Walking #3),55.51,Add a comment,One,In stock (14 available),2025-09-24T12:45:57.574990
+books_toscrape,1491: New Revelations of the Americas Before Columbus,21.8,History,Three,In stock (14 available),2025-09-24T12:45:58.509596
+books_toscrape,"The Three Searches, Meaning, and the Story",13.33,Default,Three,In stock (13 available),2025-09-24T12:45:59.506493
+books_toscrape,Searching for Meaning in Gailana,38.73,Fantasy,One,In stock (13 available),2025-09-24T12:46:00.354277
+books_toscrape,Rook,37.86,Add a comment,Four,In stock (13 available),2025-09-24T12:46:01.166130
+books_toscrape,My Kitchen Year: 136 Recipes That Saved My Life,11.53,Food and Drink,Two,In stock (13 available),2025-09-24T12:46:01.974496
+books_toscrape,13 Hours: The Inside Account of What Really Happened In Benghazi,27.06,Nonfiction,One,In stock (13 available),2025-09-24T12:46:02.769143
+books_toscrape,Will You Won't You Want Me?,13.86,Womens Fiction,Three,In stock (12 available),2025-09-24T12:46:03.561675
+books_toscrape,Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55,Science,One,In stock (12 available),2025-09-24T12:46:04.369470
+books_toscrape,The Star-Touched Queen,32.3,Fantasy,Five,In stock (12 available),2025-09-24T12:46:05.177375
+books_toscrape,The Silent Sister (Riley MacPherson #1),46.29,Fiction,Five,In stock (12 available),2025-09-24T12:46:05.973042
+books_toscrape,The Midnight Watch: A Novel of the Titanic and the Californian,26.2,Add a comment,One,In stock (12 available),2025-09-24T12:46:08.851182
+books_toscrape,The Lonely City: Adventures in the Art of Being Alone,33.26,Nonfiction,Two,In stock (12 available),2025-09-24T12:46:09.646854
+books_toscrape,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,59.15,Add a comment,Four,In stock (12 available),2025-09-24T12:46:10.443799
+books_toscrape,The Golden Condom: And Other Essays on Love Lost and Found,39.43,Psychology,One,In stock (12 available),2025-09-24T12:46:11.269509
+books_toscrape,The Epidemic (The Program 0.6),14.44,Young Adult,Five,In stock (12 available),2025-09-24T12:46:13.699006
+books_toscrape,The Dinner Party,56.54,Fiction,Two,In stock (12 available),2025-09-24T12:46:14.507832
+books_toscrape,The Diary of a Young Girl,59.9,Nonfiction,Three,In stock (12 available),2025-09-24T12:46:15.436702
+books_toscrape,The Children,11.88,Add a comment,Three,In stock (12 available),2025-09-24T12:46:16.264666
+books_toscrape,Stars Above (The Lunar Chronicles #4.5),48.05,Young Adult,Two,In stock (12 available),2025-09-24T12:46:17.060873
+books_toscrape,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,21.21,Nonfiction,Three,In stock (12 available),2025-09-24T12:46:17.860342
+books_toscrape,Raspberry Pi Electronics Projects for the Evil Genius,49.67,Default,Four,In stock (12 available),2025-09-24T12:46:18.666877
+books_toscrape,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,Business,One,In stock (12 available),2025-09-24T12:46:19.473859
+books_toscrape,Psycho: Sanitarium (Psycho #1.5),36.97,Horror,Five,In stock (12 available),2025-09-24T12:46:20.268597
+books_toscrape,Poisonous (Max Revere Novels #3),26.8,Mystery,Three,In stock (12 available),2025-09-24T12:46:21.063757
+books_toscrape,One with You (Crossfire #5),15.71,Add a comment,Four,In stock (12 available),2025-09-24T12:46:21.880164
+books_toscrape,No Love Allowed (Dodge Cove #1),54.65,Young Adult,Four,In stock (12 available),2025-09-24T12:46:22.670230
+books_toscrape,Murder at the 42nd Street Library (Raymond Ambler #1),54.36,Mystery,Four,In stock (12 available),2025-09-24T12:46:23.477159
+books_toscrape,Most Wanted,35.28,Mystery,Three,In stock (12 available),2025-09-24T12:46:24.310641
+books_toscrape,"Love, Lies and Spies",20.55,Historical Fiction,Two,In stock (12 available),2025-09-24T12:46:25.113740
+books_toscrape,How to Speak Golf: An Illustrated Guide to Links Lingo,58.32,Default,Five,In stock (12 available),2025-09-24T12:46:25.915348
+books_toscrape,Hide Away (Eve Duncan #20),11.84,Mystery,One,In stock (12 available),2025-09-24T12:46:28.920098
+books_toscrape,Furiously Happy: A Funny Book About Horrible Things,41.46,Nonfiction,Four,In stock (12 available),2025-09-24T12:46:29.831798
+books_toscrape,Everyday Italian: 125 Simple and Delicious Recipes,20.1,Food and Drink,Five,In stock (12 available),2025-09-24T12:46:30.635111
+books_toscrape,Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86,Politics,One,In stock (12 available),2025-09-24T12:46:31.434195
+books_toscrape,Eleanor & Park,56.51,Default,Five,In stock (12 available),2025-09-24T12:46:32.248845
+books_toscrape,Dirty (Dive Bar #1),40.83,Romance,Four,In stock (12 available),2025-09-24T12:46:33.050493
+books_toscrape,Can You Keep a Secret? (Fear Street Relaunch #4),48.64,Horror,One,In stock (12 available),2025-09-24T12:46:33.849804
+books_toscrape,Boar Island (Anna Pigeon #19),59.48,Mystery,Three,In stock (12 available),2025-09-24T12:46:34.657342
+books_toscrape,A Paris Apartment,39.01,Historical Fiction,Four,In stock (12 available),2025-09-24T12:46:35.472635
+books_toscrape,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,Food and Drink,One,In stock (12 available),2025-09-24T12:46:36.317963
+books_toscrape,Troublemaker: Surviving Hollywood and Scientology,48.39,Default,Two,In stock (11 available),2025-09-24T12:46:37.132549
+books_toscrape,The Widow,27.26,Mystery,Two,In stock (11 available),2025-09-24T12:46:37.941485
+books_toscrape,"The Sleep Revolution: Transforming Your Life, One Night at a Time",11.68,Nonfiction,Four,In stock (11 available),2025-09-24T12:46:38.747414
+books_toscrape,The Improbability of Love,59.45,Fiction,One,In stock (11 available),2025-09-24T12:46:39.532895
+books_toscrape,The Art of Startup Fundraising,21.0,Business,Three,In stock (11 available),2025-09-24T12:46:40.344455
+books_toscrape,Take Me Home Tonight (Rock Star Romance #3),53.98,Romance,Three,In stock (11 available),2025-09-24T12:46:41.173778
+books_toscrape,Sleeping Giants (Themis Files #1),48.74,Science Fiction,One,In stock (11 available),2025-09-24T12:46:42.047073
+books_toscrape,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15,Biography,Two,In stock (11 available),2025-09-24T12:46:42.915016
+books_toscrape,Playing with Fire,13.71,Mystery,Three,In stock (11 available),2025-09-24T12:46:43.717538
+books_toscrape,Off the Hook (Fishing for Trouble #1),47.67,Romance,Three,In stock (11 available),2025-09-24T12:46:44.547727
+books_toscrape,Mothering Sunday,13.34,Fiction,Two,In stock (11 available),2025-09-24T12:46:47.452619
+books_toscrape,"Mother, Can You Not?",16.89,Nonfiction,Five,In stock (11 available),2025-09-24T12:46:48.253108
+books_toscrape,M Train,27.18,Autobiography,One,In stock (11 available),2025-09-24T12:46:49.044540
+books_toscrape,Lilac Girls,17.28,Historical Fiction,Two,In stock (11 available),2025-09-24T12:46:49.839639
+books_toscrape,Lies and Other Acts of Love,45.14,Fiction,One,In stock (11 available),2025-09-24T12:46:50.656868
+books_toscrape,Lab Girl,40.85,Autobiography,One,In stock (11 available),2025-09-24T12:46:51.469412
+books_toscrape,Keep Me Posted,20.46,Womens Fiction,Four,In stock (11 available),2025-09-24T12:46:52.335395
+books_toscrape,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27,Psychology,Three,In stock (11 available),2025-09-24T12:46:53.138202
+books_toscrape,Grey (Fifty Shades #4),48.49,Womens Fiction,Four,In stock (11 available),2025-09-24T12:46:53.942965
+books_toscrape,"Exit, Pursued by a Bear",51.34,Young Adult,Four,In stock (11 available),2025-09-24T12:46:54.847443
+books_toscrape,Daredevils,16.34,Fiction,Three,In stock (11 available),2025-09-24T12:46:55.674869
+books_toscrape,Cravings: Recipes for What You Want to Eat,20.5,Food and Drink,Three,In stock (11 available),2025-09-24T12:46:56.493255
+books_toscrape,Born for This: How to Find the Work You Were Meant to Do,21.59,Business,Five,In stock (11 available),2025-09-24T12:46:57.297494
+books_toscrape,Arena,21.36,Science Fiction,Four,In stock (11 available),2025-09-24T12:46:58.105402
+books_toscrape,Adultery,20.88,Default,Five,In stock (11 available),2025-09-24T12:46:58.915974
+books_toscrape,A Mother's Reckoning: Living in the Aftermath of Tragedy,19.53,Nonfiction,Three,In stock (11 available),2025-09-24T12:47:00.761113
+books_toscrape,A Gentleman's Position (Society of Gentlemen #3),14.75,Romance,Five,In stock (11 available),2025-09-24T12:47:01.586104
+books_toscrape,11/22/63,48.48,Fiction,Three,In stock (11 available),2025-09-24T12:47:03.966085
+books_toscrape,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",24.57,Nonfiction,Two,In stock (10 available),2025-09-24T12:47:04.851923
+books_toscrape,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,Health,Five,In stock (10 available),2025-09-24T12:47:05.740189
+books_toscrape,Without Shame,48.27,Add a comment,Five,In stock (9 available),2025-09-24T12:47:08.630465
+books_toscrape,Watchmen,58.05,Add a comment,Four,In stock (9 available),2025-09-24T12:47:09.449831
+books_toscrape,Unlimited Intuition Now,58.87,Default,Four,In stock (9 available),2025-09-24T12:47:10.259402
+books_toscrape,Underlying Notes,11.82,Default,Two,In stock (9 available),2025-09-24T12:47:11.061879
+books_toscrape,The Shack,28.03,Fiction,One,In stock (9 available),2025-09-24T12:47:11.864175
+books_toscrape,The New Brand You: Your New Image Makes the Sale for You,44.05,Default,Five,In stock (9 available),2025-09-24T12:47:12.665577
+books_toscrape,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,Food and Drink,Four,In stock (9 available),2025-09-24T12:47:13.489505
+books_toscrape,The Flowers Lied,16.68,Default,Two,In stock (9 available),2025-09-24T12:47:14.286303
+books_toscrape,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91,Science,One,In stock (9 available),2025-09-24T12:47:15.078420
+books_toscrape,The Book of Mormon,24.57,Religion,Three,In stock (9 available),2025-09-24T12:47:15.869175
+books_toscrape,The Art and Science of Low Carbohydrate Living,52.98,Health,Five,In stock (9 available),2025-09-24T12:47:16.670932
+books_toscrape,The Alien Club,54.4,Young Adult,One,In stock (9 available),2025-09-24T12:47:17.477095
+books_toscrape,Suzie Snowflake: One beautiful flake (a self-esteem story),54.81,Novels,Five,In stock (9 available),2025-09-24T12:47:18.362350
+books_toscrape,Nap-a-Roo,25.08,Childrens,One,In stock (9 available),2025-09-24T12:47:19.234952
+books_toscrape,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",10.41,Default,Four,In stock (9 available),2025-09-24T12:47:20.045642
+books_toscrape,Modern Day Fables,47.44,Default,Two,In stock (9 available),2025-09-24T12:47:21.861178
+books_toscrape,If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91,Spirituality,One,In stock (9 available),2025-09-24T12:47:22.669198
+books_toscrape,"Fruits Basket, Vol. 9 (Fruits Basket #9)",33.95,Sequential Art,Four,In stock (9 available),2025-09-24T12:47:23.483499
+books_toscrape,Dress Your Family in Corduroy and Denim,43.68,Humor,Three,In stock (9 available),2025-09-24T12:47:24.291865
+books_toscrape,Don't Forget Steven,33.23,Young Adult,One,In stock (9 available),2025-09-24T12:47:25.092342
+books_toscrape,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,35.92,Nonfiction,Two,In stock (9 available),2025-09-24T12:47:28.076318
+books_toscrape,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,Art,Four,In stock (9 available),2025-09-24T12:47:28.958133
+books_toscrape,A Shard of Ice (The Black Symphony Saga #1),56.63,Fantasy,Three,In stock (9 available),2025-09-24T12:47:29.753163
+books_toscrape,A Hero's Curse (The Unseen Chronicles #1),50.49,Add a comment,Three,In stock (9 available),2025-09-24T12:47:30.556899
+books_toscrape,23 Degrees South: A Tropical Tale of Changing Whether...,35.79,Add a comment,Two,In stock (9 available),2025-09-24T12:47:31.355225
+books_toscrape,"Zero to One: Notes on Startups, or How to Build the Future",34.06,Nonfiction,Three,In stock (8 available),2025-09-24T12:47:32.153893
+books_toscrape,Why Not Me?,17.76,Nonfiction,One,In stock (8 available),2025-09-24T12:47:32.952291
+books_toscrape,When Breath Becomes Air,39.36,Nonfiction,Two,In stock (8 available),2025-09-24T12:47:33.744937
+books_toscrape,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,Travel,Two,In stock (8 available),2025-09-24T12:47:34.538918
+books_toscrape,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),43.62,Default,Five,In stock (8 available),2025-09-24T12:47:35.355724
+books_toscrape,The New Drawing on the Right Side of the Brain,43.02,Art,Three,In stock (8 available),2025-09-24T12:47:36.143334
+books_toscrape,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",28.45,Nonfiction,Four,In stock (8 available),2025-09-24T12:47:36.943112
+books_toscrape,The Martian (The Martian #1),41.39,Default,Two,In stock (8 available),2025-09-24T12:47:37.756380
+books_toscrape,The High Mountains of Portugal,51.15,Fiction,One,In stock (8 available),2025-09-24T12:47:38.544084
+books_toscrape,The Grownup,35.88,Short Stories,One,In stock (8 available),2025-09-24T12:47:39.476611
+books_toscrape,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,Business,One,In stock (8 available),2025-09-24T12:47:40.346414
+books_toscrape,South of Sunshine,28.93,Young Adult,One,In stock (8 available),2025-09-24T12:47:41.225205
+books_toscrape,Smarter Faster Better: The Secrets of Being Productive in Life and Business,38.89,Nonfiction,Five,In stock (8 available),2025-09-24T12:47:42.099852
+books_toscrape,Silence in the Dark (Logan Point #4),58.33,Suspense,Three,In stock (8 available),2025-09-24T12:47:42.992516
+books_toscrape,Shadows of the Past (Logan Point #1),39.67,Christian Fiction,Five,In stock (8 available),2025-09-24T12:47:43.820022
+books_toscrape,Roller Girl,14.1,Sequential Art,Five,In stock (8 available),2025-09-24T12:47:46.735041
+books_toscrape,Rising Strong,21.82,Nonfiction,Three,In stock (8 available),2025-09-24T12:47:47.548959
+books_toscrape,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,Philosophy,One,In stock (8 available),2025-09-24T12:47:48.370521
+books_toscrape,Please Kill Me: The Uncensored Oral History of Punk,31.19,Music,Four,In stock (8 available),2025-09-24T12:47:49.170302
+books_toscrape,Out of Print: City Lights Spotlight No. 14,53.64,Poetry,Five,In stock (8 available),2025-09-24T12:47:49.981029
+books_toscrape,My Life Next Door (My Life Next Door ),36.39,Young Adult,Five,In stock (8 available),2025-09-24T12:47:50.783363
+books_toscrape,Miller's Valley,58.54,Fiction,Two,In stock (8 available),2025-09-24T12:47:51.583513
+books_toscrape,Man's Search for Meaning,29.48,Nonfiction,Three,In stock (8 available),2025-09-24T12:47:52.385455
+books_toscrape,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",25.06,Nonfiction,Two,In stock (8 available),2025-09-24T12:47:54.263254
+books_toscrape,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,12.55,Nonfiction,Three,In stock (8 available),2025-09-24T12:47:55.204803
+books_toscrape,Les Fleurs du Mal,29.04,Poetry,Five,In stock (8 available),2025-09-24T12:47:56.070759
+books_toscrape,Left Behind (Left Behind #1),40.72,Default,Two,In stock (8 available),2025-09-24T12:47:56.877452
+books_toscrape,Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,Music,Five,In stock (8 available),2025-09-24T12:47:57.676728
+books_toscrape,Kierkegaard: A Christian Missionary to Christians,47.13,Philosophy,One,In stock (8 available),2025-09-24T12:47:58.486411
+books_toscrape,John Vassos: Industrial Design for Modern Life,20.22,Default,Four,In stock (8 available),2025-09-24T12:47:59.268893
+books_toscrape,I'll Give You the Sun,56.48,Default,One,In stock (8 available),2025-09-24T12:48:00.057302
+books_toscrape,I Will Find You,44.21,Nonfiction,One,In stock (8 available),2025-09-24T12:48:00.853897
+books_toscrape,Hystopia: A Novel,21.96,Fiction,Four,In stock (8 available),2025-09-24T12:48:01.667551
+books_toscrape,Howl and Other Poems,40.45,Poetry,Two,In stock (8 available),2025-09-24T12:48:02.497974
+books_toscrape,History of Beauty,10.29,Art,Four,In stock (8 available),2025-09-24T12:48:03.298372
+books_toscrape,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,52.86,Default,Two,In stock (8 available),2025-09-24T12:48:06.299498
+books_toscrape,Future Shock (Future Shock #1),55.65,Young Adult,Five,In stock (8 available),2025-09-24T12:48:07.189068
+books_toscrape,Ender's Game (The Ender Quintet #1),43.64,Default,One,In stock (8 available),2025-09-24T12:48:08.004276
+books_toscrape,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41,Science,One,In stock (8 available),2025-09-24T12:48:09.825877
+books_toscrape,Death by Leisure: A Cautionary Tale,37.51,Default,Four,In stock (8 available),2025-09-24T12:48:10.637906
+books_toscrape,Brilliant Beacons: A History of the American Lighthouse,11.45,History,Three,In stock (8 available),2025-09-24T12:48:11.443233
+books_toscrape,Brazen: The Courage to Find the You That's Been Hiding,19.22,Nonfiction,Two,In stock (8 available),2025-09-24T12:48:12.252528
+books_toscrape,Between the World and Me,56.91,Nonfiction,Four,In stock (8 available),2025-09-24T12:48:13.074636
+books_toscrape,Being Mortal: Medicine and What Matters in the End,55.06,Nonfiction,Four,In stock (8 available),2025-09-24T12:48:13.859804
+books_toscrape,"A Murder Over a Girl: Justice, Gender, Junior High",13.2,Nonfiction,Three,In stock (8 available),2025-09-24T12:48:14.669904
+books_toscrape,32 Yolks,53.63,Food and Drink,Two,In stock (8 available),2025-09-24T12:48:15.526679
+books_toscrape,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48,History,Five,In stock (8 available),2025-09-24T12:48:16.451792
+books_toscrape,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08,Self Help,Three,In stock (7 available),2025-09-24T12:48:17.250554
+books_toscrape,Wildlife of New York: A Five-Borough Coloring Book,22.14,Default,Two,In stock (7 available),2025-09-24T12:48:18.058485
+books_toscrape,What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,Mystery,Five,In stock (7 available),2025-09-24T12:48:18.870129
+books_toscrape,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33,Spirituality,Two,In stock (7 available),2025-09-24T12:48:19.750724
+books_toscrape,Under the Tuscan Sun,37.33,Travel,Three,In stock (7 available),2025-09-24T12:48:20.536430
+books_toscrape,Toddlers Are A**holes: It's Not Your Fault,25.55,Humor,One,In stock (7 available),2025-09-24T12:48:21.458282
+books_toscrape,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,34.72,Default,One,In stock (7 available),2025-09-24T12:48:22.316042
+books_toscrape,The Whale,35.96,Childrens,Four,In stock (7 available),2025-09-24T12:48:23.123399
+books_toscrape,The Story of Art,41.14,Art,Four,In stock (7 available),2025-09-24T12:48:26.026606
+books_toscrape,The Origin of Species,10.01,Science,Four,In stock (7 available),2025-09-24T12:48:26.830112
+books_toscrape,The Great Gatsby,36.05,Default,Four,In stock (7 available),2025-09-24T12:48:27.627886
+books_toscrape,The Good Girl,49.03,Default,Three,In stock (7 available),2025-09-24T12:48:28.450499
+books_toscrape,The Glass Castle,16.24,Add a comment,One,In stock (7 available),2025-09-24T12:48:29.245814
+books_toscrape,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55,Biography,One,In stock (7 available),2025-09-24T12:48:30.082792
+books_toscrape,The Drowning Girls,35.67,Add a comment,Three,In stock (7 available),2025-09-24T12:48:30.886880
+books_toscrape,The Constant Princess (The Tudor Court #1),16.62,Historical Fiction,Three,In stock (7 available),2025-09-24T12:48:31.690040
+books_toscrape,The Bourne Identity (Jason Bourne #1),42.78,Fiction,Four,In stock (7 available),2025-09-24T12:48:32.495609
+books_toscrape,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.3,Mystery,Five,In stock (7 available),2025-09-24T12:48:33.416957
+books_toscrape,The Art Book,32.34,Art,Two,In stock (7 available),2025-09-24T12:48:34.288981
+books_toscrape,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,33.17,Default,Four,In stock (7 available),2025-09-24T12:48:35.141358
+books_toscrape,Team of Rivals: The Political Genius of Abraham Lincoln,20.12,Add a comment,Five,In stock (7 available),2025-09-24T12:48:35.973335
+books_toscrape,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,20.9,Default,Two,In stock (7 available),2025-09-24T12:48:36.793333
+books_toscrape,"Sit, Stay, Love",20.9,Romance,Three,In stock (7 available),2025-09-24T12:48:37.606706
+books_toscrape,Sister Dear,40.2,Fiction,Four,In stock (7 available),2025-09-24T12:48:38.423747
+books_toscrape,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87,Childrens,Three,In stock (7 available),2025-09-24T12:48:39.222306
+books_toscrape,"Rich Dad, Poor Dad",51.74,Business,One,In stock (7 available),2025-09-24T12:48:40.044665
+books_toscrape,Raymie Nightingale,34.41,Childrens,Two,In stock (7 available),2025-09-24T12:48:40.849015
+books_toscrape,Playing from the Heart,32.38,Childrens,One,In stock (7 available),2025-09-24T12:48:41.650393
+books_toscrape,Nightstruck: A Novel,50.35,Young Adult,Four,In stock (7 available),2025-09-24T12:48:44.750152
+books_toscrape,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,Food and Drink,Five,In stock (7 available),2025-09-24T12:48:45.538713
+books_toscrape,Meternity,43.58,Womens Fiction,Three,In stock (7 available),2025-09-24T12:48:46.441273
+books_toscrape,Memoirs of a Geisha,49.67,Fiction,Three,In stock (7 available),2025-09-24T12:48:47.304138
+books_toscrape,Like Never Before (Walker Family #2),28.77,Christian Fiction,Two,In stock (7 available),2025-09-24T12:48:48.161688
+books_toscrape,Life of Pi,13.22,Default,Four,In stock (7 available),2025-09-24T12:48:48.962656
+books_toscrape,Leave This Song Behind: Teen Poetry at Its Best,51.17,Poetry,Five,In stock (7 available),2025-09-24T12:48:49.763072
+books_toscrape,King's Folly (The Kinsman Chronicles #1),39.61,Fantasy,Five,In stock (7 available),2025-09-24T12:48:50.588748
+books_toscrape,John Adams,57.43,Add a comment,Four,In stock (7 available),2025-09-24T12:48:51.384929
+books_toscrape,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),46.01,Food and Drink,Four,In stock (7 available),2025-09-24T12:48:52.189905
+books_toscrape,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,28.25,Food and Drink,Two,In stock (7 available),2025-09-24T12:48:52.999244
+books_toscrape,Good in Bed (Cannie Shapiro #1),37.05,Add a comment,Five,In stock (7 available),2025-09-24T12:48:53.813012
+books_toscrape,"Fruits Basket, Vol. 7 (Fruits Basket #7)",19.57,Sequential Art,One,In stock (7 available),2025-09-24T12:48:54.602533
+books_toscrape,For the Love: Fighting for Grace in a World of Impossible Standards,45.13,Nonfiction,Three,In stock (7 available),2025-09-24T12:48:55.417856
+books_toscrape,Finding God in the Ruins: How God Redeems Pain,46.64,Nonfiction,Two,In stock (7 available),2025-09-24T12:48:56.232125
+books_toscrape,Every Heart a Doorway (Every Heart A Doorway #1),12.16,Fantasy,Five,In stock (7 available),2025-09-24T12:48:57.045203
+books_toscrape,Delivering the Truth (Quaker Midwife Mystery #1),20.89,Mystery,Four,In stock (7 available),2025-09-24T12:48:57.864593
+books_toscrape,Counted With the Stars (Out from Egypt #1),17.97,Christian Fiction,Five,In stock (7 available),2025-09-24T12:48:58.753259
+books_toscrape,"Chronicles, Vol. 1",52.6,Music,Two,In stock (7 available),2025-09-24T12:48:59.662688
+books_toscrape,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77,Christian,One,In stock (7 available),2025-09-24T12:49:00.486089
+books_toscrape,Benjamin Franklin: An American Life,48.19,Biography,Three,In stock (7 available),2025-09-24T12:49:03.461935
+books_toscrape,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,Philosophy,Five,In stock (7 available),2025-09-24T12:49:04.261229
+books_toscrape,A Summer In Europe,44.34,Travel,Two,In stock (7 available),2025-09-24T12:49:05.078030
+books_toscrape,A Short History of Nearly Everything,52.4,History,Five,In stock (7 available),2025-09-24T12:49:05.905253
+books_toscrape,A Gathering of Shadows (Shades of Magic #2),44.81,Fantasy,Four,In stock (7 available),2025-09-24T12:49:06.720968
+books_toscrape,The Sound Of Love,57.84,Default,Five,In stock (6 available),2025-09-24T12:49:07.519202
+books_toscrape,The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,History,Two,In stock (6 available),2025-09-24T12:49:09.338156
+books_toscrape,The Perks of Being a Wallflower,55.02,Default,Three,In stock (6 available),2025-09-24T12:49:10.172830
+books_toscrape,The Mysterious Affair at Styles (Hercule Poirot #1),24.8,Mystery,Four,In stock (6 available),2025-09-24T12:49:11.008964
+books_toscrape,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,59.45,Nonfiction,Four,In stock (6 available),2025-09-24T12:49:12.840075
+books_toscrape,The Makings of a Fatherless Child,31.58,Default,Two,In stock (6 available),2025-09-24T12:49:13.738014
+books_toscrape,The Joy of Cooking,43.27,Add a comment,Four,In stock (6 available),2025-09-24T12:49:14.662358
+books_toscrape,The Invention of Wings,37.34,Historical Fiction,One,In stock (6 available),2025-09-24T12:49:15.545171
+books_toscrape,The Hobbit (Middle-Earth Universe),17.8,Default,Five,In stock (6 available),2025-09-24T12:49:16.352557
+books_toscrape,The Great Railway Bazaar,30.54,Travel,One,In stock (6 available),2025-09-24T12:49:17.208187
+books_toscrape,The Golden Compass (His Dark Materials #1),18.77,Add a comment,One,In stock (6 available),2025-09-24T12:49:18.030950
+books_toscrape,The God Delusion,46.85,Add a comment,Three,In stock (6 available),2025-09-24T12:49:18.836211
+books_toscrape,The Girl You Left Behind (The Girl You Left Behind #1),15.79,Historical,One,In stock (6 available),2025-09-24T12:49:19.648386
+books_toscrape,The Fellowship of the Ring (The Lord of the Rings #1),10.27,Default,Two,In stock (6 available),2025-09-24T12:49:20.471892
+books_toscrape,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42,Poetry,Five,In stock (6 available),2025-09-24T12:49:21.279598
+books_toscrape,The Barefoot Contessa Cookbook,59.92,Food and Drink,Five,In stock (6 available),2025-09-24T12:49:24.252810
+books_toscrape,Tell the Wolves I'm Home,50.96,Young Adult,Two,In stock (6 available),2025-09-24T12:49:25.063368
+books_toscrape,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,30.6,Default,Three,In stock (6 available),2025-09-24T12:49:25.941793
+books_toscrape,Pride and Prejudice,19.27,Add a comment,Four,In stock (6 available),2025-09-24T12:49:26.736597
+books_toscrape,Musicophilia: Tales of Music and the Brain,46.58,Default,One,In stock (6 available),2025-09-24T12:49:27.663843
+books_toscrape,Mere Christianity,48.51,Add a comment,Three,In stock (6 available),2025-09-24T12:49:28.476335
+books_toscrape,Me Before You (Me Before You #1),19.02,Fiction,One,In stock (6 available),2025-09-24T12:49:29.362570
+books_toscrape,In the Woods (Dublin Murder Squad #1),38.38,Mystery,Two,In stock (6 available),2025-09-24T12:49:30.174275
+books_toscrape,In Cold Blood,49.98,Nonfiction,Four,In stock (6 available),2025-09-24T12:49:30.990024
+books_toscrape,How to Stop Worrying and Start Living,46.49,Self Help,Five,In stock (6 available),2025-09-24T12:49:31.818152
+books_toscrape,Give It Back,18.32,Thriller,Two,In stock (6 available),2025-09-24T12:49:32.624275
+books_toscrape,"Girl, Interrupted",42.14,Nonfiction,Three,In stock (6 available),2025-09-24T12:49:33.427270
+books_toscrape,Fun Home: A Family Tragicomic,56.59,Add a comment,Four,In stock (6 available),2025-09-24T12:49:34.239387
+books_toscrape,"Fruits Basket, Vol. 6 (Fruits Basket #6)",20.96,Sequential Art,Four,In stock (6 available),2025-09-24T12:49:35.056444
+books_toscrape,Deception Point,40.32,Fiction,Four,In stock (6 available),2025-09-24T12:49:36.897653
+books_toscrape,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",36.39,Sequential Art,Three,In stock (6 available),2025-09-24T12:49:37.692876
+books_toscrape,Catherine the Great: Portrait of a Woman,58.55,History,Four,In stock (6 available),2025-09-24T12:49:38.541617
+books_toscrape,Better Homes and Gardens New Cook Book,39.61,Food and Drink,Three,In stock (6 available),2025-09-24T12:49:39.350118
+books_toscrape,An Unquiet Mind: A Memoir of Moods and Madness,21.3,Psychology,Three,In stock (6 available),2025-09-24T12:49:40.161966
+books_toscrape,A Year in Provence (Provence #1),56.88,Travel,Four,In stock (6 available),2025-09-24T12:49:40.960653
+books_toscrape,World Without End (The Pillars of the Earth #2),32.97,Historical Fiction,Four,In stock (5 available),2025-09-24T12:49:43.895350
+books_toscrape,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",47.31,Young Adult,Four,In stock (5 available),2025-09-24T12:49:44.693607
+books_toscrape,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,48.67,Nonfiction,Two,In stock (5 available),2025-09-24T12:49:45.501309
+books_toscrape,Where She Went (If I Stay #2),41.73,Young Adult,Four,In stock (5 available),2025-09-24T12:49:46.314736
+books_toscrape,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,53.68,Default,Four,In stock (5 available),2025-09-24T12:49:47.129179
+books_toscrape,Two Summers,14.64,Young Adult,One,In stock (5 available),2025-09-24T12:49:47.944077
+books_toscrape,This Is Your Brain on Music: The Science of a Human Obsession,38.4,Music,One,In stock (5 available),2025-09-24T12:49:48.742794
+books_toscrape,The Secret Garden,15.08,Classics,Four,In stock (5 available),2025-09-24T12:49:49.614031
+books_toscrape,The Raven King (The Raven Cycle #4),30.57,Add a comment,Two,In stock (5 available),2025-09-24T12:49:50.576268
+books_toscrape,The Raven Boys (The Raven Cycle #1),57.74,Fantasy,Four,In stock (5 available),2025-09-24T12:49:51.440411
+books_toscrape,The Power Greens Cookbook: 140 Delicious Superfood Recipes,11.05,Food and Drink,Five,In stock (5 available),2025-09-24T12:49:52.256913
+books_toscrape,The Metamorphosis,28.58,Classics,One,In stock (5 available),2025-09-24T12:49:53.086338
+books_toscrape,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,History,Five,In stock (5 available),2025-09-24T12:49:53.929460
+books_toscrape,The Little Paris Bookshop,24.73,Fiction,Three,In stock (5 available),2025-09-24T12:49:54.730178
+books_toscrape,The Hiding Place,55.91,History,Four,In stock (5 available),2025-09-24T12:49:55.535798
+books_toscrape,The Grand Design,13.76,Science,Three,In stock (5 available),2025-09-24T12:49:56.340828
+books_toscrape,The Firm,45.56,Fiction,Three,In stock (5 available),2025-09-24T12:49:57.140029
+books_toscrape,The Fault in Our Stars,47.22,Default,One,In stock (5 available),2025-09-24T12:49:57.938564
+books_toscrape,The False Prince (The Ascendance Trilogy #1),56.0,Fantasy,Five,In stock (5 available),2025-09-24T12:49:58.743351
+books_toscrape,The Expatriates,44.58,Fiction,Two,In stock (5 available),2025-09-24T12:49:59.547255
+books_toscrape,The Dream Thieves (The Raven Cycle #2),34.5,Default,One,In stock (5 available),2025-09-24T12:50:02.606654
+books_toscrape,The Darkest Corners,11.33,Young Adult,Five,In stock (5 available),2025-09-24T12:50:03.427869
+books_toscrape,The Crossover,38.77,Poetry,Four,In stock (5 available),2025-09-24T12:50:04.247848
+books_toscrape,The 5th Wave (The 5th Wave #1),11.83,Default,Two,In stock (5 available),2025-09-24T12:50:05.058221
+books_toscrape,Tell the Wind and Fire,45.51,Fantasy,Three,In stock (5 available),2025-09-24T12:50:05.882263
+books_toscrape,Tell Me Three Things,41.81,Young Adult,One,In stock (5 available),2025-09-24T12:50:06.694147
+books_toscrape,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,25.15,Nonfiction,Four,In stock (5 available),2025-09-24T12:50:07.498889
+books_toscrape,Siddhartha,34.22,Fiction,Five,In stock (5 available),2025-09-24T12:50:08.305534
+books_toscrape,Shiver (The Wolves of Mercy Falls #1),16.23,Default,Five,In stock (5 available),2025-09-24T12:50:09.104682
+books_toscrape,Remember Me?,11.48,Default,Three,In stock (5 available),2025-09-24T12:50:09.908641
+books_toscrape,Red Dragon (Hannibal Lecter #1),23.37,Horror,Three,In stock (5 available),2025-09-24T12:50:10.712259
+books_toscrape,Peak: Secrets from the New Science of Expertise,16.28,Science,Two,In stock (5 available),2025-09-24T12:50:11.509757
+books_toscrape,My Mother Was Nuts,31.63,Nonfiction,Four,In stock (5 available),2025-09-24T12:50:12.311162
+books_toscrape,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,24.91,Food and Drink,Five,In stock (5 available),2025-09-24T12:50:13.122305
+books_toscrape,Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54,Childrens,One,In stock (5 available),2025-09-24T12:50:13.925811
+books_toscrape,Lola and the Boy Next Door (Anna and the French Kiss #2),23.63,Young Adult,Four,In stock (5 available),2025-09-24T12:50:15.824473
+books_toscrape,Logan Kade (Fallen Crest High #5.5),13.12,Academic,Two,In stock (5 available),2025-09-24T12:50:16.797159
+books_toscrape,Last One Home (New Beginnings #1),59.98,Fiction,Three,In stock (5 available),2025-09-24T12:50:17.628896
+books_toscrape,Killing Floor (Jack Reacher #1),31.49,Thriller,Four,In stock (5 available),2025-09-24T12:50:18.466085
+books_toscrape,Kill the Boy Band,15.52,Young Adult,Five,In stock (5 available),2025-09-24T12:50:19.262679
+books_toscrape,Isla and the Happily Ever After (Anna and the French Kiss #3),48.13,Young Adult,Five,In stock (5 available),2025-09-24T12:50:22.310029
+books_toscrape,If I Stay (If I Stay #1),38.13,Default,Five,In stock (5 available),2025-09-24T12:50:23.115598
+books_toscrape,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),36.55,Default,Two,In stock (5 available),2025-09-24T12:50:23.906201
+books_toscrape,Harry Potter and the Deathly Hallows (Harry Potter #7),23.32,Default,One,In stock (5 available),2025-09-24T12:50:24.695720
+books_toscrape,"Fruits Basket, Vol. 5 (Fruits Basket #5)",16.33,Sequential Art,One,In stock (5 available),2025-09-24T12:50:25.499039
+books_toscrape,Foundation (Foundation (Publication Order) #1),32.42,Science Fiction,One,In stock (5 available),2025-09-24T12:50:27.949733
+books_toscrape,Fool Me Once,16.96,Default,One,In stock (5 available),2025-09-24T12:50:28.755855
+books_toscrape,Find Her (Detective D.D. Warren #8),22.37,Add a comment,One,In stock (5 available),2025-09-24T12:50:29.620582
+books_toscrape,Evicted: Poverty and Profit in the American City,42.27,Add a comment,One,In stock (5 available),2025-09-24T12:50:30.429118
+books_toscrape,Drama,38.7,Default,Two,In stock (5 available),2025-09-24T12:50:31.288969
+books_toscrape,Dracula the Un-Dead,35.63,Horror,Five,In stock (5 available),2025-09-24T12:50:32.119812
+books_toscrape,Digital Fortress,58.0,Fiction,Five,In stock (5 available),2025-09-24T12:50:33.030435
+books_toscrape,"Death Note, Vol. 5: Whiteout (Death Note #5)",52.41,Sequential Art,One,In stock (5 available),2025-09-24T12:50:33.824858
+books_toscrape,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",32.35,Nonfiction,Three,In stock (5 available),2025-09-24T12:50:34.621495
+books_toscrape,Critique of Pure Reason,20.75,Philosophy,One,In stock (5 available),2025-09-24T12:50:36.453135
+books_toscrape,Booked,17.49,Poetry,Five,In stock (5 available),2025-09-24T12:50:37.267602
+books_toscrape,"Blue Lily, Lily Blue (The Raven Cycle #3)",34.13,Default,Five,In stock (5 available),2025-09-24T12:50:38.160786
+books_toscrape,Approval Junkie: Adventures in Caring Too Much,58.81,Autobiography,Five,In stock (5 available),2025-09-24T12:50:38.950636
+books_toscrape,An Abundance of Katherines,10.0,Young Adult,Five,In stock (5 available),2025-09-24T12:50:39.739664
+books_toscrape,America's War for the Greater Middle East: A Military History,51.22,History,Two,In stock (5 available),2025-09-24T12:50:40.609799
+books_toscrape,Alight (The Generations Trilogy #2),58.59,Default,Four,In stock (5 available),2025-09-24T12:50:43.521363
+books_toscrape,A Girl's Guide to Moving On (New Beginnings #2),31.3,Romance,One,In stock (5 available),2025-09-24T12:50:44.306757
+books_toscrape,A Game of Thrones (A Song of Ice and Fire #1),46.42,Add a comment,Two,In stock (5 available),2025-09-24T12:50:45.125786
+books_toscrape,A Feast for Crows (A Song of Ice and Fire #4),17.21,Fantasy,Four,In stock (5 available),2025-09-24T12:50:45.974402
+books_toscrape,A Clash of Kings (A Song of Ice and Fire #2),10.79,Add a comment,Three,In stock (5 available),2025-09-24T12:50:46.795999
+books_toscrape,Vogue Colors A to Z: A Fashion Coloring Book,52.35,Default,Four,In stock (4 available),2025-09-24T12:50:47.875162
+books_toscrape,The Shining (The Shining #1),27.88,Default,Three,In stock (4 available),2025-09-24T12:50:48.738995
+books_toscrape,The Pilgrim's Progress,50.26,Classics,Two,In stock (4 available),2025-09-24T12:50:49.540487
+books_toscrape,The Perfect Play (Play by Play #1),59.99,Romance,Three,In stock (4 available),2025-09-24T12:50:50.414124
+books_toscrape,The Passion of Dolssa,28.32,Historical Fiction,Five,In stock (4 available),2025-09-24T12:50:51.258699
+books_toscrape,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,38.71,Nonfiction,Three,In stock (4 available),2025-09-24T12:50:52.077708
+books_toscrape,The Hunger Games (The Hunger Games #1),29.85,Default,Five,In stock (4 available),2025-09-24T12:50:52.889794
+books_toscrape,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,Classics,Two,In stock (4 available),2025-09-24T12:50:53.706625
+books_toscrape,The Gunning of America: Business and the Making of American Gun Culture,16.81,Nonfiction,Four,In stock (4 available),2025-09-24T12:50:54.522929
+books_toscrape,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,28.23,Nonfiction,Two,In stock (4 available),2025-09-24T12:50:55.342828
+books_toscrape,The Demonists (Demonist #1),52.11,Fantasy,Two,In stock (4 available),2025-09-24T12:50:56.158041
+books_toscrape,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",27.88,Sequential Art,Two,In stock (4 available),2025-09-24T12:50:56.960202
+books_toscrape,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71,Thriller,Three,In stock (4 available),2025-09-24T12:50:57.799601
+books_toscrape,The Beast (Black Dagger Brotherhood #14),46.08,Fantasy,Five,In stock (4 available),2025-09-24T12:50:58.598931
+books_toscrape,Some Women,13.73,Womens Fiction,Five,In stock (4 available),2025-09-24T12:50:59.426060
+books_toscrape,Shopaholic Ties the Knot (Shopaholic #3),48.39,Womens Fiction,Five,In stock (4 available),2025-09-24T12:51:02.399049
+books_toscrape,Paper and Fire (The Great Library #2),49.45,Fantasy,Five,In stock (4 available),2025-09-24T12:51:03.254265
+books_toscrape,Outlander (Outlander #1),19.67,Default,Five,In stock (4 available),2025-09-24T12:51:04.115618
+books_toscrape,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,Music,Three,In stock (4 available),2025-09-24T12:51:04.960500
+books_toscrape,No One Here Gets Out Alive,20.02,Music,Five,In stock (4 available),2025-09-24T12:51:06.775753
+books_toscrape,Night Shift (Night Shift #1-20),12.75,Horror,Four,In stock (4 available),2025-09-24T12:51:07.576499
+books_toscrape,Needful Things,47.51,Horror,Four,In stock (4 available),2025-09-24T12:51:08.386368
+books_toscrape,Mockingjay (The Hunger Games #3),20.44,Default,Four,In stock (4 available),2025-09-24T12:51:09.181498
+books_toscrape,Misery,34.79,Horror,Two,In stock (4 available),2025-09-24T12:51:10.007777
+books_toscrape,Little Women (Little Women #1),28.07,Classics,Four,In stock (4 available),2025-09-24T12:51:10.820243
+books_toscrape,It,25.01,Horror,Three,In stock (4 available),2025-09-24T12:51:11.618008
+books_toscrape,Harry Potter and the Sorcerer's Stone (Harry Potter #1),13.9,Default,Three,In stock (4 available),2025-09-24T12:51:12.431024
+books_toscrape,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),24.17,Young Adult,Four,In stock (4 available),2025-09-24T12:51:13.261584
+books_toscrape,Harry Potter and the Order of the Phoenix (Harry Potter #5),31.63,Fantasy,Four,In stock (4 available),2025-09-24T12:51:14.113501
+books_toscrape,Harry Potter and the Half-Blood Prince (Harry Potter #6),48.75,Fantasy,Five,In stock (4 available),2025-09-24T12:51:15.089966
+books_toscrape,Harry Potter and the Chamber of Secrets (Harry Potter #2),14.74,Fantasy,One,In stock (4 available),2025-09-24T12:51:15.988475
+books_toscrape,Gone with the Wind,32.49,Classics,Three,In stock (4 available),2025-09-24T12:51:16.788668
+books_toscrape,God Is Not Great: How Religion Poisons Everything,27.8,Nonfiction,One,In stock (4 available),2025-09-24T12:51:17.622136
+books_toscrape,Girl With a Pearl Earring,26.77,Historical Fiction,One,In stock (4 available),2025-09-24T12:51:18.423697
+books_toscrape,"Fruits Basket, Vol. 4 (Fruits Basket #4)",50.44,Sequential Art,Four,In stock (4 available),2025-09-24T12:51:19.233725
+books_toscrape,Far From True (Promise Falls Trilogy #2),34.93,Thriller,Two,In stock (4 available),2025-09-24T12:51:22.182238
+books_toscrape,Dark Lover (Black Dagger Brotherhood #1),12.87,Romance,One,In stock (4 available),2025-09-24T12:51:22.993546
+books_toscrape,Confessions of a Shopaholic (Shopaholic #1),48.94,Default,Two,In stock (4 available),2025-09-24T12:51:23.787961
+books_toscrape,Changing the Game (Play by Play #2),13.38,Romance,Three,In stock (4 available),2025-09-24T12:51:24.581758
+books_toscrape,Candide,58.63,Classics,Three,In stock (4 available),2025-09-24T12:51:25.399913
+books_toscrape,Can You Keep a Secret?,21.94,Womens Fiction,One,In stock (4 available),2025-09-24T12:51:26.214490
+books_toscrape,Atlas Shrugged,26.58,Fiction,Five,In stock (4 available),2025-09-24T12:51:27.006259
+books_toscrape,Animal Farm,57.22,Classics,Three,In stock (4 available),2025-09-24T12:51:27.832928
+books_toscrape,A Walk to Remember,56.43,Romance,One,In stock (4 available),2025-09-24T12:51:28.649657
+books_toscrape,A New Earth: Awakening to Your Life's Purpose,55.65,Spirituality,Five,In stock (4 available),2025-09-24T12:51:29.479086
+books_toscrape,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,Religion,One,In stock (4 available),2025-09-24T12:51:30.378668
+books_toscrape,'Salem's Lot,49.56,Horror,Four,In stock (4 available),2025-09-24T12:51:31.237494
+books_toscrape,Zero History (Blue Ant #3),34.77,Default,One,In stock (3 available),2025-09-24T12:51:32.039078
+books_toscrape,Wuthering Heights,17.73,Classics,Three,In stock (3 available),2025-09-24T12:51:32.858467
+books_toscrape,World War Z: An Oral History of the Zombie War,21.8,Default,One,In stock (3 available),2025-09-24T12:51:33.674263
+books_toscrape,Wild: From Lost to Found on the Pacific Crest Trail,46.02,Default,Three,In stock (3 available),2025-09-24T12:51:34.476193
+books_toscrape,"Where'd You Go, Bernadette",18.13,Default,One,In stock (3 available),2025-09-24T12:51:35.288996
+books_toscrape,When You Are Engulfed in Flames,30.89,Humor,Five,In stock (3 available),2025-09-24T12:51:36.095626
+books_toscrape,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,31.95,Nonfiction,Three,In stock (3 available),2025-09-24T12:51:36.890538
+books_toscrape,We Are All Completely Beside Ourselves,24.04,Contemporary,One,In stock (3 available),2025-09-24T12:51:37.685152
+books_toscrape,Walk the Edge (Thunder Road #2),32.36,Young Adult,Three,In stock (3 available),2025-09-24T12:51:40.733010
+books_toscrape,Voyager (Outlander #3),21.07,Historical Fiction,Five,In stock (3 available),2025-09-24T12:51:41.615311
+books_toscrape,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,50.66,Nonfiction,Three,In stock (3 available),2025-09-24T12:51:42.466476
+books_toscrape,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,13.66,Food and Drink,Two,In stock (3 available),2025-09-24T12:51:43.249466
+books_toscrape,"Unstuffed: Decluttering Your Home, Mind, and Soul",58.09,Nonfiction,One,In stock (3 available),2025-09-24T12:51:44.064028
+books_toscrape,Under the Banner of Heaven: A Story of Violent Faith,30.0,Nonfiction,One,In stock (3 available),2025-09-24T12:51:44.899368
+books_toscrape,Two Boys Kissing,32.74,Young Adult,Two,In stock (3 available),2025-09-24T12:51:45.737535
+books_toscrape,Twilight (Twilight #1),41.93,Default,Two,In stock (3 available),2025-09-24T12:51:46.538967
+books_toscrape,Twenties Girl,42.8,Womens Fiction,Two,In stock (3 available),2025-09-24T12:51:48.349449
+books_toscrape,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",53.51,Nonfiction,One,In stock (3 available),2025-09-24T12:51:49.140673
+books_toscrape,Three-Martini Lunch,23.21,Fiction,Three,In stock (3 available),2025-09-24T12:51:49.935195
+books_toscrape,"Thinking, Fast and Slow",21.14,Psychology,One,In stock (3 available),2025-09-24T12:51:50.735395
+books_toscrape,The Wild Robot,56.07,Childrens,Three,In stock (3 available),2025-09-24T12:51:51.554227
+books_toscrape,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",14.41,Sequential Art,Three,In stock (3 available),2025-09-24T12:51:52.364799
+books_toscrape,The Undomestic Goddess,45.75,Womens Fiction,Four,In stock (3 available),2025-09-24T12:51:53.279748
+books_toscrape,The Travelers,15.77,Thriller,One,In stock (3 available),2025-09-24T12:51:54.148771
+books_toscrape,The Tipping Point: How Little Things Can Make a Big Difference,10.02,Add a comment,Two,In stock (3 available),2025-09-24T12:51:54.994224
+books_toscrape,The Thing About Jellyfish,48.77,Childrens,One,In stock (3 available),2025-09-24T12:51:55.810621
+books_toscrape,The Stand,57.86,Horror,Two,In stock (3 available),2025-09-24T12:51:56.607741
+books_toscrape,The Smitten Kitchen Cookbook,23.59,Food and Drink,One,In stock (3 available),2025-09-24T12:51:57.406995
+books_toscrape,The Silkworm (Cormoran Strike #2),23.05,Mystery,Five,In stock (3 available),2025-09-24T12:52:00.331785
+books_toscrape,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",55.55,Sequential Art,Five,In stock (3 available),2025-09-24T12:52:01.139131
+books_toscrape,The Rose & the Dagger (The Wrath and the Dawn #2),58.64,Fantasy,Four,In stock (3 available),2025-09-24T12:52:01.935435
+books_toscrape,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,Travel,One,In stock (3 available),2025-09-24T12:52:02.777970
+books_toscrape,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57,Biography,Three,In stock (3 available),2025-09-24T12:52:03.579545
+books_toscrape,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,Science Fiction,One,In stock (3 available),2025-09-24T12:52:04.476005
+books_toscrape,The Rest Is Noise: Listening to the Twentieth Century,34.77,Add a comment,One,In stock (3 available),2025-09-24T12:52:05.373961
+books_toscrape,The Red Tent,35.66,Historical Fiction,Five,In stock (3 available),2025-09-24T12:52:06.165008
+books_toscrape,The Purpose Driven Life: What on Earth Am I Here for?,37.19,Add a comment,Three,In stock (3 available),2025-09-24T12:52:06.989674
+books_toscrape,The Purest Hook (Second Circle Tattoos #3),12.25,Romance,One,In stock (3 available),2025-09-24T12:52:07.795946
+books_toscrape,The Picture of Dorian Gray,29.7,Classics,Two,In stock (3 available),2025-09-24T12:52:08.597482
+books_toscrape,The Paris Wife,36.8,Default,Three,In stock (3 available),2025-09-24T12:52:09.424830
+books_toscrape,The Obsession,45.43,Romance,One,In stock (3 available),2025-09-24T12:52:10.237799
+books_toscrape,The Nightingale,26.26,Fiction,Four,In stock (3 available),2025-09-24T12:52:11.038158
+books_toscrape,The New Guy (and Other Senior Year Distractions),44.92,Young Adult,Three,In stock (3 available),2025-09-24T12:52:11.840957
+books_toscrape,The Nanny Diaries (Nanny #1),52.53,Womens Fiction,Five,In stock (3 available),2025-09-24T12:52:12.646329
+books_toscrape,The Name of God is Mercy,37.25,Nonfiction,Two,In stock (3 available),2025-09-24T12:52:13.444647
+books_toscrape,The Maze Runner (The Maze Runner #1),20.93,Default,One,In stock (3 available),2025-09-24T12:52:14.241754
+books_toscrape,The Lover's Dictionary,58.09,Default,Two,In stock (3 available),2025-09-24T12:52:15.041823
+books_toscrape,The Lonely Ones,43.59,Childrens,Five,In stock (3 available),2025-09-24T12:52:15.845750
+books_toscrape,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,Business,Three,In stock (3 available),2025-09-24T12:52:18.841732
+books_toscrape,The Last Painting of Sara de Vos,55.55,Historical Fiction,Two,In stock (3 available),2025-09-24T12:52:19.711543
+books_toscrape,"The Land of 10,000 Madonnas",29.64,Young Adult,Four,In stock (3 available),2025-09-24T12:52:20.536094
+books_toscrape,The Infinities,27.41,Fiction,One,In stock (3 available),2025-09-24T12:52:21.420530
+books_toscrape,The Husband's Secret,52.51,Fiction,Five,In stock (3 available),2025-09-24T12:52:22.252671
+books_toscrape,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),47.8,Add a comment,Three,In stock (3 available),2025-09-24T12:52:23.056516
+books_toscrape,The Guns of August,14.54,History,Two,In stock (3 available),2025-09-24T12:52:23.849955
+books_toscrape,The Guernsey Literary and Potato Peel Pie Society,49.53,Historical Fiction,One,In stock (3 available),2025-09-24T12:52:24.685915
+books_toscrape,The Goldfinch,43.58,Default,Three,In stock (3 available),2025-09-24T12:52:25.489457
+books_toscrape,The Giver (The Giver Quartet #1),12.3,Default,One,In stock (3 available),2025-09-24T12:52:26.284744
+books_toscrape,The Girl with All the Gifts,49.47,Horror,Three,In stock (3 available),2025-09-24T12:52:27.089089
+books_toscrape,The Girl Who Played with Fire (Millennium Trilogy #2),22.14,Default,Two,In stock (3 available),2025-09-24T12:52:27.899175
+books_toscrape,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),57.48,Add a comment,One,In stock (3 available),2025-09-24T12:52:28.713847
+books_toscrape,The Exiled,43.45,Mystery,Three,In stock (3 available),2025-09-24T12:52:30.536438
+books_toscrape,"The End of Faith: Religion, Terror, and the Future of Reason",22.13,Add a comment,Four,In stock (3 available),2025-09-24T12:52:31.398699
+books_toscrape,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03,Science,Four,In stock (3 available),2025-09-24T12:52:32.363458
+books_toscrape,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35,Science,Five,In stock (3 available),2025-09-24T12:52:33.190690
+books_toscrape,The Devil Wears Prada (The Devil Wears Prada #1),44.29,Womens Fiction,One,In stock (3 available),2025-09-24T12:52:33.994418
+books_toscrape,The Demon-Haunted World: Science as a Candle in the Dark,52.25,Default,Four,In stock (3 available),2025-09-24T12:52:34.801881
+books_toscrape,The Day the Crayons Came Home (Crayons),26.33,Childrens,Five,In stock (3 available),2025-09-24T12:52:35.607271
+books_toscrape,The Da Vinci Code (Robert Langdon #2),22.96,Fiction,Two,In stock (3 available),2025-09-24T12:52:38.478527
+books_toscrape,The Cuckoo's Calling (Cormoran Strike #1),19.21,Mystery,One,In stock (3 available),2025-09-24T12:52:39.278441
+books_toscrape,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,Classics,Four,In stock (3 available),2025-09-24T12:52:40.078946
+books_toscrape,The Complete Poems,41.32,Add a comment,Five,In stock (3 available),2025-09-24T12:52:40.866925
+books_toscrape,The Catcher in the Rye,24.55,Add a comment,One,In stock (3 available),2025-09-24T12:52:41.665055
+books_toscrape,The Cat in the Hat (Beginner Books B-1),16.26,Childrens,Two,In stock (3 available),2025-09-24T12:52:42.459272
+books_toscrape,The Case for Christ (Cases for Christianity),47.84,Add a comment,One,In stock (3 available),2025-09-24T12:52:43.299146
+books_toscrape,The Book Thief,53.49,Default,Two,In stock (3 available),2025-09-24T12:52:44.150029
+books_toscrape,The Book of Basketball: The NBA According to The Sports Guy,44.84,Sports and Games,Five,In stock (3 available),2025-09-24T12:52:44.950454
+books_toscrape,The Blind Side: Evolution of a Game,53.71,Add a comment,Five,In stock (3 available),2025-09-24T12:52:45.826578
+books_toscrape,The Autobiography of Malcolm X,23.43,Default,Two,In stock (3 available),2025-09-24T12:52:46.718255
+books_toscrape,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",34.32,Food and Drink,Three,In stock (3 available),2025-09-24T12:52:47.664191
+books_toscrape,The Art of Fielding,22.1,Fiction,One,In stock (3 available),2025-09-24T12:52:48.489086
+books_toscrape,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83,Science,Two,In stock (3 available),2025-09-24T12:52:49.304852
+books_toscrape,Stiff: The Curious Lives of Human Cadavers,36.74,Nonfiction,Three,In stock (3 available),2025-09-24T12:52:50.112329
+books_toscrape,Spilled Milk: Based on a True Story,49.51,Nonfiction,One,In stock (3 available),2025-09-24T12:52:50.906933
+books_toscrape,Something Borrowed (Darcy & Rachel #1),48.96,Womens Fiction,Five,In stock (3 available),2025-09-24T12:52:51.713464
+books_toscrape,Something Blue (Darcy & Rachel #2),54.62,Womens Fiction,One,In stock (3 available),2025-09-24T12:52:52.519235
+books_toscrape,Soldier (Talon #3),24.72,Fantasy,Two,In stock (3 available),2025-09-24T12:52:53.311255
+books_toscrape,Shopaholic & Baby (Shopaholic #5),46.45,Default,Two,In stock (3 available),2025-09-24T12:52:54.098621
+books_toscrape,Seven Days in the Art World,52.33,Add a comment,Two,In stock (3 available),2025-09-24T12:52:57.162690
+books_toscrape,Seven Brief Lessons on Physics,30.6,Science,Four,In stock (3 available),2025-09-24T12:52:58.022054
+books_toscrape,Scarlet (The Lunar Chronicles #2),14.57,Young Adult,Four,In stock (3 available),2025-09-24T12:52:58.838853
+books_toscrape,Sarah's Key,46.29,Add a comment,One,In stock (3 available),2025-09-24T12:52:59.648271
+books_toscrape,"Saga, Volume 3 (Saga (Collected Editions) #3)",21.57,Sequential Art,Five,In stock (3 available),2025-09-24T12:53:00.455434
+books_toscrape,Running with Scissors,12.91,Autobiography,Four,In stock (3 available),2025-09-24T12:53:01.261935
+books_toscrape,Rogue Lawyer (Rogue Lawyer #1),50.11,Add a comment,Three,In stock (3 available),2025-09-24T12:53:02.075966
+books_toscrape,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",41.67,Nonfiction,Four,In stock (3 available),2025-09-24T12:53:02.868765
+books_toscrape,Rework,44.88,Business,Two,In stock (3 available),2025-09-24T12:53:03.668550
+books_toscrape,Reservations for Two,11.1,Romance,Three,In stock (3 available),2025-09-24T12:53:04.471728
+books_toscrape,Red: The True Story of Red Riding Hood,28.54,Childrens,Three,In stock (3 available),2025-09-24T12:53:05.275770
+books_toscrape,Ready Player One,19.07,Science Fiction,Four,In stock (3 available),2025-09-24T12:53:06.067159
+books_toscrape,Quiet: The Power of Introverts in a World That Can't Stop Talking,43.55,Default,One,In stock (3 available),2025-09-24T12:53:06.870996
+books_toscrape,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),43.63,Sequential Art,Three,In stock (3 available),2025-09-24T12:53:07.680890
+books_toscrape,Persepolis: The Story of a Childhood (Persepolis #1-2),39.13,Sequential Art,One,In stock (3 available),2025-09-24T12:53:08.542789
+books_toscrape,Packing for Mars: The Curious Science of Life in the Void,56.68,Default,Two,In stock (3 available),2025-09-24T12:53:09.344322
+books_toscrape,Outliers: The Story of Success,14.16,Nonfiction,One,In stock (3 available),2025-09-24T12:53:10.238516
+books_toscrape,Original Fake,31.45,Sequential Art,Three,In stock (3 available),2025-09-24T12:53:11.115076
+books_toscrape,Orange Is the New Black,24.61,Default,Two,In stock (3 available),2025-09-24T12:53:11.969490
+books_toscrape,One for the Money (Stephanie Plum #1),32.87,Default,Two,In stock (3 available),2025-09-24T12:53:12.810779
+books_toscrape,Notes from a Small Island (Notes From a Small Island #1),40.17,Nonfiction,One,In stock (3 available),2025-09-24T12:53:15.720033
+books_toscrape,Night (The Night Trilogy #1),13.51,Nonfiction,One,In stock (3 available),2025-09-24T12:53:16.544769
+books_toscrape,Neither Here nor There: Travels in Europe,38.95,Travel,Three,In stock (3 available),2025-09-24T12:53:17.342963
+books_toscrape,Naked,31.69,Humor,Three,In stock (3 available),2025-09-24T12:53:18.172962
+books_toscrape,Morning Star (Red Rising #3),29.4,Default,One,In stock (3 available),2025-09-24T12:53:18.995102
+books_toscrape,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",57.83,Nonfiction,One,In stock (3 available),2025-09-24T12:53:19.811191
+books_toscrape,Midnight Riot (Peter Grant/ Rivers of London - books #1),55.46,Fantasy,Two,In stock (3 available),2025-09-24T12:53:20.685030
+books_toscrape,Me Talk Pretty One Day,57.6,Autobiography,Two,In stock (3 available),2025-09-24T12:53:21.645736
+books_toscrape,Manuscript Found in Accra,34.98,Add a comment,Two,In stock (3 available),2025-09-24T12:53:22.601237
+books_toscrape,Lust & Wonder,11.87,Autobiography,Two,In stock (3 available),2025-09-24T12:53:24.438162
+books_toscrape,Lila (Gilead #3),12.47,Fiction,Three,In stock (3 available),2025-09-24T12:53:25.338529
+books_toscrape,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,Science Fiction,Two,In stock (3 available),2025-09-24T12:53:26.290426
+books_toscrape,Life Without a Recipe,59.04,Autobiography,Five,In stock (3 available),2025-09-24T12:53:27.108535
+books_toscrape,Life After Life,26.13,Default,Two,In stock (3 available),2025-09-24T12:53:27.898119
+books_toscrape,Letter to a Christian Nation,22.2,Nonfiction,One,In stock (3 available),2025-09-24T12:53:28.717531
+books_toscrape,Let's Pretend This Never Happened: A Mostly True Memoir,45.11,Nonfiction,One,In stock (3 available),2025-09-24T12:53:29.523303
+books_toscrape,Legend (Legend #1),43.69,Young Adult,Four,In stock (3 available),2025-09-24T12:53:30.327138
+books_toscrape,"Lean In: Women, Work, and the Will to Lead",25.02,Default,One,In stock (3 available),2025-09-24T12:53:31.140220
+books_toscrape,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.5,Humor,Five,In stock (3 available),2025-09-24T12:53:31.953634
+books_toscrape,Lady Renegades (Rebel Belle #3),53.04,Young Adult,Five,In stock (3 available),2025-09-24T12:53:32.771509
+books_toscrape,Jurassic Park (Jurassic Park #1),44.97,Fiction,One,In stock (3 available),2025-09-24T12:53:35.809499
+books_toscrape,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,42.38,Nonfiction,One,In stock (3 available),2025-09-24T12:53:36.673892
+books_toscrape,Is Everyone Hanging Out Without Me? (And Other Concerns),20.11,Default,Three,In stock (3 available),2025-09-24T12:53:37.637495
+books_toscrape,Into the Wild,56.7,Nonfiction,Five,In stock (3 available),2025-09-24T12:53:38.507834
+books_toscrape,Inferno (Robert Langdon #4),41.0,Fiction,Five,In stock (3 available),2025-09-24T12:53:39.387579
+books_toscrape,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",28.85,Nonfiction,Three,In stock (3 available),2025-09-24T12:53:40.345101
+books_toscrape,If I Run (If I Run #1),49.97,Christian Fiction,Four,In stock (3 available),2025-09-24T12:53:41.165726
+books_toscrape,I've Got Your Number,19.69,Womens Fiction,One,In stock (3 available),2025-09-24T12:53:41.961115
+books_toscrape,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,28.88,Nonfiction,Two,In stock (3 available),2025-09-24T12:53:42.769110
+books_toscrape,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,33.14,Food and Drink,Three,In stock (3 available),2025-09-24T12:53:43.558575
+books_toscrape,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.7,History,Two,In stock (3 available),2025-09-24T12:53:44.348297
+books_toscrape,House of Leaves,54.89,Horror,One,In stock (3 available),2025-09-24T12:53:45.149067
+books_toscrape,Horrible Bear!,37.52,Childrens,Two,In stock (3 available),2025-09-24T12:53:45.945772
+books_toscrape,Holidays on Ice,51.07,Humor,Two,In stock (3 available),2025-09-24T12:53:46.743812
+books_toscrape,Heir to the Sky,44.07,Fantasy,Four,In stock (3 available),2025-09-24T12:53:47.552538
+books_toscrape,Green Eggs and Ham (Beginner Books B-16),10.79,Childrens,Four,In stock (3 available),2025-09-24T12:53:48.374012
+books_toscrape,"Grayson, Vol 3: Nemesis (Grayson #3)",42.72,Sequential Art,One,In stock (3 available),2025-09-24T12:53:49.189620
+books_toscrape,Gratitude,26.66,Nonfiction,Five,In stock (3 available),2025-09-24T12:53:50.058503
+books_toscrape,Gone Girl,37.6,Default,Five,In stock (3 available),2025-09-24T12:53:50.898175
+books_toscrape,Golden (Heart of Dread #3),42.21,Young Adult,Four,In stock (3 available),2025-09-24T12:53:51.754493
+books_toscrape,Girl in the Blue Coat,46.83,Historical Fiction,Two,In stock (3 available),2025-09-24T12:53:54.656599
+books_toscrape,"Fruits Basket, Vol. 3 (Fruits Basket #3)",45.17,Sequential Art,Two,In stock (3 available),2025-09-24T12:53:55.450323
+books_toscrape,"Friday Night Lights: A Town, a Team, and a Dream",51.22,Sports and Games,Three,In stock (3 available),2025-09-24T12:53:56.243172
+books_toscrape,Fire Bound (Sea Haven/Sisters of the Heart #5),21.28,Add a comment,Four,In stock (3 available),2025-09-24T12:53:57.059704
+books_toscrape,Fifty Shades Freed (Fifty Shades #3),15.36,Adult Fiction,Five,In stock (3 available),2025-09-24T12:53:57.865947
+books_toscrape,Fellside,38.62,Default,One,In stock (3 available),2025-09-24T12:53:58.660722
+books_toscrape,Extreme Prey (Lucas Davenport #26),25.4,Mystery,Three,In stock (3 available),2025-09-24T12:53:59.482205
+books_toscrape,Eragon (The Inheritance Cycle #1),43.87,Fantasy,Three,In stock (3 available),2025-09-24T12:54:00.392979
+books_toscrape,Eclipse (Twilight #3),18.74,Default,One,In stock (3 available),2025-09-24T12:54:01.246037
+books_toscrape,Dune (Dune #1),54.86,Science Fiction,One,In stock (3 available),2025-09-24T12:54:02.115970
+books_toscrape,Dracula,52.62,Default,Three,In stock (3 available),2025-09-24T12:54:02.927565
+books_toscrape,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,Science Fiction,One,In stock (3 available),2025-09-24T12:54:03.723751
+books_toscrape,Disrupted: My Misadventure in the Start-Up Bubble,15.28,Nonfiction,Five,In stock (3 available),2025-09-24T12:54:04.518580
+books_toscrape,Dead Wake: The Last Crossing of the Lusitania,39.24,Default,Five,In stock (3 available),2025-09-24T12:54:05.327541
+books_toscrape,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",17.81,Default,One,In stock (3 available),2025-09-24T12:54:06.123295
+books_toscrape,Darkfever (Fever #1),56.02,Fantasy,One,In stock (3 available),2025-09-24T12:54:06.919764
+books_toscrape,Dark Places,23.9,Default,Five,In stock (3 available),2025-09-24T12:54:07.711296
+books_toscrape,Crazy Rich Asians (Crazy Rich Asians #1),49.13,Fiction,Five,In stock (3 available),2025-09-24T12:54:08.492898
+books_toscrape,Counting Thyme,10.62,Childrens,One,In stock (3 available),2025-09-24T12:54:09.293629
+books_toscrape,Cosmos,36.17,Add a comment,Two,In stock (3 available),2025-09-24T12:54:11.620154
+books_toscrape,Civilization and Its Discontents,59.95,Psychology,Two,In stock (3 available),2025-09-24T12:54:14.628136
+books_toscrape,Cinder (The Lunar Chronicles #1),26.09,Young Adult,One,In stock (3 available),2025-09-24T12:54:15.417251
+books_toscrape,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35,Parenting,Two,In stock (3 available),2025-09-24T12:54:16.245901
+books_toscrape,Career of Evil (Cormoran Strike #3),24.72,Mystery,Two,In stock (3 available),2025-09-24T12:54:17.051490
+books_toscrape,Breaking Dawn (Twilight #4),35.28,Default,Five,In stock (3 available),2025-09-24T12:54:17.847617
+books_toscrape,Brave Enough,51.32,Nonfiction,Five,In stock (3 available),2025-09-24T12:54:18.650254
+books_toscrape,Boy Meets Boy,21.12,Young Adult,Three,In stock (3 available),2025-09-24T12:54:19.445238
+books_toscrape,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",27.35,Nonfiction,Two,In stock (3 available),2025-09-24T12:54:20.227945
+books_toscrape,Blink: The Power of Thinking Without Thinking,21.74,Nonfiction,Five,In stock (3 available),2025-09-24T12:54:21.044018
+books_toscrape,Black Flags: The Rise of ISIS,40.87,Nonfiction,One,In stock (3 available),2025-09-24T12:54:21.848111
+books_toscrape,"Black Butler, Vol. 1 (Black Butler #1)",49.31,Sequential Art,One,In stock (3 available),2025-09-24T12:54:22.648074
+books_toscrape,Big Little Lies,22.11,Fiction,One,In stock (3 available),2025-09-24T12:54:25.068319
+books_toscrape,Between Shades of Gray,20.79,Historical Fiction,Five,In stock (3 available),2025-09-24T12:54:25.888197
+books_toscrape,Best of My Love (Fool's Gold #20),27.41,Romance,Two,In stock (3 available),2025-09-24T12:54:26.778974
+books_toscrape,Beowulf,38.35,Classics,Two,In stock (3 available),2025-09-24T12:54:27.611242
+books_toscrape,Beautiful Creatures (Caster Chronicles #1),21.55,Default,Five,In stock (3 available),2025-09-24T12:54:28.457797
+books_toscrape,Awkward,38.02,Sequential Art,Two,In stock (3 available),2025-09-24T12:54:29.268377
+books_toscrape,Ash,22.06,Fantasy,Four,In stock (3 available),2025-09-24T12:54:30.074993
+books_toscrape,Are We There Yet?,10.66,Childrens,Three,In stock (3 available),2025-09-24T12:54:30.889932
+books_toscrape,Are We Smart Enough to Know How Smart Animals Are?,56.58,Nonfiction,One,In stock (3 available),2025-09-24T12:54:31.701365
+books_toscrape,Annie on My Mind,36.83,Young Adult,Five,In stock (3 available),2025-09-24T12:54:34.609696
+books_toscrape,And Then There Were None,35.01,Classics,Two,In stock (3 available),2025-09-24T12:54:35.431077
+books_toscrape,A Walk in the Woods: Rediscovering America on the Appalachian Trail,30.48,Nonfiction,Four,In stock (3 available),2025-09-24T12:54:36.234720
+books_toscrape,A Visit from the Goon Squad,14.08,Default,Five,In stock (3 available),2025-09-24T12:54:37.076358
+books_toscrape,A Storm of Swords (A Song of Ice and Fire #3),31.22,Fantasy,Two,In stock (3 available),2025-09-24T12:54:37.904244
+books_toscrape,A Heartbreaking Work of Staggering Genius,54.29,Autobiography,Five,In stock (3 available),2025-09-24T12:54:38.737886
+books_toscrape,8 Keys to Mental Health Through Exercise,31.04,Psychology,One,In stock (3 available),2025-09-24T12:54:39.624241
+books_toscrape,#GIRLBOSS,50.96,Add a comment,One,In stock (3 available),2025-09-24T12:54:40.482126
+books_toscrape,"The Suffragettes (Little Black Classics, #96)",11.89,Nonfiction,Two,In stock (2 available),2025-09-24T12:54:41.355390
+books_toscrape,The Sense of an Ending,31.38,Add a comment,Three,In stock (2 available),2025-09-24T12:54:42.332791
+books_toscrape,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",54.81,Sequential Art,One,In stock (2 available),2025-09-24T12:54:43.166005
+books_toscrape,The Course of Love,16.78,Fiction,Three,In stock (2 available),2025-09-24T12:54:43.996091
+books_toscrape,Sugar Rush (Offensive Line #2),24.42,Sports and Games,One,In stock (2 available),2025-09-24T12:54:44.803579
+books_toscrape,"Saga, Volume 2 (Saga (Collected Editions) #2)",11.75,Sequential Art,Three,In stock (2 available),2025-09-24T12:54:45.615519
+books_toscrape,"Run, Spot, Run: The Ethics of Keeping Pets",20.02,Philosophy,One,In stock (2 available),2025-09-24T12:54:46.425790
+books_toscrape,New Moon (Twilight #2),12.86,Young Adult,Four,In stock (2 available),2025-09-24T12:54:47.239835
+books_toscrape,Life,31.58,Music,Five,In stock (2 available),2025-09-24T12:54:48.056473
+books_toscrape,Kindle Paperwhite User's Guide,34.0,Nonfiction,Three,In stock (2 available),2025-09-24T12:54:48.853386
+books_toscrape,H is for Hawk,57.42,Nonfiction,Five,In stock (2 available),2025-09-24T12:54:49.679626
+books_toscrape,Girl Online On Tour (Girl Online #2),53.47,Young Adult,One,In stock (2 available),2025-09-24T12:54:50.488325
+books_toscrape,"Fruits Basket, Vol. 2 (Fruits Basket #2)",11.64,Sequential Art,Five,In stock (2 available),2025-09-24T12:54:53.457906
+books_toscrape,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),52.88,Childrens,Four,In stock (2 available),2025-09-24T12:54:54.310503
+books_toscrape,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",18.51,Sequential Art,Four,In stock (1 available),2025-09-24T12:54:55.106716
+books_toscrape,While You Were Mine,41.32,Historical Fiction,Five,In stock (1 available),2025-09-24T12:54:55.924305
+books_toscrape,Where Lightning Strikes (Bleeding Stars #3),39.77,Romance,Three,In stock (1 available),2025-09-24T12:54:56.743991
+books_toscrape,When I'm Gone,51.96,Fiction,Three,In stock (1 available),2025-09-24T12:54:57.534722
+books_toscrape,Ways of Seeing,39.51,Art,Five,In stock (1 available),2025-09-24T12:54:58.350091
+books_toscrape,"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.4,Paranormal,One,In stock (1 available),2025-09-24T12:54:59.167337
+books_toscrape,Vampire Girl (Vampire Girl #1),53.82,Fantasy,Two,In stock (1 available),2025-09-24T12:54:59.966659
+books_toscrape,Twenty Love Poems and a Song of Despair,30.95,Poetry,Four,In stock (1 available),2025-09-24T12:55:01.551099
+books_toscrape,Travels with Charley: In Search of America,57.82,Nonfiction,Five,In stock (1 available),2025-09-24T12:55:02.396909
+books_toscrape,Three Wishes (River of Time: California #1),44.18,Science Fiction,Two,In stock (1 available),2025-09-24T12:55:03.406611
+books_toscrape,This One Moment (Pushing Limits #1),48.71,Romance,One,In stock (1 available),2025-09-24T12:55:04.291324
+books_toscrape,The Zombie Room,19.69,Default,Five,In stock (1 available),2025-09-24T12:55:05.170805
+books_toscrape,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",36.52,Sequential Art,Two,In stock (1 available),2025-09-24T12:55:05.990345
+books_toscrape,The Tumor,41.56,Nonfiction,Five,In stock (1 available),2025-09-24T12:55:06.811326
+books_toscrape,The Story of Hong Gildong,43.19,Classics,Four,In stock (1 available),2025-09-24T12:55:07.614932
+books_toscrape,The Silent Wife,12.34,Fiction,Five,In stock (1 available),2025-09-24T12:55:08.442149
+books_toscrape,The Silent Twin (Detective Jennifer Knight #3),36.25,Fantasy,Three,In stock (1 available),2025-09-24T12:55:09.264688
+books_toscrape,The Selfish Gene,29.45,Science,One,In stock (1 available),2025-09-24T12:55:10.058429
+books_toscrape,The Secret Healer,34.56,Historical Fiction,Three,In stock (1 available),2025-09-24T12:55:13.120760
+books_toscrape,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",54.12,Sequential Art,Three,In stock (1 available),2025-09-24T12:55:13.928001
+books_toscrape,The Republic,33.78,Add a comment,Three,In stock (1 available),2025-09-24T12:55:14.743472
+books_toscrape,The Odyssey,29.64,Add a comment,Three,In stock (1 available),2025-09-24T12:55:15.545863
+books_toscrape,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),57.7,Mystery,Four,In stock (1 available),2025-09-24T12:55:16.425436
+books_toscrape,The Nicomachean Ethics,36.34,Philosophy,One,In stock (1 available),2025-09-24T12:55:17.303915
+books_toscrape,The Name of the Wind (The Kingkiller Chronicle #1),50.59,Default,Three,In stock (1 available),2025-09-24T12:55:18.128399
+books_toscrape,The Mirror & the Maze (The Wrath and the Dawn #1.5),29.38,Fantasy,One,In stock (1 available),2025-09-24T12:55:18.946678
+books_toscrape,The Little Prince,45.42,Classics,Two,In stock (1 available),2025-09-24T12:55:19.804731
+books_toscrape,The Light of the Fireflies,54.43,Add a comment,One,In stock (1 available),2025-09-24T12:55:20.701623
+books_toscrape,The Last Girl (The Dominion Trilogy #1),36.26,Science Fiction,Two,In stock (1 available),2025-09-24T12:55:21.497861
+books_toscrape,The Iliad,16.16,Add a comment,One,In stock (1 available),2025-09-24T12:55:22.294103
+books_toscrape,The Hook Up (Game On #1),36.29,New Adult,Five,In stock (1 available),2025-09-24T12:55:23.105999
+books_toscrape,The Haters,27.89,Young Adult,Five,In stock (1 available),2025-09-24T12:55:23.929097
+books_toscrape,The Girl You Lost,12.29,Mystery,Five,In stock (1 available),2025-09-24T12:55:24.742615
+books_toscrape,The Girl In The Ice (DCI Erika Foster #1),15.85,Mystery,Three,In stock (1 available),2025-09-24T12:55:25.541505
+books_toscrape,The End of the Jesus Era (An Investigation #1),14.4,Nonfiction,One,In stock (1 available),2025-09-24T12:55:26.391658
+books_toscrape,The Edge of Reason (Bridget Jones #2),19.18,Womens Fiction,Four,In stock (1 available),2025-09-24T12:55:27.201169
+books_toscrape,The Complete Maus (Maus #1-2),10.64,Sequential Art,Three,In stock (1 available),2025-09-24T12:55:28.011776
+books_toscrape,The Communist Manifesto,14.76,Add a comment,Three,In stock (1 available),2025-09-24T12:55:28.888975
+books_toscrape,The Bhagavad Gita,57.49,Religion,Three,In stock (1 available),2025-09-24T12:55:31.958871
+books_toscrape,The Bette Davis Club,30.66,Fiction,Three,In stock (1 available),2025-09-24T12:55:32.750294
+books_toscrape,The Art of Not Breathing,40.83,Young Adult,Four,In stock (1 available),2025-09-24T12:55:33.564115
+books_toscrape,Taking Shots (Assassins #1),18.88,Default,Two,In stock (1 available),2025-09-24T12:55:34.386176
+books_toscrape,Starlark,25.83,Historical Fiction,Three,In stock (1 available),2025-09-24T12:55:35.186110
+books_toscrape,"Skip Beat!, Vol. 01 (Skip Beat! #1)",42.12,Sequential Art,Three,In stock (1 available),2025-09-24T12:55:35.990547
+books_toscrape,Sister Sable (The Mad Queen #1),13.33,Fantasy,Three,In stock (1 available),2025-09-24T12:55:36.793764
+books_toscrape,Shatter Me (Shatter Me #1),42.4,Default,One,In stock (1 available),2025-09-24T12:55:37.614294
+books_toscrape,Shameless,58.35,New Adult,Three,In stock (1 available),2025-09-24T12:55:38.426813
+books_toscrape,Shadow Rites (Jane Yellowrock #10),21.72,Fantasy,Four,In stock (1 available),2025-09-24T12:55:39.239039
+books_toscrape,Settling the Score (The Summer Games #1),44.91,Sports and Games,Two,In stock (1 available),2025-09-24T12:55:40.029160
+books_toscrape,Sense and Sensibility,37.46,Classics,One,In stock (1 available),2025-09-24T12:55:40.891520
+books_toscrape,"Saga, Volume 1 (Saga (Collected Editions) #1)",28.48,Sequential Art,One,In stock (1 available),2025-09-24T12:55:41.701953
+books_toscrape,"Rhythm, Chord & Malykhin",28.34,Romance,Two,In stock (1 available),2025-09-24T12:55:42.582576
+books_toscrape,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",46.96,Sequential Art,Five,In stock (1 available),2025-09-24T12:55:43.445031
+books_toscrape,Paradise Lost (Paradise #1),24.96,Default,One,In stock (1 available),2025-09-24T12:55:44.336146
+books_toscrape,"Paper Girls, Vol. 1 (Paper Girls #1-5)",21.71,Sequential Art,Four,In stock (1 available),2025-09-24T12:55:45.174137
+books_toscrape,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",29.87,Sequential Art,Three,In stock (1 available),2025-09-24T12:55:45.988299
+books_toscrape,Origins (Alphas 0.5),28.99,Fantasy,One,In stock (1 available),2025-09-24T12:55:46.809340
+books_toscrape,One Second (Seven #7),52.94,Fantasy,Two,In stock (1 available),2025-09-24T12:55:47.617751
+books_toscrape,On the Road (Duluoz Legend),32.36,Default,Three,In stock (1 available),2025-09-24T12:55:50.553719
+books_toscrape,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,Music,Two,In stock (1 available),2025-09-24T12:55:53.347650
+books_toscrape,Off Sides (Off #1),39.45,New Adult,Five,In stock (1 available),2025-09-24T12:55:54.156266
+books_toscrape,Of Mice and Men,47.11,Classics,Two,In stock (1 available),2025-09-24T12:55:54.990646
+books_toscrape,Myriad (Prentor #1),58.75,Fantasy,Four,In stock (1 available),2025-09-24T12:55:55.866511
+books_toscrape,My Perfect Mistake (Over the Top #1),38.92,Romance,Two,In stock (1 available),2025-09-24T12:55:56.662273
+books_toscrape,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",39.39,Sequential Art,Four,In stock (1 available),2025-09-24T12:55:57.486928
+books_toscrape,Meditations,25.89,Philosophy,Two,In stock (1 available),2025-09-24T12:55:58.297722
+books_toscrape,Matilda,28.34,Childrens,One,In stock (1 available),2025-09-24T12:55:59.098939
+books_toscrape,Lost Among the Living,27.7,Historical Fiction,Four,In stock (1 available),2025-09-24T12:55:59.909746
+books_toscrape,Lord of the Flies,24.89,Add a comment,Three,In stock (1 available),2025-09-24T12:56:00.706246
+books_toscrape,Listen to Me (Fusion #1),58.99,Romance,Three,In stock (1 available),2025-09-24T12:56:01.503520
+books_toscrape,Kitchens of the Great Midwest,57.2,Fiction,Five,In stock (1 available),2025-09-24T12:56:02.331454
+books_toscrape,Jane Eyre,38.43,Default,Five,In stock (1 available),2025-09-24T12:56:03.144248
+books_toscrape,Imperfect Harmony,34.74,Romance,Four,In stock (1 available),2025-09-24T12:56:03.988638
+books_toscrape,Icing (Aces Hockey #2),40.44,Sports and Games,Four,In stock (1 available),2025-09-24T12:56:04.794012
+books_toscrape,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",45.24,Sequential Art,Three,In stock (1 available),2025-09-24T12:56:05.622852
+books_toscrape,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,Science Fiction,Four,In stock (1 available),2025-09-24T12:56:06.433238
+books_toscrape,"Giant Days, Vol. 1 (Giant Days #1-4)",56.76,Sequential Art,Four,In stock (1 available),2025-09-24T12:56:07.227979
+books_toscrape,"Fruits Basket, Vol. 1 (Fruits Basket #1)",40.28,Sequential Art,Five,In stock (1 available),2025-09-24T12:56:08.128524
+books_toscrape,Frankenstein,38.0,Default,Two,In stock (1 available),2025-09-24T12:56:11.039455
+books_toscrape,Forever Rockers (The Rocker #12),28.8,Music,Three,In stock (1 available),2025-09-24T12:56:11.847470
+books_toscrape,Fighting Fate (Fighting #6),39.24,Romance,Three,In stock (1 available),2025-09-24T12:56:12.658845
+books_toscrape,Emma,32.93,Classics,Two,In stock (1 available),2025-09-24T12:56:13.459763
+books_toscrape,"Eat, Pray, Love",51.32,Nonfiction,Three,In stock (1 available),2025-09-24T12:56:14.257457
+books_toscrape,Deep Under (Walker Security #1),47.09,Romance,Five,In stock (1 available),2025-09-24T12:56:15.058900
+books_toscrape,Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,Religion,Four,In stock (1 available),2025-09-24T12:56:15.869565
+books_toscrape,Charlie and the Chocolate Factory (Charlie Bucket #1),22.85,Childrens,Three,In stock (1 available),2025-09-24T12:56:16.678298
+books_toscrape,Charity's Cross (Charles Towne Belles #4),41.24,Romance,One,In stock (1 available),2025-09-24T12:56:17.542885
+books_toscrape,Bright Lines,39.07,Fiction,Five,In stock (1 available),2025-09-24T12:56:18.413836
+books_toscrape,Bridget Jones's Diary (Bridget Jones #1),29.82,Womens Fiction,One,In stock (1 available),2025-09-24T12:56:19.277965
+books_toscrape,Bounty (Colorado Mountain #7),37.26,Romance,Four,In stock (1 available),2025-09-24T12:56:20.106012
+books_toscrape,Blood Defense (Samantha Brinkman #1),20.3,Mystery,Three,In stock (1 available),2025-09-24T12:56:20.929208
+books_toscrape,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",34.65,Sequential Art,Five,In stock (1 available),2025-09-24T12:56:21.741348
+books_toscrape,Beyond Good and Evil,43.38,Philosophy,One,In stock (1 available),2025-09-24T12:56:22.579698
+books_toscrape,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,Classics,One,In stock (1 available),2025-09-24T12:56:23.371928
+books_toscrape,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",57.06,Sequential Art,Four,In stock (1 available),2025-09-24T12:56:24.184786
+books_toscrape,A Spy's Devotion (The Regency Spies of London #1),16.97,Historical Fiction,Five,In stock (1 available),2025-09-24T12:56:24.988811
+books_toscrape,1st to Die (Women's Murder Club #1),53.98,Mystery,One,In stock (1 available),2025-09-24T12:56:25.781552
+books_toscrape,"1,000 Places to See Before You Die",26.08,Travel,Five,In stock (1 available),2025-09-24T12:56:26.596493
